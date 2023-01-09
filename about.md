@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 ---
-
+Some information about me!
 
 
 ### 5 random facts about me:
