@@ -20,4 +20,4 @@ Some information about me!
 
 ### Contact me
 
-[uzun@uzundemir.github.io](mailto:uzun@uzundemir.github.io)
+[telegram](https://web.telegram.org/z/#-1824573150)#(mailto:uzun@uzundemir.github.io)
