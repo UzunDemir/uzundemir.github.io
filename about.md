@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](https://web.telegram.org/z/#-1824573150) #(mailto:email@domain.com)
