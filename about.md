@@ -9,10 +9,15 @@ Some information about me!
 ### 5 random facts about me:
 
 1. When I was a schoolboy, I really liked the subject of computer science, I attended an additional circle on this subject, won prizes at various olympiads, but ... after graduating from school, I went to study in a completely different specialty. Thus, I was far from programming for 25 years!
+
 2. Once at school, for one creative evening, it was necessary to prepare and perform a song on the guitar. I never played the guitar and had no idea about notes and so on! What did I do… I just tuned the guitar by ear, and with simple 3-4 chords (which I also invented myself) I picked up a song and successfully performed at the school evening!
+
 3. When I met my future wife, I was already thinking about how to earn money and went to a six-month accounting course ... But after studying for only one month, I got a job as a chief accountant in a small trading company. About two years later, I was independently accounting for 10 small firms. And three years later I was already working as a chief accountant at a large manufacturing enterprise with 600 employees!
+
 4. I once opened two retail stores selling toys, stationery and gifts in 2.5 months! I independently designed and assembled (with my beloved daughter Kamelia) commercial furniture, entered a huge amount of goods into the database, set up an accounting program and connected all the equipment (cash register, scanner, server, etc.) into a single network, bought and put goods in stores website launched! In fairness, I must say that this adventure brought me about $ 25,000 in losses, and I closed these stores a year later! Such a bad experience, but this is my experience and my way!
+
 5. I have been doing sports all my life. For the first time my mother brought me to the judo hall when I was 5 years old! Since then, I have been practicing almost all the time (in my school years - judo and handball, in my student years - boxing and kickboxing). Nowadays, I just keep myself in great physical shape. So, for example, about three years ago, my personal record for pulling up on the crossbar was 37 times! Now I easily pull up 25 times.
+
 ### Contact me
 
 [uzun@uzundemir.github.io](mailto:uzun@uzundemir.github.io)
