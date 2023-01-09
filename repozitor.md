@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Repozitories
-permalink: /about/
+permalink: /Repozitories/
 ---
 
 Some information about you!
