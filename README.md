@@ -1,3 +1,8 @@
+# uzundemir.github.io
+This is the source code for my  <a href="https://uzundemir.github.io">blog</a>. It's a static website powered by  <a href="https://jekyllrb.com/">Jekyll</a>  with site analytics done via plausible.io <a href="https://plausible.io/">plausible.io</a>
+(private, cookie-free and open source).
+
+
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now
