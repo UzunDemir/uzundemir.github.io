@@ -28,4 +28,4 @@ Variations of the "Hello, World!" program that produce a graphical output (as op
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Когортный анализ](https://github.com/UzunDemir/26-Cohort-analysis/blob/9f0056ecc2a84a05cfeb90e17c338e69a3a5474c/26.3%20%D0%9A%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.ipynb) on GitHub.
