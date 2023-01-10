@@ -7,7 +7,7 @@ Some information about me!
 
 ![Image alt]({{ site.baseurl }}/images/abstrakcii_08.gif)
 
-### 5 random facts about me:
+# 5 random facts about me:
 
 1. When I was a schoolboy, I really liked the subject of computer science, I attended an additional circle on this subject, won prizes at various olympiads, but ... after graduating from school, I went to study in a completely different specialty. Thus, I was far from programming for 25 years!
 
