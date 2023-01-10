@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Some information about me!
 
-![Image alt]({{ site.baseurl }}/images/abstrakcii_08.gif){width=20%}
+![Image alt]({{ site.baseurl }}/images/abstrakcii_08.gif)
 
 ### 5 random facts about me:
 
