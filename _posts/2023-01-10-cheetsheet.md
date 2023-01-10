@@ -3,4 +3,4 @@ layout: post
 title:  "Шпаргалка по Markdown"
 ---
 
-https://github.com/sandino/Markdown-Cheatsheet
+[Здесь...](https://github.com/sandino/Markdown-Cheatsheet "Да жми уже!")
