@@ -21,22 +21,29 @@ title:  "Мой клич Hello world!"
 
 
 ![Image alt]({{ site.baseurl }}/images/msg-1664452970-12.jpg)
+Сражение камня, ножниц и бумаги.
 
 
 ![Image alt]({{ site.baseurl }}/images/msg-1664452970-25.jpg)
+Мужичок с ноготок. 
+Даже если в кадре всего один палец, он будет изувечен 
 
 
 ![Image alt]({{ site.baseurl }}/images/msg-1664452970-41.jpg)
+После дождичка в четверг 
+Прям запах этот почувствовал 
 
 
 ![Image alt]({{ site.baseurl }}/images/msg-1664452970-7.jpg)
-
+И хочется и колется.
 
 ![Image alt]({{ site.baseurl }}/images/msg-1824573150-65.jpg)
+Все персонажи этой картины вымышлены, любое сходство с реальными людьми или ежами - случайность. 
+При создании картины ни одно животное не пострадало 
 
 
 ![Image alt]({{ site.baseurl }}/images/msg-1824573150-66.jpg)
-
+Зима в сердце
 
 ![Image alt]({{ site.baseurl }}/images/msg-1824573150-68.jpg)
 
