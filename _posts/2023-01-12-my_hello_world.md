@@ -14,7 +14,29 @@ title:  "Мой клич Hello world!"
 
 Я просто в восторге от того что я сегодня сделал и на радостях опубликую для вас вот такие шедевры, которые сгенерировала по моему запросу нейросеть [midjorney](https://midjourney.com/)
 
-![Image alt]([blob:https://web.telegram.org/a31f7c6d-1bd2-4cfd-866b-0ab01f30bc86](https://scontent.fkiv4-1.fna.fbcdn.net/v/t39.30808-6/321648640_1147725709447098_6362613535350545425_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=mqmxqkn8hokAX-uMlAn&_nc_ht=scontent.fkiv4-1.fna&oh=00_AfCLLhWFyoqRkG8I6JAzI8YWA2QW2XZi7yw85au36NL9kw&oe=63C65793))
+![Image alt]({{ site.baseurl }}/images/programmer.jfif)
+
+
+![Image alt]({{ site.baseurl }}/images/msg-1664452970-12.jpg)
+
+
+![Image alt]({{ site.baseurl }}/images/msg-1664452970-25.jpg)
+
+
+![Image alt]({{ site.baseurl }}/images/msg-1664452970-41.jpg)
+
+
+![Image alt]({{ site.baseurl }}/images/msg-1664452970-7.jpg)
+
+
+![Image alt]({{ site.baseurl }}/images/msg-1824573150-65.jpg)
+
+
+![Image alt]({{ site.baseurl }}/msg-1824573150-66.jpg)
+
+
+![Image alt]({{ site.baseurl }}/msg-1824573150-68.jpg)
+
 
 
 # продолжение следует... 
