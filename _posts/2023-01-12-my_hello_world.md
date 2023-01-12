@@ -14,7 +14,10 @@ title:  "Мой клич Hello world!"
 
 Я просто в восторге от того что я сегодня сделал и на радостях опубликую для вас вот такие шедевры, которые сгенерировала по моему запросу нейросеть [midjorney](https://midjourney.com/)
 
+
 ![Image alt]({{ site.baseurl }}/images/programmer.jfif)
+Айтишник в средневековье.
+Средневековый IT специалист определяет концентрацию еретиков на квадратный километр  
 
 
 ![Image alt]({{ site.baseurl }}/images/msg-1664452970-12.jpg)
@@ -32,10 +35,10 @@ title:  "Мой клич Hello world!"
 ![Image alt]({{ site.baseurl }}/images/msg-1824573150-65.jpg)
 
 
-![Image alt]({{ site.baseurl }}/msg-1824573150-66.jpg)
+![Image alt]({{ site.baseurl }}/images/msg-1824573150-66.jpg)
 
 
-![Image alt]({{ site.baseurl }}/msg-1824573150-68.jpg)
+![Image alt]({{ site.baseurl }}/images/msg-1824573150-68.jpg)
 
 
 
