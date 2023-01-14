@@ -1,11 +1,28 @@
 ---
 layout: post
-title:  "I chose the specialty Machine Learning Engineer!"
+title:  "Мой первый сайт на Flask"
 ---
-Why? Because Machine Learning is the future! Now in the IT world there is a lot of work, and it does not stop. But Machine Learning is not only the future, but also the present. I love to learn and develop, so Machine Learning is interesting to me. If you also love to learn, want to develop and create, then Machine Learning is for you! I really want Machine Learning to become the number one profession in the world. And I want to be a part of it.
+Выполнив все по шагам согласно этого урока я смог опубликовать свой первый сайт на Flask. Конечно же во всем еще надо будет разбираться и более тщательно изучить эти инструменты, но все же кое что сделано. 
 
-# Why? 
+# Какие возникли трудности? 
 
-Yes, because it's just interesting. I have two motives: 1. I believe that Machine Learning is one of the most promising areas of IT and 2. I have the opportunity to get good money working in this area. How did I come to this choice? It all started with the fact that a few years ago, I came across an article about training neural networks. I could not tear myself away, and I wanted to study this area. It was just what was needed.
+Очень много потратил времени на создание виртуального окружения для проекта через командную строку!
 
-I chose the specialty Machine Learning Engineer! What does this mean? Here's the thing: Machine learning is the science and practice of teaching computers by example. It allows the computer to learn from experience without human assistance. To do this, algorithms are used that allow the computer to find patterns in the data.
+Я начал делать все по уроку
+
+mkdir flask_project
+cd flask_project
+mkdir .venv
+pipenv shell
+
+Но никак не получалось выполнить pipenv shell
+
+Читал и документацию, попробовал старый добрый  venv: python -m venv, но ничего не помогало. Почитав, по разным ресурсам, выяснил, что дело, возможно в том, что у меня по умолчанию установлен пайтон 3.11, который еще нестабилен. Имею еще версии 3.10, 3.9 (из которых, 3.9 только считается уже проверенным). Но как перключать (и можно ли) версию пайтона в командной строке, я не знаю. 
+
+Пришлось открыть PyCharm и так организовать виртуальное окружение, а дальше все пошло быстро.
+
+И вот, полюбуйтесь на [результат!](https://uzundemir.github.io/step4/)
+
+
+
+
