@@ -35,3 +35,4 @@ title:  "Мои  ссылки"
 
 [Matplotlib Quick start guide](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
 
+[GFPGAN: Practical Face Restoration Algorithm](https://huggingface.co/spaces/akhaliq/GFPGAN)
