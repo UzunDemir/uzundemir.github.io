@@ -29,3 +29,7 @@ title:  "Мои  ссылки"
 
 [пример работы Skillbox](https://drive.google.com/file/d/1J55kOg_XjqQM5y9KWjABEIzJ5enYml9x/view?usp=share_link)
 
+[class sklearn.preprocessing.StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
+
+[Scatter plots with a legend](https://matplotlib.org/stable/gallery/lines_bars_and_markers/scatter_with_legend.html#sphx-glr-gallery-lines-bars-and-markers-scatter-with-legend-py)
+
