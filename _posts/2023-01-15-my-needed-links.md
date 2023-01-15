@@ -6,7 +6,7 @@ title:  "Мои  ссылки"
 
 Как все выглядело:
 
-![Image alt]({{ site.baseurl }}/my_p.jpg)
+![Image alt]({{ site.baseurl }}//images/my_p.jpg)
 
 
 Поэтому, я для начала перенес сюда кое что из открытых окон.
