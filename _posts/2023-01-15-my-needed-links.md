@@ -8,7 +8,7 @@ title:  "Мои  ссылки"
 ![Image alt]({{ site.baseurl }}/my_page.png)
 
 
-Поэтому, здесь все, что я нахожу полезным.
+Поэтому, я для начала перенес сюда кое что из открытых окон.
 
 [How to get API ID & API HASH of a Telegram Account No Errors By Bemro](https://www.youtube.com/watch?v=8naENmP3rg4) 
 
