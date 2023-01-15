@@ -2,7 +2,7 @@
 layout: post
 title:  "Мои  ссылки"
 ---
-Здесь я собираю интересный материал, который был мне интересен в процессе моего обучения в сфере информационных технологий. Да, именно так "в сфере информационных технологий". Я начал изучать профессию Machine Learning Engineer. Но, попутно обнаружилось, что нужно знать многое и из других сфер IT. Да, и вообще, не помешало бы навести порядок в своих открытых окнах!
+Здесь я собираю интересный материал, который был мне интересен в процессе моего обучения в сфере информационных технологий. Да, именно так "в сфере информационных технологий". Я начал изучать профессию Machine Learning Engineer. Но, попутно обнаружилось, что неплохо было бы разбираться и в другом. Да, и вообще, не помешало бы навести порядок в своих открытых окнах!
 
 Как все выглядело:
 
@@ -30,6 +30,22 @@ title:  "Мои  ссылки"
 [пример работы Skillbox](https://drive.google.com/file/d/1J55kOg_XjqQM5y9KWjABEIzJ5enYml9x/view?usp=share_link)
 
 [class sklearn.preprocessing.StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
+
+[sklearn.linear_model.LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+
+[Делаем самостоятельную работу.](https://yudaevmk.tilda.ws/mk2ls0315?id=79449357&key=3q51p&ld=m)
+
+[Как работать с Figma. Сочный дизайн сайта и презентации.](https://yudaevmk.tilda.ws/mk2ls0156?id=79449357&key=1b46h&ld=m)
+
+[Материалы для уроков по фигме](https://drive.google.com/drive/folders/1w9GuNEXWYb8XZYMvdrlvlY765SSArRFW)
+
+[работа с git через консоль](https://htmlacademy.ru/blog/articles/git-console)
+
+[Python: замена значений выбросов медианными значениями](https://overcoder.net/q/1574412/python-%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B2%D1%8B%D0%B1%D1%80%D0%BE%D1%81%D0%BE%D0%B2-%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8)
+
+[Как написать оператор if-thane-else, как Python One-Liner?](https://pythobyte.com/if-then-else-in-one-line-python-960d7236/)
+
+
 
 [Scatter plots with a legend](https://matplotlib.org/stable/gallery/lines_bars_and_markers/scatter_with_legend.html#sphx-glr-gallery-lines-bars-and-markers-scatter-with-legend-py)
 
