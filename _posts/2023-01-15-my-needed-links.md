@@ -33,3 +33,5 @@ title:  "Мои  ссылки"
 
 [Scatter plots with a legend](https://matplotlib.org/stable/gallery/lines_bars_and_markers/scatter_with_legend.html#sphx-glr-gallery-lines-bars-and-markers-scatter-with-legend-py)
 
+[Matplotlib Quick start guide](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
+
