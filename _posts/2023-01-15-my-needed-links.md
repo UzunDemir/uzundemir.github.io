@@ -51,3 +51,15 @@ title:  "Мои  ссылки"
 [Matplotlib Quick start guide](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
 
 [GFPGAN: Practical Face Restoration Algorithm](https://huggingface.co/spaces/akhaliq/GFPGAN)
+
+[Pandas – Заменa значения в столбце на основе условия](https://pythobyte.com/pandas-dataframe-replace-values-in-column-based-on-condition-be51b498/)
+
+[Python для анализа данных](https://mipt-stats.gitlab.io/courses/python/08_pandas1.html)
+
+[Укажите правильные dtypes для pandas.read_csv для datetime и логических значений](https://overcoder.net/q/301278/%D1%83%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-dtypes-%D0%B4%D0%BB%D1%8F-pandasreadcsv-%D0%B4%D0%BB%D1%8F-datetime-%D0%B8-%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B9)
+
+[Matplotlib Скрипичный сюжет – Учебник и примеры](https://pythobyte.com/matplotlib-violin-plot-tutorial-and-examples-71f888bd/)
+
+[Я программист. Как нужно вести соцсети, чтобы мне предложили работу ведущие компании?](https://rb.ru/opinion/programmist-socseti/)
+
+
