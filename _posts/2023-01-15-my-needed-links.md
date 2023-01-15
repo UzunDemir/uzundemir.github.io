@@ -123,3 +123,43 @@ title:  "Мои  ссылки"
 [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/)
 
 [Feature Platform for Real-Time Machine Learning](https://www.tecton.ai/)
+
+[Accelerate Development And Delivery Of Your Machine Learning Projects With A Comprehensive Feature Platform](https://www.themachinelearningpodcast.com/tecton-machine-learning-feature-platform-episode-6/)
+
+[Создаём сайт на Django, используя хорошие практики. Часть 1: создаём проект](https://pythonworld.ru/web/django-project-with-best-practices-1.html)
+
+[«От мужчин одно b2b». Мы пытаемся сделать пивот](https://libolibo.libsyn.com/-b2b)
+
+[pickle — Python object serialization](https://docs.python.org/3/library/pickle.html)
+
+[https://tylervigen.com/spurious-correlations](https://tylervigen.com/spurious-correlations)
+
+[Что такое когортный анализ?](https://habr.com/ru/company/productstar/blog/509410/)
+
+[https://www.youtube.com/watch?v=2Xjgja_IYdQ](https://www.youtube.com/watch?v=2Xjgja_IYdQ)
+
+[https://my.creatium.io/160248#](https://my.creatium.io/160248#)
+
+[https://uzun.creatium.site/](https://uzun.creatium.site/)
+
+[https://uzunvitt.wixsite.com/uzun/blog](https://uzunvitt.wixsite.com/uzun/blog)
+
+[Копирование датафрейма Pandas. Зачем нужна опция deep?](https://github.com/UzunDemir/uzundemir.github.io/edit/master/_posts/2023-01-15-my-needed-links.md)
+
+[Как из Pandas Dataframe удалить столбец?](https://www.excelguide.ru/2021/09/pandas-drop-column.html)
+
+[Как из Pandas Dataframe удалить строку?](https://www.excelguide.ru/2021/09/drop-row-pandas.html)
+
+[Логистическая регрессия в Python](https://ru.stackoverflow.com/questions/1148897/%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B2-python)
+
+[https://lyrsense.com/alexandra_doris_nefedov/zigeunerjunge](https://lyrsense.com/alexandra_doris_nefedov/zigeunerjunge)
+
+[https://www.feldroy.com/about-us](https://www.feldroy.com/about-us)
+
+[15 причин, почему ты всё ещё джун](https://habr.com/ru/post/706122/)
+
+
+
+
+
+
