@@ -86,4 +86,40 @@ title:  "Мои  ссылки"
 
 [Выбор нескольких столбцов в кадре данных pandas](https://overcoder.net/q/3403/%D0%B2%D1%8B%D0%B1%D0%BE%D1%80-%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%B8%D1%85-%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D1%86%D0%BE%D0%B2-%D0%B2-%D0%BA%D0%B0%D0%B4%D1%80%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-pandas)
 
+[Как получить последние N строк фрейма данных pandas?](https://questu.ru/questions/14663004/)
 
+[Использование редакторов формул в режиме онлайн](https://lumpics.ru/formula-editor-online/)
+
+[10 ресурсов с бесплатными изображениями для вашего event-маркетинга](https://event.ru/instruments/10-resursov-s-besplatnyimi-izobrazheniyami-dlya-vashego-event-marketinga/)
+
+[Машинное обучение доступным языком](https://www.helenkapatsa.ru/)
+
+[Explore Creators on Ghost.](https://ghost.org/)
+
+[Minmax нормализация на скользящем окне](https://ru.stackoverflow.com/questions/1164748/minmax-%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BD%D0%B0-%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B5%D0%BC-%D0%BE%D0%BA%D0%BD%D0%B5)
+
+[sklearn.preprocessing.MinMaxScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html)
+
+[https://www.datarobot.com/](https://www.datarobot.com/)
+
+[pandas Типы данных](https://learntutorials.net/ru/pandas/topic/2959/%D1%82%D0%B8%D0%BF%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85#:~:text=%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D1%82%D0%B8%D0%BF%D0%BE%D0%B2%20%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D1%86%D0%BE%D0%B2,dtypes%20atrribute%20%D0%B8%D0%B7%20DataFrames.&text=%D0%94%D0%BB%D1%8F%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9%20%D1%81%D0%B5%D1%80%D0%B8%D0%B8%20%D0%B2%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%B5%D1%82%D0%B5,dtype%20.)
+
+[Pandas Drop ()](https://pythobyte.com/pandas-drop-columns-rows-78f3f567/#:~:text=%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F%20Syntax%20PandaS%20()%20Pandas,%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BB%D1%8F%D0%B5%D1%82%20%D1%83%D0%B4%D0%B0%D0%BB%D1%8F%D1%82%D1%8C%20%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D1%86%D1%8B%20%D0%B8%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8.)
+
+[Набор формул в Jupyter Notebook с помощью LaTeX](https://www.youtube.com/watch?v=vSc25kdgecg)
+
+[Как получить P-value с помощью Python?](https://ru.stackoverflow.com/questions/643654/%D0%9A%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-p-value-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-python)
+
+[scipy.stats.ttest_ind](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
+
+[Посчитать количество значений в столбце датафрейма](https://ru.stackoverflow.com/questions/1269270/%D0%9F%D0%BE%D1%81%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C-%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B2-%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D1%86%D0%B5-%D0%B4%D0%B0%D1%82%D0%B0%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B0)
+
+[Самый полный стартовый гайд по ботам Telegram (python)](https://habr.com/ru/post/697052/)
+
+[GUI Генератор паролей на Python](https://habr.com/ru/post/689536/)
+
+[https://itproger.com/course/python](https://itproger.com/course/python)
+
+[R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/)
+
+[Feature Platform for Real-Time Machine Learning](https://www.tecton.ai/)
