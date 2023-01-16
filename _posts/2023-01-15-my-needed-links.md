@@ -158,7 +158,7 @@ title:  "Мои  ссылки"
 
 [15 причин, почему ты всё ещё джун](https://habr.com/ru/post/706122/)
 
-
+[Расширение, позволяющее делать сворачиваемые разделы для Jupiter Notebooks ](https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator)
 
 
 
