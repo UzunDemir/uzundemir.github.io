@@ -160,6 +160,8 @@ title:  "Мои  ссылки"
 
 [Расширение, позволяющее делать сворачиваемые разделы для Jupiter Notebooks ](https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator)
 
+[Установка nbeextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html)
+
 
 
 
