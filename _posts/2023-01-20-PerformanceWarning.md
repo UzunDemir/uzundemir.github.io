@@ -13,7 +13,8 @@ title:  "Как избавиться от PerformanceWarning?"
 
 Предупреждение возникает при возможном влиянии на производительность.
 
-[Источник](https://github.com/pandas-dev/pandas/blob/v1.5.3/pandas/errors/__init__.py#L31-L34)
+*[Источник](https://github.com/pandas-dev/pandas/blob/v1.5.3/pandas/errors/__init__.py#L31-L34)*
+
 
 Устраняется это вот таким методом, который описан [здесь.](https://stackoverflow.com/questions/51521526/python-pandas-how-to-supress-performancewarning)
 
