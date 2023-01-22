@@ -6,7 +6,7 @@ title:  "Как бороться с SettingWithCopyWarning в Pandas?"
 
 Как все выглядело:
 
-![Image alt]({{ site.baseurl }}//images/screenshot 22_01_23_1)
+![Image alt]({{ site.baseurl }}//images/screenshot 22_01_23_1.png)
 
 
 Что это означает и как от этого избавится?
