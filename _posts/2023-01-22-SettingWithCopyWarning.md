@@ -14,7 +14,7 @@ title:  "Как бороться с SettingWithCopyWarning в Pandas?"
 Был создан SettingWithCopyWarning, чтобы помечать потенциально запутанные «цепочечные» назначения, такие как следующие, 
 которые не всегда работают должным образом, особенно когда первый выбор возвращает копию.
 
-*[ИЗдесь дается объяснение происходящего](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy)*
+*[Здесь](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy) дается объяснение происходящегo*
 
 
 Устраняется это вот таким методом, который описан [здесь.](https://stackoverflow.com/questions/20625582/how-to-deal-with-settingwithcopywarning-in-pandas)
