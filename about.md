@@ -7,6 +7,8 @@ Some information about me!
 
 ![Image alt]({{ site.baseurl }}/images/abstrakcii_08.gif)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzunDemir&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UzunDemir&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UzunDemir&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UzunDemir&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UzunDemir&theme=github_dark)
 
 ## 5 random facts about me:
 
