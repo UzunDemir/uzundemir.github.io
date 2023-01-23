@@ -6,6 +6,7 @@ permalink: /about/
 Some information about me!
 
 ![Image alt]({{ site.baseurl }}/images/abstrakcii_08.gif)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzunDemir&theme=github_dark)
 
 ## 5 random facts about me:
 
