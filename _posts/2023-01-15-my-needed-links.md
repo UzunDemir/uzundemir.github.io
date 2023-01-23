@@ -169,3 +169,5 @@ title:  "Мои  ссылки"
 [Python NumPy](https://www.gormanalysis.com/blog/python-numpy-for-your-grandma-2-1-numpy-array-motivation/)
 
 [Python Pandas – How to supress PerformanceWarning?](https://stackoverflow.com/questions/51521526/python-pandas-how-to-supress-performancewarning)
+
+[Прикольный сайт](https://www.akoode.com/#Section-1)
