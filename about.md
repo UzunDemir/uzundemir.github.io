@@ -27,6 +27,7 @@ I myself filmed and edited advertising [clips](https://www.youtube.com/watch?v=Z
 
 5. I have been doing sports all my life. For the first time my mother brought me to the judo hall when I was 5 years old! Since then, I have been practicing almost all the time (in my school years - judo and handball, in my student years - boxing and kickboxing). Nowadays, I just keep myself in great physical shape. So, for example, about three years ago, my personal record for pulling up on the crossbar was 37 times! Now I easily pull up 25 times.
 
-### Contact me
+### Contact me ![](https://komarev.com/ghpvc/?username=UzunDemir&style=flat-square)
+
 
 [telegram](https://web.telegram.org/z/#-1824573150)
