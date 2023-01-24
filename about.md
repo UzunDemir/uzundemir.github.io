@@ -7,6 +7,7 @@ permalink: /about/
 
 
 Some information about me! 
+
 ![](https://komarev.com/ghpvc/?username=UzunDemir&style=flat-square)
 
 
