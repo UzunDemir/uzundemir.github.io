@@ -8,7 +8,7 @@ permalink: /about/
 
 Some information about me! 
 
-![](https://komarev.com/ghpvc/?username=UzunDemir&style=flat-square)
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzunDemir&theme=github_dark)
