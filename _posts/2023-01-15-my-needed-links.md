@@ -171,3 +171,5 @@ title:  "Мои  ссылки"
 [Python Pandas – How to supress PerformanceWarning?](https://stackoverflow.com/questions/51521526/python-pandas-how-to-supress-performancewarning)
 
 [Прикольный сайт](https://www.akoode.com/#Section-1)
+
+[Чем отличаются list, tuple и set? Зачем они нужны?](https://dvmn.org/encyclopedia/qna/11/chem-otlichajutsja-list-tuple-i-set-zachem-oni-nuzhny/)
