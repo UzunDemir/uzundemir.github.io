@@ -178,4 +178,4 @@ title:  "Мои  ссылки"
 
 [17 убойных репозиториев GitHub](https://habr.com/ru/company/otus/blog/675668/)
 
-[результат!](https://uzundemir.github.io/gaga)
+[Еще один мой шаблончик gaga!](https://uzundemir.github.io/gaga)
