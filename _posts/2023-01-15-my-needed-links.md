@@ -182,4 +182,4 @@ title:  "Мои  ссылки"
 
 [Странный мир Python, используемого крупными инвестиционными банками](https://habr.com/ru/post/595205/)
 
-Как вам такая страничка! [gaga.uz](https://uzundemir.github.io/financial-spaces-bot)
+Как вам такая страничка! [financial-spaces-bot](https://uzundemir.github.io/financial-spaces-bot)
