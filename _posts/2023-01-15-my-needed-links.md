@@ -182,4 +182,6 @@ title:  "Мои  ссылки"
 
 [Странный мир Python, используемого крупными инвестиционными банками](https://habr.com/ru/post/595205/)
 
+[12 ресурсов с искусственным интеллектом](https://endasheridan.medium.com/12-ai-websites-that-will-blow-your-mind-5f3755e9504a) 
+
 
