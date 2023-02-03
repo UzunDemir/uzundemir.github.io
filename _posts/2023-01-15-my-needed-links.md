@@ -184,4 +184,6 @@ title:  "Мои  ссылки"
 
 [12 ресурсов с искусственным интеллектом](https://endasheridan.medium.com/12-ai-websites-that-will-blow-your-mind-5f3755e9504a) 
 
+[Грузи даты красиво](https://newtechaudit.ru/gruzi-daty-krasivo/)
+
 
