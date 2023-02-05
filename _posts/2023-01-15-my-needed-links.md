@@ -188,6 +188,7 @@ title:  "Мои  ссылки"
 
 [Как строить красивые графики на Python с Seaborn](https://habr.com/ru/company/otus/blog/540526/)
 
+[Seaborn для визуализации данных в Python](https://pythonru.com/biblioteki/seaborn-plot)
 
 
 
