@@ -190,5 +190,7 @@ title:  "Мои  ссылки"
 
 [Seaborn для визуализации данных в Python](https://pythonru.com/biblioteki/seaborn-plot)
 
+[Как рисовать диаграммы в Seaborn](https://habr.com/ru/company/skillfactory/blog/664756/)
+
 
 
