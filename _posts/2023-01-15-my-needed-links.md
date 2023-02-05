@@ -186,4 +186,8 @@ title:  "Мои  ссылки"
 
 [Грузи даты красиво](https://newtechaudit.ru/gruzi-daty-krasivo/)
 
+[Как строить красивые графики на Python с Seaborn](https://habr.com/ru/company/otus/blog/540526/)
+
+
+
 
