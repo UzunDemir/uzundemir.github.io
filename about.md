@@ -32,4 +32,4 @@ I myself filmed and edited advertising [clips](https://www.youtube.com/watch?v=Z
 
 [telegram](https://web.telegram.org/z/#-1824573150)
 
-[Возврат на главную страницу]("https://uzundemir.github.io"Возврат на главную страницу)
+[Возврат на главную страницу](https://uzundemir.github.io)
