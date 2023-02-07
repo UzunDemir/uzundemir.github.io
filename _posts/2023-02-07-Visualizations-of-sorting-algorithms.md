@@ -16,5 +16,5 @@ Heapsort — алгоритм, в основе которого лежит ср�
 
 ![Image alt]({{ site.baseurl }}//images/Heap-Sort.gif)
 
-Большн визуализаций алгоритмов сортировок - [здесь.](https://tproger.ru/digest/sorting-algorithms-visualized/)
+Больше визуализаций алгоритмов сортировок - [здесь.](https://tproger.ru/digest/sorting-algorithms-visualized/)
 
