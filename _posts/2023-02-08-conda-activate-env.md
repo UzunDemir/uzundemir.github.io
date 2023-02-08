@@ -27,9 +27,11 @@ title:  "Как быстро поменять окружение в conda"
 
 Решил проблему так:
 
-Заходим в Anaconda Navigator и в Applications меняем галочку с Base на нужное окружение. После этого заходим на Anaconda Power Promt и активируем *conda activate*
+Заходим в Anaconda Navigator и в Applications меняем галочку с Base на нужное окружение. 
 
 ![Image alt]({{ site.baseurl }}//images/conda1.png)
+
+После этого заходим на Anaconda Power Promt и активируем *conda activate*
 
 После этого *conda activate loan_service* переключила нужное окружение. 
 
