@@ -33,6 +33,8 @@ title:  "Как быстро поменять окружение в conda"
 
 После этого заходим на Anaconda Power Promt и активируем *conda activate*
 
+Если вы будете находиться в окружении 'base' то нужно будет его деактивировать *conda deactivate*
+
 После этого *conda activate loan_service* переключила нужное окружение. 
 
 ![Image alt]({{ site.baseurl }}//images/conda3.png)
