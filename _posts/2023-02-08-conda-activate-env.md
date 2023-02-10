@@ -3,7 +3,6 @@ layout: post
 title:  "Как быстро поменять окружение в conda"
 ---
 
-*[Инструкция по Anaconda & Conda. Как управлять и настроить среду для Python?](https://python.ivan-shamaev.ru/guide-conda-environments-anaconda-python-data-science-platform/)*
 
 Выполняя практическое задание по созданию API для обученной модели, я столкнулся с одной проблемой.
 
@@ -45,5 +44,5 @@ GitBush тоже, кстати после этого стал реагирова
 
 ![Image alt]({{ site.baseurl }}//images/conda2.png)
 
-
+*[Инструкция по Anaconda & Conda. Как управлять и настроить среду для Python?](https://python.ivan-shamaev.ru/guide-conda-environments-anaconda-python-data-science-platform/)*
 
