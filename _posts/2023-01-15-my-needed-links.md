@@ -144,6 +144,8 @@ title:  "Мои  ссылки"
 
 [https://uzunvitt.wixsite.com/uzun/blog](https://uzunvitt.wixsite.com/uzun/blog)
 
+[10 вещей, которые вы могли не знать о scikit-learn](https://habr.com/ru/company/plarium/blog/512332/)
+
 [Копирование датафрейма Pandas. Зачем нужна опция deep?](https://github.com/UzunDemir/uzundemir.github.io/edit/master/_posts/2023-01-15-my-needed-links.md)
 
 [Как из Pandas Dataframe удалить столбец?](https://www.excelguide.ru/2021/09/pandas-drop-column.html)
