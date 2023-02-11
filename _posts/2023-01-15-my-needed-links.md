@@ -194,5 +194,5 @@ title:  "Мои  ссылки"
 
 [Как рисовать диаграммы в Seaborn](https://habr.com/ru/company/skillfactory/blog/664756/)
 
-
+[10 вещей, которые вы могли не знать о scikit-learn](https://habr.com/ru/company/plarium/blog/512332/)
 
