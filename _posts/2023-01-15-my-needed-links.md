@@ -196,3 +196,4 @@ title:  "Мои  ссылки"
 
 [10 вещей, которые вы могли не знать о scikit-learn](https://habr.com/ru/company/plarium/blog/512332/)
 
+[Знакомство с FastAPI](https://pythonru.com/biblioteki/znakomstvo-s-fastapi)
