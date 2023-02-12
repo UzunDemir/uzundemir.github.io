@@ -205,3 +205,5 @@ title:  "Мои  ссылки"
 [Python запускает другой скрипт Python](https://www.delftstack.com/ru/howto/python/python-run-another-python-script/)
 
 [Using Pydantic](https://docs.pydantic.dev/)
+
+[Pandas DataFrame sample() Method](https://www.w3schools.com/python/pandas/ref_df_sample.asp#:~:text=The%20sample()%20method%20returns,a%20number%20is%20not%20specified.&text=Note%3A%20The%20column%20names%20will,addition%20to%20the%20sample%20rows.) *
