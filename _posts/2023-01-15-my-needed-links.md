@@ -209,3 +209,5 @@ title:  "Мои  ссылки"
 [Pandas DataFrame sample() Method](https://www.w3schools.com/python/pandas/ref_df_sample.asp#:~:text=The%20sample()%20method%20returns,a%20number%20is%20not%20specified.&text=Note%3A%20The%20column%20names%20will,addition%20to%20the%20sample%20rows.) *(нарезка датафрейма на семплы)*
 
 [Развертывание моделей машинного обучения как API с использованием FastAPI](https://progler.ru/blog/razvertyvanie-modeley-mashinnogo-obucheniya-kak-api-s-ispolzovaniem-fastapi)
+
+[Copy files/folders between a container and the local filesystem](https://docs.docker.com/engine/reference/commandline/cp/)
