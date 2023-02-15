@@ -211,3 +211,5 @@ title:  "Мои  ссылки"
 [Развертывание моделей машинного обучения как API с использованием FastAPI](https://progler.ru/blog/razvertyvanie-modeley-mashinnogo-obucheniya-kak-api-s-ispolzovaniem-fastapi)
 
 [Copy files/folders between a container and the local filesystem](https://docs.docker.com/engine/reference/commandline/cp/)
+
+[Как задать путь к файлу в Python?](https://webtort.ru/%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D1%8C-%D0%BF%D1%83%D1%82%D1%8C-%D0%BA-%D1%84%D0%B0%D0%B9%D0%BB%D1%83-%D0%B2-python/)
