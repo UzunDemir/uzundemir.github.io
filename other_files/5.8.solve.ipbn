@@ -1,0 +1,882 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/UzunDemir/uzundemir.github.io/blob/master/5_8_%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "DQMbBvBmCHHB"
+      },
+      "source": [
+        "# Переменные и типы данных. Практическое задание\n",
+        "\n",
+        "### Цель задания\n",
+        "Закрепить пройденный материал о переменных, типах данных и булевых значениях.\n",
+        "\n",
+        "###Что нужно сделать\n",
+        "Выполните предложенные ниже задачи.\n",
+        "\n",
+        "###Критерии самопроверки\n",
+        "Для каждой задачи:\n",
+        "* Программа выполняет все описанные в задаче действия.\n",
+        "* Результаты вычислений и применённых операций корректны.\n",
+        "* Вывод производится в том виде, который описан в задаче.\n",
+        "* Переменные имеют информативные названия."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Задача 1"
+      ],
+      "metadata": {
+        "id": "uRPMFaeEdI9c"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "xC9zfQx09hse"
+      },
+      "source": [
+        "В ячейке ниже вы видите пять переменных. Составьте из них осмысленную фразу и выведите на печать, используя конкатенацию."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "GmQrnEUIJjF0"
+      },
+      "source": [
+        "**Дано**"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "cCEfQugTJfJ4"
+      },
+      "source": [
+        "# Переменные\n",
+        "inf = \"греться \"\n",
+        "noun = \"змеи \"\n",
+        "obj = \"солнце \"\n",
+        "prep = \"на \"\n",
+        "verb = \"любят \""
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "aUhtj_ixJgXv"
+      },
+      "source": [
+        "# Выведите на печать фразу"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "xr3EtquuJlL4"
+      },
+      "source": [
+        "**Решение**"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "_Er7M5A6BOW5"
+      },
+      "source": [
+        "# Переменные\n",
+        "inf = \"греться \"\n",
+        "noun = \"змеи \"\n",
+        "obj = \"солнце \"\n",
+        "prep = \"на \"\n",
+        "verb = \"любят \""
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "ZRye7O1zBTxI",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "63d072ab-de9f-4c9a-cb04-507664aee0cf"
+      },
+      "source": [
+        "# Выведите на печать фразу\n",
+        "print(noun + verb + inf + prep + obj)"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "змеи любят греться на солнце \n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "Ix8MG1SDGJMQ"
+      },
+      "source": [
+        "**Что важно**\n",
+        "- Порядок переменных в выводе может быть любым, в русском всё-таки не жёсткий порядок слов. Единственное - предлог *на* должен идти перед существительным *солнце*.\n",
+        "- В print() должна использоваться именно конкатенация - слова перечислены через +, не через запятую.\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Задача 2"
+      ],
+      "metadata": {
+        "id": "9wStnUf4dR-U"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "E9GwwHEaCz4f"
+      },
+      "source": [
+        "Вы проехали на такси 15,5 километра и заплатили за поездку 520 рублей. Сохраните данные в переменные и посчитайте, сколько стоил километр вашей поездки. Выведите стоимость километра поездки на экран.\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "hhJGUTjwJqGr"
+      },
+      "source": [
+        "**Дано**"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "6YaK82-6Jrh6"
+      },
+      "source": [
+        "# Переменные\n",
+        "distance = \n",
+        "\n",
+        "\n",
+        "\n",
+        "# Расчёт стоимости на километр\n",
+        "\n",
+        "# Вывод на экран\n",
+        "\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "i6K-PYJ6KIb3"
+      },
+      "source": [
+        "**Решение**"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "8SZO6KwpHx7v",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "4562a75b-1a65-4ba0-e6d6-2f2e3261a2bb"
+      },
+      "source": [
+        "# Переменные\n",
+        "distance = 15.5\n",
+        "price = 520\n",
+        "\n",
+        "# Расчет стоимости на километр\n",
+        "km = price / distance\n",
+        "\n",
+        "# Вывод на экран\n",
+        "print(km)\n"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "33.54838709677419\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "bK79v4fzHVIX"
+      },
+      "source": [
+        "**Что важно**\n",
+        "- Есть переменные для цены поездки и стоимости километра.\n",
+        "- Для расчета стоимости на километр используются переменные, не значения.\n",
+        "- Стоимость километра поездки выводится на экран.\n",
+        "- Названия переменных осмысленные."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Задача 3"
+      ],
+      "metadata": {
+        "id": "V3yntSxAdlQG"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "xXP2rrn8IOQw"
+      },
+      "source": [
+        "В ячейке ниже есть несколько переменных. Проверьте, относятся ли они к типу данных «строка». Выведите для каждого результат проверки на экран.\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "tr7FrlnHKU11"
+      },
+      "source": [
+        "**Дано**"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "XaqILybNGQi5"
+      },
+      "source": [
+        "# Переменные для проверки\n",
+        "age = 1006\n",
+        "town = 'Торжок'\n",
+        "beautiful = True\n",
+        "\n",
+        "# Проверяем и выводим результат\n",
+        "print('Переменная age является строкой', )\n",
+        "\n",
+        "\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "wEWzCgLqKWhO"
+      },
+      "source": [
+        "**Решение**"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "PfLNrIgxKYUW",
+        "outputId": "22677793-3124-415d-ebe3-e26f2806fb33"
+      },
+      "source": [
+        "# Переменные для проверки\n",
+        "age = 1006\n",
+        "town = 'Торжок'\n",
+        "beautiful = True\n",
+        "\n",
+        "# Проверяем и выводим результат\n",
+        "print('Переменная age является строкой', isinstance(age, str))\n",
+        "print('Переменная town является строкой', isinstance(town, str))\n",
+        "print('Переменная beautiful является строкой', isinstance(beautiful, str))"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Переменная age является строкой False\n",
+            "Переменная town является строкой True\n",
+            "Переменная beautiful является строкой False\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "FctfjX1QIdvB"
+      },
+      "source": [
+        "**Что важно**\n",
+        "- На выводе мы видим проверку для всех трех переменных и результат для каждой из них в виде True или False."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Задача 4"
+      ],
+      "metadata": {
+        "id": "9tjvqNf7dwQo"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "j_D8Y5U6GUHp"
+      },
+      "source": [
+        "Посмотрите вокруг. Наверное, вы сидите в помещении (если нет, представьте любое знакомое помещение). Как вы думаете, его площадь больше 15 квадратных метров или меньше? Напишите программу, которая будет сравнивать площадь этого помещения с 15 квадратными метрами. Ширину и длину программа должна запрашивать на ввод с экрана. В итоге программа должна выводить на экран вопрос «Ваша комната больше 15 квадратных метров?» и сама же отвечать на него `True` или `False`.\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "hZIVbusDLY1_"
+      },
+      "source": [
+        "**Дано**"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "eQNLpxGPLX-w"
+      },
+      "source": [
+        "# Начинаем с ввода данных с экрана, которые сохраняем в переменные. Помните про тип данных!\n",
+        "\n",
+        "width = \n",
+        "\n",
+        "\n",
+        "\n",
+        "# Вычисляем площадь\n",
+        "\n",
+        "\n",
+        "# Выводим на экран вопрос\n",
+        "\n",
+        "# Сравниваем полученную площадь с 15 квадратными метрами\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "9z14rsOWLZ6Y"
+      },
+      "source": [
+        "**Решение**"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "nj9JahM_HbvF",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "94c4025d-1b38-4070-bc17-68c50741a0f0"
+      },
+      "source": [
+        "# Начинаем с ввода данных с экрана, которые сохраняем в переменные. Помните про тип данных!\n",
+        "\n",
+        "width = input('Введите ширину комнаты ')\n",
+        "length = input('Введите длину комнаты ')\n",
+        "\n",
+        "# Вычисляем площадь\n",
+        "area = float(width) * float(length)\n",
+        "\n",
+        "# Выводим на экран вопрос\n",
+        "print('Ваша комната больше 15 квадратных метров?')\n",
+        "\n",
+        "# Сравниваем полученную площадь с 15 квадратными метрами\n",
+        "print(area > 15)\n"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Введите ширину комнаты 5\n",
+            "Введите длину комнаты 4\n",
+            "Ваша комната больше 15 квадратных метров?\n",
+            "True\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "a4U3gQsEKkK_"
+      },
+      "source": [
+        "**Что важно **\n",
+        "- Программа запрашивает данные о длине и ширине, записывает их в переменные, приводит их к числу (можно сначала преобразовать тип, потом записать в переменную).\n",
+        "- Программа рассчитывает площадь комнаты, записывает в новую переменную.\n",
+        "- На выводе программа выдает вопрос и результат сравнения с \"15\" в виде True или False.\n",
+        "- Названия переменных осмысленные.\n",
+        "- В идеале в input должно быть пояснение, чего именно программа ждет от пользователя.\n",
+        "- Нет переменных с названием len. Такое название уже есть у функции, с которой вы уже знакомы."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Задача 5"
+      ],
+      "metadata": {
+        "id": "NIjZPifJeOYm"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "YfnVuKRuIvdZ"
+      },
+      "source": [
+        "Напишите программу, которая запрашивает на ввод какое-то слово или фразу, а потом выводит на печать длину этой фразы.\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "Tv3qa2jiOrz1"
+      },
+      "source": [
+        "**Дано**"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "nwcT_DYPOq3o"
+      },
+      "source": [
+        "# Запрашиваем фразу\n",
+        "\n",
+        "\n",
+        "# Считаем длину\n",
+        "\n",
+        "# Выводим длину фразы на экран\n",
+        "\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "4sf5jEsIOs4A"
+      },
+      "source": [
+        "**Решение**"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "pdQSd8RKHzPU",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "59c09d13-6b9d-4f39-deeb-1fda7b280428"
+      },
+      "source": [
+        "# Запрашиваем фразу\n",
+        "sentence = input('Введите слово или фразу, а мы выведем её длину ')\n",
+        "\n",
+        "# Считаем длину\n",
+        "length = len(sentence)\n",
+        "\n",
+        "# Выводим длину фразы на экран\n",
+        "print(length)\n",
+        "\n"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Введите слово или фразу, а мы выведем её длину rf3drf3rf\n",
+            "9\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "9tjBoTrdJGtw"
+      },
+      "source": [
+        "**Что важно**\n",
+        "- Программа запрашивает фразу.\n",
+        "- На экран выводится длина введенной прежде фразы.\n",
+        "- Имена переменных осмысленные (если используются).\n",
+        "- В идеале в input должно быть пояснение, чего именно программа ждет от пользователя.\n",
+        "- Нет переменных с названием len. Такое название уже есть у функции, с которой вы уже знакомы.\n",
+        "\n",
+        "Задачу можно решить в одну строку, можно в несколько. Это не принципиально."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Задача 6"
+      ],
+      "metadata": {
+        "id": "OV2LFbOteeZH"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "6g_gZkuHKxJ_"
+      },
+      "source": [
+        "Замените вопросительный знак так, чтобы на выводе получилось True.\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "iPrfPHO5Qo6C"
+      },
+      "source": [
+        "**Дано**"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "tP6aWWSzKxzJ",
+        "outputId": "99829aad-152a-4331-8d9f-b3206074b349"
+      },
+      "source": [
+        "len(\"Привет\") < 14 ? type(\"Привет\") == float"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "True"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 4
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "8Uenbo4dLiCW",
+        "outputId": "0941a29c-9314-4c4e-f331-781b73872f43"
+      },
+      "source": [
+        "not (int(3.5) != 3 ? 3 < 5)"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "True"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 10
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "VP7-FMbCMcKj",
+        "outputId": "fe1f2679-809b-43bc-9b4d-35f430bd9dac"
+      },
+      "source": [
+        "True * 5 ? 5"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "True"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 11
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "OsHOg26GNOvT",
+        "outputId": "d1af4de5-467a-47fc-b6ce-59d3265238e3"
+      },
+      "source": [
+        "float(35) ? 77.0"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "True"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 13
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "k9bJm0thNYHb",
+        "outputId": "dd9d2ecc-c373-4bfe-b87c-7bc184fbdbf8"
+      },
+      "source": [
+        "77 // 2 == 38 and ? False"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "True"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 16
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "XOLG10r3QrCl"
+      },
+      "source": [
+        "**Решение**"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "kZhN3p3RQsjx",
+        "outputId": "833f109f-3e01-4e5c-ef7a-5cc770afcaaa"
+      },
+      "source": [
+        "len(\"Привет\") < 14 or type(\"Привет\") == float"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "True"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 7
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "LWhMdZXJQ0Kr",
+        "outputId": "376c30ca-b5bb-42f5-fee9-195de5afaec5"
+      },
+      "source": [
+        "not (int(3.5) != 3 and 3 < 5)"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "True"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 8
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "8Hcip38QRCQM",
+        "outputId": "d179d6a7-e225-4918-dbc4-b164983a2975"
+      },
+      "source": [
+        "True * 5 == 5"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "True"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 9
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Ke3cf7Q3RFhL",
+        "outputId": "210bc668-7956-48d3-9d39-24d40fc36ede"
+      },
+      "source": [
+        "float(35) < 77.0"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "True"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 10
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "hsOAyWzuRHI7",
+        "outputId": "cdb97751-74c1-4be3-e393-5c4645043b06"
+      },
+      "source": [
+        "77 // 2 == 38 and not False"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "True"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 11
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "eRvZ9VwjNoVG"
+      },
+      "source": [
+        "**Что важно**\n",
+        "- Все выражения исполняются и выдают True на выходе (решение может отличаться от предложенного). \n",
+        "- Был заменен только вопросительный знак."
+      ]
+    }
+  ]
+}
