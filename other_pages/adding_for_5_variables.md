@@ -242,3 +242,5 @@ float(35) — это 35.0.
 Чтобы в результате оператора AND получить True, нужно с обеих сторон иметь True. Превратить False в True можно с помощью логического отрицания NOT. 
 
 Это и есть верный ответ.
+
+[Ноутбук с ответами](https://github.com/UzunDemir/uzundemir.github.io/blob/master/5_8_%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F.ipynb)
