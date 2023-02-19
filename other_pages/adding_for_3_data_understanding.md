@@ -66,4 +66,6 @@ total_water — площадь водной поверхности страны 
 
 Как вы думаете, почему так произошло при разном способе подсчёта? 
 
+[Ответ:](https://github.com/UzunDemir/uzundemir.github.io/blob/master/other_pages/answer_3.md)
+
 
