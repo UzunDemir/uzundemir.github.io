@@ -88,3 +88,5 @@ total_water — площадь водной поверхности страны 
 Обратите внимание: синтаксис формул в сводных таблицах немного отличается. Для адресации колонок оригинальной таблицы используйте имена её колонок из первой строки.
 
 [Ответ:](https://github.com/UzunDemir/uzundemir.github.io/blob/master/other_pages/answer_4.md)
+
+Если остались вопросы, изучите [таблицу с верными расчётами.](https://github.com/UzunDemir/uzundemir.github.io/blob/master/other_files/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20countries_hw1_reference.xlsx)
