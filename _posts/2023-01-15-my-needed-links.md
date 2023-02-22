@@ -225,3 +225,5 @@ title:  "Мои  ссылки"
 [Всё о сортировке в Python: исчерпывающий гайд.](https://tproger.ru/translations/python-sorting/)
 
 [Plotly Open Source Graphing Library for Python](https://plotly.com/python/)
+
+[Физтех.Статистика](https://miptstats.github.io/courses/ad_fivt.html)
