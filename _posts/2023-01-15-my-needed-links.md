@@ -227,3 +227,5 @@ title:  "Мои  ссылки"
 [Plotly Open Source Graphing Library for Python](https://plotly.com/python/)
 
 [Физтех.Статистика](https://miptstats.github.io/courses/ad_fivt.html)
+
+[Шпаргалка по визуализации данных в Python с помощью Plotly](https://habr.com/ru/post/502958/)
