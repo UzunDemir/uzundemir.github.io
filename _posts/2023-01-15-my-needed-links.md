@@ -229,3 +229,5 @@ title:  "Мои  ссылки"
 [Физтех.Статистика](https://miptstats.github.io/courses/ad_fivt.html)
 
 [Шпаргалка по визуализации данных в Python с помощью Plotly](https://habr.com/ru/post/502958/)
+
+[ВСЁ О ГОРЯЧИХ КЛАВИШАХ ДЛЯ DAVINCI RESOLVE](https://news.fidller.com/2022/05/07/davinci-resolve-15-shortcut/)
