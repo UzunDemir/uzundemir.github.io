@@ -231,3 +231,6 @@ title:  "Мои  ссылки"
 [Шпаргалка по визуализации данных в Python с помощью Plotly](https://habr.com/ru/post/502958/)
 
 [ВСЁ О ГОРЯЧИХ КЛАВИШАХ ДЛЯ DAVINCI RESOLVE](https://news.fidller.com/2022/05/07/davinci-resolve-15-shortcut/)
+
+🤖 [Решаем задачи машинного обучения с помощью алгоритма градиентного бустинга](https://proglib.io/p/reshaem-zadachi-mashinnogo-obucheniya-s-pomoshchyu-algoritma-gradientnogo-bustinga-2021-11-25)
+
