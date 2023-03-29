@@ -18,7 +18,8 @@ title:  "Как исправить: RuntimeWarning"
 
 Предположим, мы выполняем следующий расчет в Python:
 
-``` import numpy as np
+```python
+import numpy as np
 
 #perform some calculation
 print(1/(1+np.exp (1140)))
