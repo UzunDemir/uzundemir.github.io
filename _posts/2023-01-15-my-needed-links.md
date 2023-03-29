@@ -241,3 +241,5 @@ title:  "Мои  ссылки"
 📓 [Учебный курс по Data Science (ML, AI) от biconsult.ru](https://biconsult.ru/products/uchebnyy-kurs-po-data-science-ml-ai)
 
 📗 [Учебник по машинному обучению](https://academy.yandex.ru/handbook/ml)
+
+[Что делать, если GitHub Pages не работает](https://dvmn.org/encyclopedia/git/github-pages-debugging/)
