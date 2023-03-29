@@ -1,1 +1,30 @@
+---
+layout: post
+title:  "Как исправить: RuntimeWarning"
+---
+## *Одно предупреждение, с которым вы можете столкнуться в Python:*
+
+![image](https://user-images.githubusercontent.com/94790150/228448678-ba4df774-8eba-4d74-a0a8-7681cdb8173a.png)
+
+Когда вы сталкиваетесь с этим предупреждением, у вас есть два варианта:
+
+1. Не обращайте внимания.
+
+2. Полностью отключите предупреждение.
+
+В следующем примере показано, как устранить это предупреждение на практике.
+
+### Как воспроизвести предупреждение
+
+Предположим, мы выполняем следующий расчет в Python:
+
+``` import numpy as np
+
+#perform some calculation
+print(1/(1+np.exp (1140)))
+
+0.0
+
+/srv/conda/envs/notebook/lib/python3.7/site-packages/ipykernel_launcher.py:3:
+RuntimeWarning: overflow encountered in exp ```
 
