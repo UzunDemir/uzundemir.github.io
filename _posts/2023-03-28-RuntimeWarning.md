@@ -43,3 +43,20 @@ RuntimeWarning: overflow encountered in exp
 * 1 / массивное число
 
 Фактически это 0, поэтому NumPy вычислил результат равным 0.0 .
+
+Как подавить предупреждение
+Если мы хотим, мы можем использовать пакет warnings для подавления предупреждений следующим образом:
+
+```python
+import numpy as np
+import warnings
+
+#suppress warnings
+warnings. filterwarnings('ignore')
+
+#perform some calculation
+print(1/(1+np.exp (1140)))
+
+0.0
+```
+
