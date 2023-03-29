@@ -5,6 +5,6 @@ title:  "Новенькие эффекты"
 
 ## *Познакомлю вас с новенькими оригинальными эффектами!*
 
-* [new-scrambling-letter](https://uzundemir.github.io/new-scrambling-letter/)
+[new-scrambling-letter](https://uzundemir.github.io/new-scrambling-letter/)
 
-* [neural-interface](https://uzundemir.github.io/ho)
+[neural-interface](https://uzundemir.github.io/ho)
