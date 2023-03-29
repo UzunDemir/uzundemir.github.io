@@ -27,5 +27,19 @@ print(1/(1+np.exp (1140)))
 0.0
 
 /srv/conda/envs/notebook/lib/python3.7/site-packages/ipykernel_launcher.py:3:
-RuntimeWarning: overflow encountered in exp ```
+RuntimeWarning: overflow encountered in exp 
+```
 
+Обратите внимание, что NumPy выполняет вычисления (результат равен 0,0), но по-прежнему печатает RuntimeWarning .
+
+Это предупреждение выводится, потому что значение np.exp(1140) представляет e 1140 , что является массивным числом.
+
+В основном мы просили NumPy выполнить следующие вычисления:
+
+1 / (1 + массивное число)
+
+Это можно сократить до:
+
+1 / массивное число
+
+Фактически это 0, поэтому NumPy вычислил результат равным 0.0 .
