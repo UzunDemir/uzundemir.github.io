@@ -242,4 +242,4 @@ title:  "Мои  ссылки"
 
 📗 [Учебник по машинному обучению](https://academy.yandex.ru/handbook/ml)
 
-[Что делать, если GitHub Pages не работает](https://dvmn.org/encyclopedia/git/github-pages-debugging/)
+🛠 [Что делать, если GitHub Pages не работает](https://dvmn.org/encyclopedia/git/github-pages-debugging/)
