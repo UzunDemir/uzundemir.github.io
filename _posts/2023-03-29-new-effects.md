@@ -7,4 +7,4 @@ title:  "Новенькие эффекты"
 
 [new-scrambling-letter](https://uzundemir.github.io/new-scrambling-letter/)
 
-[neural-interface](https://uzundemir.github.io/ho)
+[neural-interface](https://uzundemir.github.io/my-new-page/)
