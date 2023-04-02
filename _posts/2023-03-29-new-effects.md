@@ -10,9 +10,11 @@ title:  "Новенькие эффекты"
 
 Интересный эффект, когда при наведении на текст - он танцует и переводит по ссылке на другую страницу
 
-![text (1)](https://user-images.githubusercontent.com/94790150/229370359-6414ad32-033b-49a9-a6db-f3fd56ad5635.gif)
+![text2 (1)](https://user-images.githubusercontent.com/94790150/229370590-24b72b41-c5ae-4bbb-b963-6a21eb53893b.gif)
 
-* [neural-interface](https://uzundemir.github.io/my-new-page/)
+
+* [neural-interface](https://uzundemir.github.io/my-new-page/)![Uploading text2 (1).gif…]()
+
 
 Каждый клик порождает новую трансформацию, симулирующую работу нейронной сети.
 
