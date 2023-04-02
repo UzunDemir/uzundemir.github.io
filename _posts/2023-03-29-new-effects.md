@@ -13,7 +13,7 @@ title:  "Новенькие эффекты"
 ![text2 (1)](https://user-images.githubusercontent.com/94790150/229370590-24b72b41-c5ae-4bbb-b963-6a21eb53893b.gif)
 
 
-* [neural-interface](https://uzundemir.github.io/my-new-page/)![Uploading text2 (1).gif…]()
+* [neural-interface](https://uzundemir.github.io/my-new-page/)
 
 
 Каждый клик порождает новую трансформацию, симулирующую работу нейронной сети.
