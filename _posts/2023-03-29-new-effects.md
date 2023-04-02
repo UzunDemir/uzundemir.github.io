@@ -3,6 +3,8 @@ layout: post
 title:  "Новенькие эффекты"
 ---
 
+![text2 (1)](https://user-images.githubusercontent.com/94790150/229370590-24b72b41-c5ae-4bbb-b963-6a21eb53893b.gif)
+
 ## *Познакомлю вас с новенькими оригинальными эффектами!*
 
 
@@ -10,7 +12,7 @@ title:  "Новенькие эффекты"
 
 Интересный эффект, когда при наведении на текст - он танцует и переводит по ссылке на другую страницу
 
-![text2 (1)](https://user-images.githubusercontent.com/94790150/229370590-24b72b41-c5ae-4bbb-b963-6a21eb53893b.gif)
+
 
 
 * [neural-interface](https://uzundemir.github.io/my-new-page/)
