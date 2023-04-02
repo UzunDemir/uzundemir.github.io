@@ -8,7 +8,11 @@ title:  "Новенькие эффекты"
 
 * [new-scrambling-letter](https://uzundemir.github.io/new-scrambling-letter/)
 
-![image](https://user-images.githubusercontent.com/94790150/229369199-4d4092a5-0265-4ca5-9b17-58d34aae9040.png)
+
+
+https://user-images.githubusercontent.com/94790150/229370228-58a57e9e-f521-4ebd-b17b-a7cb94f67a80.mp4
+
+
 
 Интересный эффект, когда при наведении на текст - он танцует и переводит по ссылке на другую страницу
 
