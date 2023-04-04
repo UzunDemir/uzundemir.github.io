@@ -23,3 +23,5 @@ title:  "Новенькие эффекты"
 [![neural (1)](https://user-images.githubusercontent.com/94790150/229369886-e64deeaf-6034-446e-938b-89c95520952f.gif)](https://uzundemir.github.io/my-new-page/)
 
 И вот такой еще [сайт](https://uzundemir.github.io/mars/) для любителей путешествий
+
+И еще один [пример адаптивного сайта](https://uzundemir.github.io/gaga_1/) 
