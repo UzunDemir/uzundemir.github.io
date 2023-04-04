@@ -243,3 +243,5 @@ title:  "Мои  ссылки"
 📗 [Учебник по машинному обучению](https://academy.yandex.ru/handbook/ml)
 
 🛠 [Что делать, если GitHub Pages не работает](https://dvmn.org/encyclopedia/git/github-pages-debugging/)
+
+📃 [Учим HTML и CSS за 7 часов! Уроки по созданию сайтов Полный курс HTML и CSS с нуля до профессионала](https://www.youtube.com/watch?v=Bmtu5eNnjK8&t=1982s)
