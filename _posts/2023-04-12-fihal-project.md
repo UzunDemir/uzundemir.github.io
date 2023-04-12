@@ -133,7 +133,7 @@ sub_custom_question_submit_click = 619 === 0.0 %
 
 Чтобы его запустить, необходимо установить библиотеки из `requirements.txt` и в корневой папке проекта выполнить команду:  
 
-```
+```bash
 uvicorn api:app --reload
 ```
 
