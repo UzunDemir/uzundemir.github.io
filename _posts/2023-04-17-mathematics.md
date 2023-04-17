@@ -8,3 +8,5 @@ title:  "Fundamentals of Mathematics for Data Science"
 So, friends, it's done! My successful writing of [the final work](https://uzundemir.github.io//fihal-project) gave me even more confidence in the chosen direction in which I would like to develop to the maximum! Among the necessary knowledge, Her Majesty - Mathematics - becomes the cornerstone! Therefore, I am happy to start studying the course "Fundamentals of Mathematics for Data Science"! 
 
 As you noticed, I switched to English because it is the standard in information technology. I will not hide that I use google translate, but I will also try to improve my knowledge in English.
+
+* 1. Аналитика и ML. Базовые математические объекты и SymPy. Дроби и преобразования
