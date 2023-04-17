@@ -44,6 +44,9 @@ As you noticed, I switched to English because it is the standard in information 
 
 ![image](https://user-images.githubusercontent.com/94790150/232490496-08f2b775-31d2-4053-b79e-34f44dbf18a2.png)
 
+![image](https://user-images.githubusercontent.com/94790150/232491721-6fa19096-4895-4394-bcd5-ec39a0c3b3a8.png)
+
+
 
 
 
