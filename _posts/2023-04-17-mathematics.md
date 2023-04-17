@@ -70,5 +70,7 @@ As you noticed, I switched to English because it is the standard in information 
 
 [Корни и их свойства. Решение практики.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11252615/default.pdf)
 
+[Алгоритмы. Вычисление вещественного квадратного корня. Реализация в Python и Java.](https://www.youtube.com/watch?v=e5PCjvcqvPs)
+
 
 
