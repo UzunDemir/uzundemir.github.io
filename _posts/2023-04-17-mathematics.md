@@ -16,6 +16,4 @@ As you noticed, I switched to English because it is the standard in information 
     1.1 Введение
     
     1.2 Основные операции с дробями 
-
-
-
+[Math practice fractions-1.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11247139/Math.practice.fractions-1.pdf)
