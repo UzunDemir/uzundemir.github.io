@@ -12,3 +12,4 @@ As you noticed, I switched to English because it is the standard in information 
 ## So let's get started!
 
 1. Analytics and ML. Basic math objects and SymPy. Fractions and conversions. (Аналитика и ML. Базовые математические объекты и SymPy. Дроби и преобразования.)
+1.1 Введение
