@@ -9,4 +9,4 @@ So, friends, it's done! My successful writing of [the final work](https://uzunde
 
 As you noticed, I switched to English because it is the standard in information technology. I will not hide that I use google translate, but I will also try to improve my knowledge in English.
 
-* 1. Аналитика и ML. Базовые математические объекты и SymPy. Дроби и преобразования
+1. Аналитика и ML. Базовые математические объекты и SymPy. Дроби и преобразования
