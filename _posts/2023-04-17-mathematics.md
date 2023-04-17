@@ -26,18 +26,9 @@ As you noticed, I switched to English because it is the standard in information 
     [1.6 Reduction of like terms](https://github.com/UzunDemir/uzundemir.github.io/files/11247331/Math.practice.fractions-3.pdf)
     
     ~[1.7 Answers](https://github.com/UzunDemir/uzundemir.github.io/files/11247343/Math.practice.fractions.answers-3.pdf)~
+    
+    [1.10 Results of the topics covered. Test yourself. (Итоги пройденных тем. Проверьте себя)](https://colab.research.google.com/drive/10CJmRcURQr26dyzTJkCuf7WicKO0TGFk#scrollTo=K3CLWvfIKKlZ)
 
-### Solar System Exploration, 1950s – 1960s
-
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
 
 
 
