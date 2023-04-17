@@ -59,6 +59,9 @@ As you noticed, I switched to English because it is the standard in information 
  ![image](https://user-images.githubusercontent.com/94790150/232536132-7a0d1013-6201-4971-9968-3e5442373fd1.png)
  
  ![image](https://user-images.githubusercontent.com/94790150/232537833-0807f020-a1c6-4285-bea0-5f5d43e4840f.png)
+ 
+ ![image](https://user-images.githubusercontent.com/94790150/232538424-bcab05e1-7a3c-4f6d-849f-b50e852b2d02.png)
+
 
  
  
