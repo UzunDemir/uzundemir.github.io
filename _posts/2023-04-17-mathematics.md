@@ -13,6 +13,6 @@ As you noticed, I switched to English because it is the standard in information 
 
 1. Analytics and ML. Basic math objects and SymPy. Fractions and conversions. (Аналитика и ML. Базовые математические объекты и SymPy. Дроби и преобразования.)
 
-    1.1 Введение
+    1.1 Introduction (Введение)
     
-    [1.2 Основные операции с дробями](https://github.com/UzunDemir/uzundemir.github.io/files/11247139/Math.practice.fractions-1.pdf) / *[Answers](https://github.com/UzunDemir/uzundemir.github.io/files/11247201/Math.practice.fractions.answers-1.pdf)*
+    [1.2 Basic operations with fractions (Основные операции с дробями)](https://github.com/UzunDemir/uzundemir.github.io/files/11247139/Math.practice.fractions-1.pdf) / *[Answers](https://github.com/UzunDemir/uzundemir.github.io/files/11247201/Math.practice.fractions.answers-1.pdf)*
