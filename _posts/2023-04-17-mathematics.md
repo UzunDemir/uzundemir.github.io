@@ -38,8 +38,13 @@ As you noticed, I switched to English because it is the standard in information 
 
 ![image](https://user-images.githubusercontent.com/94790150/232487846-211b3b8b-4501-4b2b-b1d7-ca227cad97d1.png)
 
+![image](https://user-images.githubusercontent.com/94790150/232488780-91a4d650-e4c2-4ef5-afe9-d3ed8adb4c6e.png)
+
+
    [Practice.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11250182/default.pdf)
     
    [Practice Decision.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11250186/default.pdf)
+   
+   
 
 
