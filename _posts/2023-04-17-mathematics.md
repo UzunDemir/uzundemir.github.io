@@ -56,6 +56,10 @@ As you noticed, I switched to English because it is the standard in information 
    
    2.3 Roots and their properties. (Корни и их свойства)
    
+ ![image](https://user-images.githubusercontent.com/94790150/232536132-7a0d1013-6201-4971-9968-3e5442373fd1.png)
+ 
+ 
+
    
 
 
