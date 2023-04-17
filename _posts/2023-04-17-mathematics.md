@@ -46,6 +46,11 @@ As you noticed, I switched to English because it is the standard in information 
 
 ![image](https://user-images.githubusercontent.com/94790150/232491721-6fa19096-4895-4394-bcd5-ec39a0c3b3a8.png)
 
+![image](https://user-images.githubusercontent.com/94790150/232524866-10feb64e-a15c-4d76-a680-eb7cac4c0ee5.png)
+
+![image](https://user-images.githubusercontent.com/94790150/232525073-a0fa34b6-ac1f-45bb-964a-59f70dd5abd8.png)
+
+
 
 
 
