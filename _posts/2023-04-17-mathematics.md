@@ -9,4 +9,6 @@ So, friends, it's done! My successful writing of [the final work](https://uzunde
 
 As you noticed, I switched to English because it is the standard in information technology. I will not hide that I use google translate, but I will also try to improve my knowledge in English.
 
+## So let's get started!
+
 1. Analytics and ML. Basic math objects and SymPy. Fractions and conversions. (Аналитика и ML. Базовые математические объекты и SymPy. Дроби и преобразования.)
