@@ -62,10 +62,13 @@ As you noticed, I switched to English because it is the standard in information 
  
  ![image](https://user-images.githubusercontent.com/94790150/232538424-bcab05e1-7a3c-4f6d-849f-b50e852b2d02.png)
 
+ ![image](https://user-images.githubusercontent.com/94790150/232538983-742e934d-a131-4089-affb-8954c9aabd48.png)
 
  
  
+[Корни и их свойства. Практика.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11252612/default.pdf)
 
-   
+[Корни и их свойства. Решение практики.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11252615/default.pdf)
+
 
 
