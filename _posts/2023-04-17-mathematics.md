@@ -42,6 +42,9 @@ As you noticed, I switched to English because it is the standard in information 
 
 ![image](https://user-images.githubusercontent.com/94790150/232489815-16102004-ef97-4db9-a4a5-fc7979211b63.png)
 
+![image](https://user-images.githubusercontent.com/94790150/232490496-08f2b775-31d2-4053-b79e-34f44dbf18a2.png)
+
+
 
 
    [Practice.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11250182/default.pdf)
