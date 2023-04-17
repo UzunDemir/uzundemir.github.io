@@ -15,7 +15,7 @@ As you noticed, I switched to English because it is the standard in information 
 
     1.1. Введение
     
-    1.2. 
+    1.2 Основные операции с дробями 
 
 
 
