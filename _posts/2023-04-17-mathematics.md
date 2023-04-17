@@ -22,3 +22,9 @@ As you noticed, I switched to English because it is the standard in information 
     [1.4 Bracket expansion (Раскрытие скобок)](https://github.com/UzunDemir/uzundemir.github.io/files/11247243/Math.practice.fractions-2.pdf)
     
     ~[1.5 Answers](https://github.com/UzunDemir/uzundemir.github.io/files/11247293/Math.practice.fractions.answers-2.pdf)~
+    
+    [1.6 Reduction of like terms](https://github.com/UzunDemir/uzundemir.github.io/files/11247331/Math.practice.fractions-3.pdf)
+    
+    ~[1.7 Answers](https://github.com/UzunDemir/uzundemir.github.io/files/11247343/Math.practice.fractions.answers-3.pdf)~
+
+
