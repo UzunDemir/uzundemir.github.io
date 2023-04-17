@@ -50,14 +50,11 @@ As you noticed, I switched to English because it is the standard in information 
 
 ![image](https://user-images.githubusercontent.com/94790150/232525073-a0fa34b6-ac1f-45bb-964a-59f70dd5abd8.png)
 
-
-
-
-
-
    [Practice.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11250182/default.pdf)
     
    [Practice Decision.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11250186/default.pdf)
+   
+   2.3 Roots and their properties. (Корни и их свойства)
    
    
 
