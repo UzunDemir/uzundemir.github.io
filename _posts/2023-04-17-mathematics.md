@@ -27,6 +27,17 @@ As you noticed, I switched to English because it is the standard in information 
     
     ~[1.7 Answers](https://github.com/UzunDemir/uzundemir.github.io/files/11247343/Math.practice.fractions.answers-3.pdf)~
 
+### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 
 
 
