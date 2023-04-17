@@ -34,6 +34,9 @@ As you noticed, I switched to English because it is the standard in information 
  2. Analytics and ML. Basic math objects and SymPy. Required functions and some additional objects. (Аналитика и ML. Базовые математические объекты и SymPy. Необходимые функции и некоторые дополнительные объекты)
 
     2.2 Degrees and their properties. (Степени и их свойства) 
+
+![image](https://user-images.githubusercontent.com/94790150/232487846-211b3b8b-4501-4b2b-b1d7-ca227cad97d1.png)
+
     
     [Practice.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11250182/default.pdf)
     
