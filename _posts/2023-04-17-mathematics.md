@@ -27,7 +27,7 @@ As you noticed, I switched to English because it is the standard in information 
     
     ~[1.7 Answers](https://github.com/UzunDemir/uzundemir.github.io/files/11247343/Math.practice.fractions.answers-3.pdf)~
     
-    1.10 Results of the topics covered. Test yourself. (Итоги пройденных тем. Проверьте себя)[Colab notebook](https://colab.research.google.com/drive/10CJmRcURQr26dyzTJkCuf7WicKO0TGFk#scrollTo=K3CLWvfIKKlZ)
+    1.10 Results of the topics covered. Test yourself. (Итоги пройденных тем. Проверьте себя) Colab notebook is [here](https://colab.research.google.com/drive/10CJmRcURQr26dyzTJkCuf7WicKO0TGFk#scrollTo=K3CLWvfIKKlZ)
 
 
 
