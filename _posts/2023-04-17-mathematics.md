@@ -28,5 +28,5 @@ As you noticed, I switched to English because it is the standard in information 
     ~[1.7 Answers](https://github.com/UzunDemir/uzundemir.github.io/files/11247343/Math.practice.fractions.answers-3.pdf)~
 
 
-\frac{1+x}{n}$ — 1 + x n \frac{1+x}n n1+x
+
 
