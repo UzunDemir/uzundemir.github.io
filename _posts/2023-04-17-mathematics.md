@@ -33,6 +33,10 @@ As you noticed, I switched to English because it is the standard in information 
  
  2. Analytics and ML. Basic math objects and SymPy. Required functions and some additional objects. (Аналитика и ML. Базовые математические объекты и SymPy. Необходимые функции и некоторые дополнительные объекты)
 
-
+    2.2 Degrees and their properties. (Степени и их свойства) 
+    
+    [Practice.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11250182/default.pdf)
+    
+    [Practice Decision.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11250186/default.pdf)
 
 
