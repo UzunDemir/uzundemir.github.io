@@ -87,6 +87,13 @@ As you noticed, I switched to English because it is the standard in information 
 
 [Логарифмы и их свойства. Решение.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11365395/default.pdf)
 
+   2.5 Additional objects and symbols (Дополнительные объекты и обозначения)
+
+![image](https://user-images.githubusercontent.com/94790150/235458672-01298dd0-1a4a-4935-acf9-c1d1460707c8.png)
+
+![image](https://user-images.githubusercontent.com/94790150/235458867-a86cef83-2a3e-4e0c-a783-4e710da2173e.png)
+
+
 
 
     
