@@ -93,6 +93,7 @@ As you noticed, I switched to English because it is the standard in information 
 
 ![image](https://user-images.githubusercontent.com/94790150/235458867-a86cef83-2a3e-4e0c-a783-4e710da2173e.png)
 
+![image](https://user-images.githubusercontent.com/94790150/235460176-f66a5971-8bc1-4b3a-aa8a-6002d32a5f21.png)
 
 
 
