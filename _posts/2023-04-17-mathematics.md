@@ -108,3 +108,7 @@ As you noticed, I switched to English because it is the standard in information 
 
 ![image](https://user-images.githubusercontent.com/94790150/235495505-613b1d67-aaa0-463a-b28c-22025ce8ca3f.png)
 
+![image](https://user-images.githubusercontent.com/94790150/235495812-6d71cdd5-aad7-4dce-acfe-41bb5a163693.png)
+
+![image](https://user-images.githubusercontent.com/94790150/235495977-42cb40f6-9e5e-41df-8455-3426e8d6f5da.png)
+
