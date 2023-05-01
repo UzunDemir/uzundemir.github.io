@@ -118,3 +118,5 @@ As you noticed, I switched to English because it is the standard in information 
 
 ![image](https://user-images.githubusercontent.com/94790150/235496704-ffd65847-0d16-46b8-9b08-1f56d530cffd.png)
 
+3.4 Elementary functions and their properties (Элементарные функции и их свойства)
+
