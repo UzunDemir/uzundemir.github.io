@@ -72,5 +72,6 @@ As you noticed, I switched to English because it is the standard in information 
 
 [Алгоритмы. Вычисление вещественного квадратного корня. Реализация в Python и Java.](https://www.youtube.com/watch?v=e5PCjvcqvPs)
 
+    2.4 Logarithms and their properties (Логарифмы и их свойства)
 
 
