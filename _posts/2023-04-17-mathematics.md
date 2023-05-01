@@ -17,15 +17,15 @@ As you noticed, I switched to English because it is the standard in information 
     
     [1.2 Basic operations with fractions (Основные операции с дробями)](https://github.com/UzunDemir/uzundemir.github.io/files/11247139/Math.practice.fractions-1.pdf) 
     
-    ~[1.3 Answers](https://github.com/UzunDemir/uzundemir.github.io/files/11247201/Math.practice.fractions.answers-1.pdf)~
+    [1.3 Answers](https://github.com/UzunDemir/uzundemir.github.io/files/11247201/Math.practice.fractions.answers-1.pdf)
     
     [1.4 Bracket expansion (Раскрытие скобок)](https://github.com/UzunDemir/uzundemir.github.io/files/11247243/Math.practice.fractions-2.pdf)
     
-    ~[1.5 Answers](https://github.com/UzunDemir/uzundemir.github.io/files/11247293/Math.practice.fractions.answers-2.pdf)~
+    [1.5 Answers](https://github.com/UzunDemir/uzundemir.github.io/files/11247293/Math.practice.fractions.answers-2.pdf)
     
     [1.6 Reduction of like terms](https://github.com/UzunDemir/uzundemir.github.io/files/11247331/Math.practice.fractions-3.pdf)
     
-    ~[1.7 Answers](https://github.com/UzunDemir/uzundemir.github.io/files/11247343/Math.practice.fractions.answers-3.pdf)~
+    [1.7 Answers](https://github.com/UzunDemir/uzundemir.github.io/files/11247343/Math.practice.fractions.answers-3.pdf)
     
     1.10 Results of the topics covered. Test yourself. (Итоги пройденных тем. Проверьте себя) 
     
@@ -72,6 +72,17 @@ As you noticed, I switched to English because it is the standard in information 
 
 [Алгоритмы. Вычисление вещественного квадратного корня. Реализация в Python и Java.](https://www.youtube.com/watch?v=e5PCjvcqvPs)
 
-    2.4 Logarithms and their properties (Логарифмы и их свойства)
+   2.4 Logarithms and their properties (Логарифмы и их свойства)
+   
+   ![image](https://user-images.githubusercontent.com/94790150/235454607-621bc94e-b785-4a0a-9a2e-aaf0a564cc0f.png)
+   
+   ![image](https://user-images.githubusercontent.com/94790150/235454960-535fdc1f-d87d-4599-b6cc-1eafd086ab2b.png)
 
 
+[Логарифмы и их свойства. Практика.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11365393/default.pdf)
+
+[Логарифмы и их свойства. Решение.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11365395/default.pdf)
+
+
+
+    
