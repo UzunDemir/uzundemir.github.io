@@ -78,6 +78,9 @@ As you noticed, I switched to English because it is the standard in information 
 
    
    ![image](https://user-images.githubusercontent.com/94790150/235454960-535fdc1f-d87d-4599-b6cc-1eafd086ab2b.png)
+   
+   ![image](https://user-images.githubusercontent.com/94790150/235455667-1eeee7c7-6605-4340-9b3b-94f4e212af61.png)
+
 
 
 [Логарифмы и их свойства. Практика.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11365393/default.pdf)
