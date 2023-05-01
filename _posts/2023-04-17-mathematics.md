@@ -74,7 +74,8 @@ As you noticed, I switched to English because it is the standard in information 
 
    2.4 Logarithms and their properties (Логарифмы и их свойства)
    
-   ![image](https://user-images.githubusercontent.com/94790150/235454607-621bc94e-b785-4a0a-9a2e-aaf0a564cc0f.png)
+   ![image](https://user-images.githubusercontent.com/94790150/235455146-e9e5165c-544f-470f-8798-ce45505bd520.png)
+
    
    ![image](https://user-images.githubusercontent.com/94790150/235454960-535fdc1f-d87d-4599-b6cc-1eafd086ab2b.png)
 
