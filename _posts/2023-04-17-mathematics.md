@@ -105,3 +105,6 @@ As you noticed, I switched to English because it is the standard in information 
 [Notebook in Colab](https://colab.research.google.com/drive/15rqKziyYZRXqtIRUbVy_CM5OkAJR_Y_5)
 
 3.3 Types and properties of functions (Виды и свойства функций)    
+
+![image](https://user-images.githubusercontent.com/94790150/235495505-613b1d67-aaa0-463a-b28c-22025ce8ca3f.png)
+
