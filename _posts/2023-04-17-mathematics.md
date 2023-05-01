@@ -114,4 +114,7 @@ As you noticed, I switched to English because it is the standard in information 
 
 ![image](https://user-images.githubusercontent.com/94790150/235496408-735a0529-cca4-4f80-9c4f-56c71d63d2c3.png)
 
+![image](https://user-images.githubusercontent.com/94790150/235496547-8c547dac-b6ef-49af-83ed-a3e2c330ff80.png)
+
+![image](https://user-images.githubusercontent.com/94790150/235496704-ffd65847-0d16-46b8-9b08-1f56d530cffd.png)
 
