@@ -126,3 +126,13 @@ As you noticed, I switched to English because it is the standard in information 
 
 3.7 Additional SymPy functionality for feature exploration (Дополнительный функционал SymPy для исследования функций)
 
+![image](https://user-images.githubusercontent.com/94790150/235736139-252d3d55-1e9e-4a36-b686-e76b4a646e3c.png)
+
+Solving the equation - the task of finding zeros (Решение уравнения - задача поиска нулей)
+
+Solving inequalities - the problem of finding intervals of sign constancy (Решение неравенств - задача поиска промежутков знакопостоянства)
+
+![image](https://user-images.githubusercontent.com/94790150/235736734-67e48c75-0a8d-498e-acd0-d074c1c91386.png)
+
+
+
