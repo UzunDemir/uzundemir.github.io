@@ -122,3 +122,5 @@ As you noticed, I switched to English because it is the standard in information 
 
 [3.5 Parabola exploration with SymPy (Исследование параболы с помощью SymPy)](https://github.com/UzunDemir/uzundemir.github.io/files/11375444/SymPy.pdf)
 
+[Practic colab notebook](https://colab.research.google.com/drive/1_trXi4dj4OHv8BZ3IBylCO-g7ezkK59v)
+
