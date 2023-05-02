@@ -124,3 +124,5 @@ As you noticed, I switched to English because it is the standard in information 
 
 [Practic colab notebook](https://colab.research.google.com/drive/1_trXi4dj4OHv8BZ3IBylCO-g7ezkK59v)
 
+3.7 Additional SymPy functionality for feature exploration (Дополнительный функционал SymPy для исследования функций)
+
