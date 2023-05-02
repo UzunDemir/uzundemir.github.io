@@ -120,4 +120,5 @@ As you noticed, I switched to English because it is the standard in information 
 
 [3.4 Elementary functions and their properties (Элементарные функции и их свойства)](https://github.com/UzunDemir/uzundemir.github.io/files/11373177/default.pdf)
 
+[3.5 Parabola exploration with SymPy (Исследование параболы с помощью SymPy)](https://github.com/UzunDemir/uzundemir.github.io/files/11375444/SymPy.pdf)
 
