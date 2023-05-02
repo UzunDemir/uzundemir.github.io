@@ -134,5 +134,7 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 ![image](https://user-images.githubusercontent.com/94790150/235736734-67e48c75-0a8d-498e-acd0-d074c1c91386.png)
 
+[Practic colab notebook](https://colab.research.google.com/drive/1m94ae9XekShVw_XEyIc0IZzw2Ca4y93N#scrollTo=BCxvlxdsjDuB)
+
 
 
