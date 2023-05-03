@@ -148,6 +148,8 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 ![image](https://user-images.githubusercontent.com/94790150/235911319-5bdba9dc-7dbc-4132-9386-47709490151e.png)
 
+[Colab Notebook](https://colab.research.google.com/drive/12H2gk1cBE3zdTyfJM6SlOfRSL0jliTzJ#scrollTo=6wI8nXQa1p-2)
+
 
 
 
