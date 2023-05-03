@@ -249,3 +249,5 @@ title:  "Мои  ссылки"
 🎞 [Вебинар «Взаимодействие с API и Git» 30.03.23](https://www.youtube.com/watch?v=ut_yI_f7lK8)
 
 🛠 [Markdown from sglazov](https://github.com/sglazov/notes/blob/master/markdown.md)
+
+[coolbluedata.com - Упорядочивая хаос. Поиск инсайтов в данных](https://coolbluedata.com/ru/ordering-chaos/)
