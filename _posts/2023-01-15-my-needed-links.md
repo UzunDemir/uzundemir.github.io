@@ -250,4 +250,4 @@ title:  "Мои  ссылки"
 
 🛠 [Markdown from sglazov](https://github.com/sglazov/notes/blob/master/markdown.md)
 
-[coolbluedata.com - Упорядочивая хаос. Поиск инсайтов в данных](https://coolbluedata.com/ru/ordering-chaos/)
+🔳 [coolbluedata.com - Упорядочивая хаос. Поиск инсайтов в данных](https://coolbluedata.com/ru/ordering-chaos/)
