@@ -171,6 +171,8 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 [4.6 Properties of coefficients of a cubic function(Свойства коэффициентов кубической функции)](https://colab.research.google.com/drive/1-y5JMotY3uCai6GEOvaUGJlheCs0_isy#scrollTo=dA2JdL3bACdx)
 
+4.8 Finding the coefficients of polynomials analytically(Нахождение коэффициентов полиномов аналитически)
+
 
 
 
