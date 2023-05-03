@@ -169,6 +169,9 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 [4.4 Properties of the coefficients of a quadratic function(Свойства коэффициентов квадратичной функции)](https://colab.research.google.com/drive/1KIyT_ePuduyoiTUJ_fwdpuaqN0apFhFD#scrollTo=O1npt0om8EJg)
 
+[4.6 Properties of coefficients of a cubic function(Свойства коэффициентов кубической функции)](https://colab.research.google.com/drive/1-y5JMotY3uCai6GEOvaUGJlheCs0_isy#scrollTo=dA2JdL3bACdx)
+
+
 
 
 
