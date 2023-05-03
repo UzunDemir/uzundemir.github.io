@@ -136,6 +136,20 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 [Practic colab notebook](https://colab.research.google.com/drive/1m94ae9XekShVw_XEyIc0IZzw2Ca4y93N#scrollTo=BCxvlxdsjDuB)
 
+![image](https://user-images.githubusercontent.com/94790150/235910745-64deb4e4-213c-4fd5-a030-e78ef5f6ff1a.png)
+
+![image](https://user-images.githubusercontent.com/94790150/235910979-48514b0e-99fc-4408-b5b5-d1f2da161e7a.png)
+
+![image](https://user-images.githubusercontent.com/94790150/235911043-0bffa84b-7d35-412d-9f8b-bbf2c54c772d.png)
+
+![image](https://user-images.githubusercontent.com/94790150/235911142-e0a4cf31-71c2-4ffc-ae88-29f4e679d86d.png)
+
+![image](https://user-images.githubusercontent.com/94790150/235911227-a60281a3-7806-4d77-ba8e-890128fed347.png)
+
+![image](https://user-images.githubusercontent.com/94790150/235911319-5bdba9dc-7dbc-4132-9386-47709490151e.png)
+
+
+
 
 
 
