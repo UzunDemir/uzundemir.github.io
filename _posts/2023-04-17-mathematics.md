@@ -150,6 +150,16 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 [Colab Notebook](https://colab.research.google.com/drive/12H2gk1cBE3zdTyfJM6SlOfRSL0jliTzJ#scrollTo=6wI8nXQa1p-2)
 
+4.2 Polynomials and interpolation(Полиномы и интерполяция)
+
+![image](https://user-images.githubusercontent.com/94790150/235948949-4dbe5435-fd5e-45da-b8a2-b507e2b857f4.png)
+
+![image](https://user-images.githubusercontent.com/94790150/235952663-faca28fe-dc0d-4444-862b-22870330ebfa.png)
+
+
+[Полиномы и интерполяция. Практика.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11383615/default.pdf)
+
+
 
 
 
