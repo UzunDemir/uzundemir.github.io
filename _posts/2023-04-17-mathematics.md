@@ -162,6 +162,7 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 ![image](https://user-images.githubusercontent.com/94790150/235955692-7fe511b6-cc8f-4702-951d-8ff0d48ff76d.png)
 
+![image](https://user-images.githubusercontent.com/94790150/235957399-e2cb7076-1dc5-4c93-b88c-7676e6915514.png)
 
 
 [Полиномы и интерполяция. Практика.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11383615/default.pdf)
