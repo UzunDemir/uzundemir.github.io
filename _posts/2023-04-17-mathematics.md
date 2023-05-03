@@ -167,6 +167,8 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 [Полиномы и интерполяция. Практика.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11383615/default.pdf)
 
+4.4 Properties of the coefficients of a quadratic function(Свойства коэффициентов квадратичной функции)
+
 
 
 
