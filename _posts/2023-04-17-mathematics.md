@@ -13,6 +13,8 @@ What will you find in these materials?
 
 Well, first of all, we are here to brush up on the school math course on functions, derivatives, vectors, matrices and gradients, and also analyze linear regression and systems of linear equations! And all this is adapted using Python! Believe me, this is really cool, you will look at Mathematics in a completely different way !!!
 
+![regression3](https://user-images.githubusercontent.com/94790150/235981357-2a3534b3-bc66-482b-8cf6-1b06eb364993.gif)
+
 ## So let's get started!
 
 1. Analytics and ML. Basic math objects and SymPy. Fractions and conversions. (Аналитика и ML. Базовые математические объекты и SymPy. Дроби и преобразования.)
