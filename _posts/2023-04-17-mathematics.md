@@ -179,6 +179,11 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 4.8 Finding the coefficients of polynomials analytically(Нахождение коэффициентов полиномов аналитически)
 
+![image](https://user-images.githubusercontent.com/94790150/236242932-2d5136e8-7560-4289-b165-4a9f2fd30698.png)
+
+![image](https://user-images.githubusercontent.com/94790150/236243234-54bb43c0-8650-4e12-b59a-2041231aee71.png)
+
+![image](https://user-images.githubusercontent.com/94790150/236244186-91b1f2db-a4d7-4fe7-80d1-d255fb7a64fc.png)
 
 
 
