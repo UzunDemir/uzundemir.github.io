@@ -185,6 +185,9 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 ![image](https://user-images.githubusercontent.com/94790150/236244186-91b1f2db-a4d7-4fe7-80d1-d255fb7a64fc.png)
 
+![image](https://user-images.githubusercontent.com/94790150/236251243-89088207-17eb-4d14-a7e3-b1a9e5f551bc.png)
+
+
 
 
 
