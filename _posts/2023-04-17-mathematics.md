@@ -209,6 +209,11 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 [Notebook](https://github.com/UzunDemir/uzundemir.github.io/blob/master/other_files/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D1%8C_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.ipynb)
 
+5.3 Function transformations. Shifts right and left (Преобразования функций. Сдвиги вправо и влево)
+
+![image](https://user-images.githubusercontent.com/94790150/236896978-1dc429da-9d5d-4a1d-abd5-c3bb4eb47ac9.png)
+
+
 
 
 
