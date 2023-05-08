@@ -193,7 +193,9 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 [4.10 Disadvantages of interpolation (Недостатки интерполяции)](https://github.com/UzunDemir/uzundemir.github.io/files/11420972/ML.pdf)
 
-4.11 Results of topics covered. Test yourself (Итоги пройденных тем. Проверьте себя) 
+[4.11 Results of topics covered. Test yourself (Итоги пройденных тем. Проверьте себя) ](https://github.com/UzunDemir/uzundemir.github.io/blob/master/other_files/%D0%98%D1%82%D0%BE%D0%B3%D0%B8_%D0%BF%D1%80%D0%BE%D0%B9%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D1%82%D0%B5%D0%BC.ipynb)
+
+
 
 
 
