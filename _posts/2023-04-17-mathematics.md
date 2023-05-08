@@ -213,6 +213,8 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 ![image](https://user-images.githubusercontent.com/94790150/236896978-1dc429da-9d5d-4a1d-abd5-c3bb4eb47ac9.png)
 
+![image](https://user-images.githubusercontent.com/94790150/236903912-35de3e95-12f8-4408-9d0a-7a8d7ca001fc.png)
+
 
 
 
