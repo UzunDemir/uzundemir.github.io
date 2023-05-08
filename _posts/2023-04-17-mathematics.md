@@ -195,6 +195,13 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 [4.11 Results of topics covered. Test yourself (Итоги пройденных тем. Проверьте себя) ](https://github.com/UzunDemir/uzundemir.github.io/blob/master/other_files/%D0%98%D1%82%D0%BE%D0%B3%D0%B8_%D0%BF%D1%80%D0%BE%D0%B9%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D1%82%D0%B5%D0%BC.ipynb)
 
+5.2 Loss function (Функция потерь) 
+
+![image](https://user-images.githubusercontent.com/94790150/236832891-f47f4a93-b401-4cb9-b216-baf96540fc5b.png)
+
+![image](https://user-images.githubusercontent.com/94790150/236833793-dc32b713-1dc2-4f2b-92f4-b9b4902ed671.png)
+
+
 
 
 
