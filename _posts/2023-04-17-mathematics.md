@@ -201,10 +201,11 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 ![image](https://user-images.githubusercontent.com/94790150/236833793-dc32b713-1dc2-4f2b-92f4-b9b4902ed671.png)
 
+![image](https://user-images.githubusercontent.com/94790150/236835159-48c623c7-0be5-42dc-bb6c-2a25336998b1.png)
 
+[Функция потерь. Практика.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11421486/default.pdf)
 
-
-
+[Функция потерь. Практика. Ответ.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11421483/default.pdf)
 
 
 
