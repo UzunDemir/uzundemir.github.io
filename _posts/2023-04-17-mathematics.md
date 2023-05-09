@@ -221,6 +221,11 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 ![image](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/ea5404d0-ab68-4946-be59-d18dbeec3ed1)
 
+![image](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/f5aa9ec9-4335-4bb6-88f3-03ab318cebca)
+
+![image](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/edf23bad-220c-4f2c-9c6e-adc7b36b9294)
+
+
 
 
 
