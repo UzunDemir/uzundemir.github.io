@@ -219,6 +219,9 @@ Solving inequalities - the problem of finding intervals of sign constancy (Ре�
 
 5.4 Function transformations. Stretching and Compression (Преобразования функций. Растяжения и сжатия)
 
+![image](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/ea5404d0-ab68-4946-be59-d18dbeec3ed1)
+
+
 
 
 
