@@ -21,3 +21,21 @@ title:  "Функции потерь в Python — простая реализа
 
 ### 1. Среднеквадратическая ошибка (MSE)
 
+Среднеквадратичная ошибка (MSE) рассчитывается как среднее значение квадратов разностей между прогнозируемыми и фактически наблюдаемыми значениями. Математически это можно выразить следующим образом:
+
+Реализация MSE на языке Python выглядит следующим образом:
+
+`import numpy as np
+def mean_squared_error(act, pred):
+
+   diff = pred - act
+   differences_squared = diff ** 2
+   mean_diff = differences_squared.mean()
+   
+   return mean_diff
+
+act = np.array([1.1,2,1.7])
+pred = np.array([1,1.7,1.5])
+
+print(mean_squared_error(act,pred))`
+
