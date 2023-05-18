@@ -57,3 +57,39 @@ mean_squared_error(act, pred)
 ``` python
 0.04666666666666667
 ```
+### 2. Среднеквадратическая ошибка (RMSE)
+Среднеквадратическая ошибка (RMSE) рассчитывается как квадратный корень из среднеквадратичной ошибки. Математически мы можем представить это следующим образом:
+
+Реализация Python для RMSE выглядит следующим образом:
+``` python
+import numpy as np
+def root_mean_squared_error(act, pred):
+
+   diff = pred - act
+   differences_squared = diff ** 2
+   mean_diff = differences_squared.mean()
+   rmse_val = np.sqrt(mean_diff)
+   return rmse_val
+
+act = np.array([1.1,2,1.7])
+pred = np.array([1,1.7,1.5])
+
+print(root_mean_squared_error(act,pred))
+```
+Выход :
+``` python
+0.21602468994692867
+```
+Вы также можете использовать mean_squared_error из sklearn для расчета RMSE. Давайте посмотрим, как реализовать RMSE, используя ту же функцию:
+``` python
+from sklearn.metrics import mean_squared_error
+act = np.array([1.1,2,1.7])
+pred = np.array([1,1.7,1.5])
+mean_squared_error(act, pred, squared = False) #Если установлено значение False, функция возвращает значение RMSE.
+```
+Выход :
+``` python
+0.21602468994692867
+```
+Если для параметра squared установлено значение True, функция возвращает значение MSE. Если установлено значение False, функция возвращает значение RMSE.
+
