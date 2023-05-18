@@ -25,7 +25,7 @@ title:  "Функции потерь в Python — простая реализа
 
 Реализация MSE на языке Python выглядит следующим образом:
 
-` python
+``` python
 import numpy as np
 def mean_squared_error(act, pred):
 
@@ -38,5 +38,5 @@ def mean_squared_error(act, pred):
 act = np.array([1.1,2,1.7])
 pred = np.array([1,1.7,1.5])
 
-print(mean_squared_error(act,pred)) `
+print(mean_squared_error(act,pred)) ```
 
