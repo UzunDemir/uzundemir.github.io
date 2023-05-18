@@ -40,3 +40,8 @@ pred = np.array([1,1.7,1.5])
 
 print(mean_squared_error(act,pred)) ```
 
+Выход :
+
+``` python
+0.04666666666666667 ```
+
