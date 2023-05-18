@@ -42,6 +42,6 @@ print(mean_squared_error(act,pred)) ```
 
 Выход :
 
-``` python
+``` 
 0.04666666666666667 ```
 
