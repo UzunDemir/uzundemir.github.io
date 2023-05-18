@@ -25,7 +25,8 @@ title:  "Функции потерь в Python — простая реализа
 
 Реализация MSE на языке Python выглядит следующим образом:
 
-`import numpy as np
+` python
+import numpy as np
 def mean_squared_error(act, pred):
 
    diff = pred - act
