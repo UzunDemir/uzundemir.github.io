@@ -3,7 +3,8 @@ layout: post
 title:  "Вопросы для собеседования на позицию Machine Learning Junior"
 ---
 
-![ezgif com-gif-maker (13)](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/89584c0c-32db-4e6c-8714-ba237af59cfe)
+![Intro-HELLO-FUTURE-1920x1080_v2](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/8194240b-d415-4447-9ccf-6abc00880b4c)
+
 
 ## 2.8 Вопросы для собеседования «Основные термины машинного обучения»
 
