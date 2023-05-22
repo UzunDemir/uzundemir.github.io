@@ -251,3 +251,5 @@ title:  "Мои  ссылки"
 🛠 [Markdown from sglazov](https://github.com/sglazov/notes/blob/master/markdown.md)
 
 🔳 [coolbluedata.com - Упорядочивая хаос. Поиск инсайтов в данных](https://coolbluedata.com/ru/ordering-chaos/)
+
+📑[Документация на русском](https://runebook.dev/ru/docs/numpy/reference/random/generated/numpy.random.rand)
