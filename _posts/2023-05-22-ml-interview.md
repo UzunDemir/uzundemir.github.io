@@ -3,7 +3,7 @@ layout: post
 title:  "Вопросы для собеседования Machine Learning Junior"
 ---
 
-![creativity](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/4b7320d1-90dc-4f11-bcd3-6a1106f9db01)
+![Machine-Learning-AI-Concept](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/27e8c34d-9136-4b36-b78d-d3d2ec0aaa79)
 
 ## 2.8 Вопросы для собеседования «Основные термины машинного обучения»
 
