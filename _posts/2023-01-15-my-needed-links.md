@@ -255,3 +255,5 @@ title:  "Мои  ссылки"
 📑[Документация на русском](https://runebook.dev/ru/docs/numpy/reference/random/generated/numpy.random.rand)
 
 [⚙️](https://www.webtunix.ai/)
+
+🛠[Как быстро освоить PyCharm для машинного обучения](https://cnvrg.io/pycharm-machine-learning/)
