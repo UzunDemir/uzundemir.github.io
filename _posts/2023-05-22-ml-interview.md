@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Вопросы для собеседования Machine Learning Junior"
+title:  "Вопросы для собеседования на позицию Machine Learning Junior"
 ---
 
 ![Machine-Learning-AI-Concept](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/27e8c34d-9136-4b36-b78d-d3d2ec0aaa79)
