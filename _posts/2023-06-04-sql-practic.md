@@ -252,3 +252,13 @@ BEGIN
     END LOOP;
 END $$;
 ```
+```sql
+ALTER TABLE product ALTER COLUMN model TYPE integer USING model::integer; -- изменить тип столбца
+```
+
+```sql
+-- выводит уникальные значения, которые не встречаются в printer
+SELECT DISTINCT model
+FROM laptop
+WHERE model not IN (SELECT model FROM printer);
+```
