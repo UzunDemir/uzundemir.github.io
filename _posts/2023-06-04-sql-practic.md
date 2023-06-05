@@ -165,3 +165,90 @@ DROP SCHEMA public CASCADE; -- удаляем все таблицы удалив
 ```sql
 CREATE SCHEMA public; -- создаем новую схему 
 ```
+```sql
+-- создаем нужные таблицы со столбцами 
+CREATE TABLE pc (
+  code INTEGER,
+  model INTEGER,
+  speed INTEGER,
+  ram INTEGER,
+  hdd NUMERIC(4,1),
+  cd VARCHAR(10),
+  price NUMERIC(10,2)
+);
+
+CREATE TABLE laptop (
+  code INTEGER,
+  model INTEGER,
+  speed INTEGER,
+  ram INTEGER,
+  hdd NUMERIC(4,1),
+  price NUMERIC(10,2),
+  screen Integer
+);
+
+CREATE TABLE printer (
+  code INTEGER,
+  model INTEGER,
+  color VARCHAR(10),
+  type VARCHAR(50),
+  price NUMERIC(10,2)  
+);
+```
+```sql
+-- генерируем данные и заполняем таблицы
+DO $$
+-- декларируем переменные
+-------------------------product
+DECLARE A TEXT; -- maker
+declare B INT; --model
+-------------------------pc, laptop, printer
+declare code_ int;
+declare model_ int;
+declare speed_ int;
+declare ram_ int;
+declare hdd_ NUMERIC(10, 1);
+declare cd_ text;
+declare price_ NUMERIC(10, 2);
+declare type_ text;
+declare color_ text;
+-------------------------
+BEGIN
+    FOR i IN 1..100 LOOP -- 100 значений
+        IF random() < 0.04 then   A := 'Alta';
+        ELSIF random() < 0.08 then   A := 'Amdahl'; B := random()*10000; code_ := random()*10+1; model_ := 1200 + random()*100; speed_ := random()*10*100; ram_ := random()*10*32; hdd_ := code_+ 8; cd_ := concat(code_*2+12, 'x'); price_ := B+354; type_ := 'HP (Hewlett-Packard)'; color_ := 'b';
+        ELSIF random() < 0.12 then   A := 'Avalon'; B := random()*10000; code_ := random()*10+1; model_ := 1200 + random()*100; speed_ := random()*10*100; ram_ := random()*10*32; hdd_ := code_+ 8; cd_ := concat(code_*2+12, 'x'); price_ := B+354; type_ := 'Canon'; color_ := 'b';
+        ELSIF random() < 0.16 then   A := 'Bull'; B := random()*10000; code_ := random()*10+1; model_ := 1200 + random()*100; speed_ := random()*10*100; ram_ := random()*10*32; hdd_ := code_+ 8; cd_ := concat(code_*2+12, 'x'); price_ := B+354; type_ := 'Canon'; color_ := 'w';
+        ELSIF random() < 0.20 then   A := 'CPP'; B := random()*10000; code_ := random()*10+1; model_ := 1200 + random()*100; speed_ := random()*10*100; ram_ := random()*10*32; hdd_ := code_+ 8; cd_ := concat(code_*2+12, 'x'); price_ := B+354; type_ := 'Epson'; color_ := 'b';
+        ELSIF random() < 0.24 then   A := 'Compaq/DEC'; B := random()*10000; code_ := random()*10+1; model_ := 1200 + random()*100; speed_ := random()*10*100; ram_ := random()*10*32; hdd_ := code_+ 8; cd_ := concat(code_*2+12, 'x'); price_ := B+354;
+        ELSIF random() < 0.28 then   A := 'Cray'; B := random()*10000; code_ := random()*10+1; model_ := 1200 + random()*100; speed_ := random()*10*100; ram_ := random()*10*32; hdd_ := code_+ 8; cd_ := concat(code_*2+12, 'x'); price_ := B+354; type_ := 'Epson'; color_ := 'b'; 
+        ELSIF random() < 0.32 then   A := 'CSPI'; B := random()*10000; code_ := random()*10+1; model_ := 1200 + random()*100; speed_ := random()*10*100; ram_ := random()*10*32; hdd_ := code_+ 8; cd_ := concat(code_*2+12, 'x'); price_ := B+354; type_ := 'Brother'; color_ := 'w';
+        ELSIF random() < 0.36 then   A := 'Data General'; B := random()*10000; code_ := random()*10+1; model_ := 1200 + random()*100; speed_ := random()*10*100; ram_ := random()*10*32; hdd_ := code_+ 8; cd_ := concat(code_*2+12, 'x'); price_ := B+354; type_ := 'Xerox'; color_ := 'b';
+        ELSIF random() < 0.40 then   A := 'Dell'; B := random()*10000; code_ := random()*10+1; model_ := 1200 + random()*100; speed_ := random()*10*100; ram_ := random()*10*32; hdd_ := code_+ 8; cd_ := concat(code_*2+12, 'x'); price_ := B+354; type_ := 'Brother'; color_ := 'w';
+        ELSIF random() < 0.44 then   A := 'Fujitsu'; B := random()*10000; code_ := random()*10+1; model_ := 1200 + random()*100; speed_ := random()*10*100; ram_ := random()*10*32; hdd_ := code_+ 8; cd_ := concat(code_*2+12, 'x'); price_ := B+354; type_ := 'Lexmark'; color_ := 'b';
+        ELSIF random() < 0.48 then   A := 'Hewlett-Packard'; B := random()*10000;
+        elsif random() < 0.52 then   A := 'Hitachi'; B := random()*10000; type_ := 'Xerox'; color_ := 'b';
+        ELSIF random() < 0.56 then   A := 'IBM'; B := random()*10000;
+        ELSIF random() < 0.60 then   A := 'Intel'; B := random()*10000; type_ := 'Samsung'; color_ := 'w';
+        ELSIF random() < 0.64 then   A := 'NEC'; B := random()*10000;
+        ELSIF random() < 0.68 then   A := 'Parsytec'; B := random()*10000; type_ := 'Lexmark'; color_ := 'b';
+        ELSIF random() < 0.72 then   A := 'Quadrics'; B := random()*10000;
+        ELSIF random() < 0.76 then   A := 'Sequent'; B := random()*10000; type_ := 'Ricoh'; color_ := 'w';
+        ELSIF random() < 0.80 then   A := 'Siemens-Nixdorf'; B := random()*10000;
+        ELSIF random() < 0.84 then   A := 'SGI'; B := random()*10000; type_ := 'Kyocera'; color_ := 'b';
+        ELSIF random() < 0.88 then   A := 'Sun'; B := random()*10000;
+        ELSIF random() < 0.92 then   A := 'SCS'; B := random()*10000;
+        ELSIF random() < 0.99 then   A := 'Unisys'; B := random()*10000; type_ := 'Dell'; color_ := 'w';
+       --
+       
+        END IF;
+
+        
+        RAISE NOTICE 'Adding record with model %, %, %, %, %, %, %, %, %', A, B, code_, model_, speed_, ram_, hdd_, cd_, price_;
+        INSERT INTO Product (maker, model, type) VALUES (A, B, 'PC'); -- product
+        INSERT INTO PC (code, model, speed, ram, hdd, cd, price) VALUES (code_, model_, speed_, ram_, hdd_, cd_, price_); -- pc
+        INSERT INTO Laptop (code, model, speed, ram, hdd, price, screen) VALUES (code_* 10, model_+ 1234, speed_+ 1, ram_+12, hdd_, price_/2, hdd_+10); -- laptop
+        INSERT INTO printer (code, model, color, type, price) VALUES (code_* 3, model_+ 34, color_, type_, price_/2); -- printer
+    END LOOP;
+END $$;
+```
