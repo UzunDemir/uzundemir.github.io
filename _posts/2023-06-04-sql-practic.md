@@ -160,5 +160,8 @@ Laptop (code, model, speed, ram, hd, screen, price).
 Printer (code, model, color, type, price).
 ```
 ```sql
-DROP SCHEMA public CASCADE;
+DROP SCHEMA public CASCADE; -- удаляем все таблицы удалив схему
+```
+```sql
+CREATE SCHEMA public; -- создаем новую схему 
 ```
