@@ -149,5 +149,16 @@ netsh advfirewall firewall add rule name="Postgre Port" dir=in action=allow prot
 
 Для резервного копирования и восстановления лучше использовать инструмент `Backup` в панели инструментов `Tools`. Для автоматизации бэкапа `PostgreSQL` из командной строки используйте утилиту `pg_dump.exe`.
 
+#### Создание таблиц в Dbeaver 
 
+Нужно создать таблицы:
 
+```
+Product (maker, model, type).
+PC (code, model, speed, ram, hd, cd, price).
+Laptop (code, model, speed, ram, hd, screen, price).
+Printer (code, model, color, type, price).
+```
+```sql
+DROP SCHEMA public CASCADE;
+```
