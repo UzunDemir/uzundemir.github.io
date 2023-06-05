@@ -167,6 +167,11 @@ CREATE SCHEMA public; -- создаем новую схему
 ```
 ```sql
 -- создаем нужные таблицы со столбцами 
+CREATE TABLE product (
+  maker VARCHAR(50),
+  model VARCHAR(50),
+  type VARCHAR(50)    
+);
 CREATE TABLE pc (
   code INTEGER,
   model INTEGER,
