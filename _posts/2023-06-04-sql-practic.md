@@ -100,10 +100,54 @@ netsh advfirewall firewall add rule name="Postgre Port" dir=in action=allow prot
 
 * Запустите командную строку.
 * Перейдите в каталог bin выполнив команду: `CD C:\Program Files\PostgreSQL\11\bin`
+
 ![image](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/a75369aa-0433-484b-ac82-35a3375f8821)
+
 Основные команды PostgreSQL:
+
 * Проверка установленной версии СУБД: `psql –V`
+
 * Для создания новой базы данных воспользуйтесь утилитой createdb: `createdb -U postgres testdb` (где postgres суперпользователь, testdb новая база данных)Введите пароль суперпользователя.
+
+![image](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/5c441853-fe10-40e1-b055-4ae6ce4f8e3a)
+
+* Проверить список активных баз: `Psql -U postgres –l` (пароль)
+
+![image](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/9d212e7a-8500-4e93-b201-7a9febc084cb)
+
+* С помощью инструмента createuser cоздадим нового пользователя: `createuser –U postgres operator` (где operator -имя нового пользователя)
+
+![image](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/02436243-c3c2-4954-8117-e53d55941012)
+
+* Предоставим пользователю привилегии суперпользователя (на практике этого делать не надо). 
+* Запустите интерактивную командную оболочку управления PostgreSQL (shell): `psql –U postgres` . 
+* С помощью SQL команды `ALTER ROLE` предоставим нужные права нашему пользователю: `ALTER ROLE operator SUPERUSER CREATEROLE CREATEDB;` . 
+* Мы предоставили пользователю права суперпользователя, права на создание ролей и баз данных.
+* Для выводы списка пользователей и ролей в СУБД выполните команду: `\du`
+
+![image](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/cd3a99c6-608c-43e4-bfec-bc51c75ee225)
+
+#### 4. PgAdmin: Визуальный редактор для PostgresSQL
+
+Редактор PgAdmin служит для упрощения управления базой данных PostgresSQL в понятном визуальном режиме.
+
+* Для запуска редактора запустите PgAdmin 4 в меню Пуск
+* Для доступа нужно ввести пароль суперпользователя postgres
+* В панели Servers вы можете раскрыть список активных БД.
+
+![image](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/db1e901a-11f5-429b-95c4-70a9063e5ac0)
+
+* В панели управления возможно быстро создать нового пользователя и группу, предоставить ему права. Для этого Откройте меню Object -> Create -> Create Login/Group.
+
+![image](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/1576c966-fc26-405b-aacc-d05cbff555ac)
+
+* Для создания новой базы данных достаточно выбрать: Database в меню Object -> Create. В новом поле указать имя базы и владельца.
+
+По умолчанию все созданные базы хранятся в каталоге base по пути `C:\Program Files\PostgreSQL\11\data\base.`
+
+Для каждой `БД` существует подкаталог внутри `PGDATA/base`, названный по `OID` базы данных в `pg_database`. Этот подкаталог по умолчанию является местом хранения файлов базы данных; в частности, там хранятся её системные каталоги. Каждая таблица и индекс хранятся в отдельном файле.
+
+Для резервного копирования и восстановления лучше использовать инструмент `Backup` в панели инструментов `Tools`. Для автоматизации бэкапа `PostgreSQL` из командной строки используйте утилиту `pg_dump.exe`.
 
 
 
