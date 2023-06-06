@@ -2,6 +2,8 @@
 layout: post
 title:  "SQL - my practics work"
 ---
+![blog-lg](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/8ade5e36-a940-4d4a-a088-2265c2e74920)
+
 
 ### Цель практической работы
 
