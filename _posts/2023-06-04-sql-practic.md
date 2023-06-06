@@ -12,14 +12,14 @@ title:  "SQL - my practics work"
 
 Схема БД состоит из четырёх таблиц:
 
-`Product (maker, model, type).
+`Product (maker, model, type).`
 
-PC (code, model, speed, ram, hd, cd, price).
+`PC (code, model, speed, ram, hd, cd, price).`
 
-Laptop (code, model, speed, ram, hd, screen, price).
+`Laptop (code, model, speed, ram, hd, screen, price).`
 
-Printer (code, model, color, type, price).
-`
+`Printer (code, model, color, type, price).`
+
 Таблица Product представляет производителя (maker), номер модели (model) и тип (PC — ПК, Laptop — портативный компьютер или Printer — принтер). Предполагается, что в этой таблице номера моделей уникальны для всех производителей и типов продуктов. В таблице PC для каждого номера модели, обозначающего ПК, указаны скорость процессора — speed (МГц), общий объём оперативной памяти — ram (Мб), размер диска — hd (Гб), скорость считывающего устройства — cd (например, '4х'), цена — price. Таблица Laptop аналогична таблице РС за исключением того, что вместо скорости CD-привода содержит размер экрана — screen (в дюймах). В таблице Printer для каждой модели принтера указывается, является ли он цветным — color ('y', если цветной), тип принтера — type (лазерный — Laser, струйный — Jet или матричный — Matrix) и цена — price. 
 ![image](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/24ec4872-8af5-4728-867a-c59fb8524a9d)
 
