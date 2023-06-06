@@ -270,9 +270,54 @@ WHERE model not IN (SELECT model FROM printer);
 #### Задача
 1. Напишите запросы к базе данных.
 * Найдите модели принтеров, имеющих самую высокую цену. Вывести: model, price.
+```sql
+SELECT model, price
+FROM Printer
+WHERE price = (SELECT MAX(price) FROM Printer);
+```
 * Найдите среднюю скорость ПК.
+```sql
+SELECT AVG(speed) FROM PC;
+```
 * Найдите производителя, продающего ПК, но не ноутбуки.
+```sql
+SELECT model
+FROM product
+WHERE model NOT IN (SELECT model FROM laptop);
+```
 2. Загрязните специально датасет (вставьте новые значения с уникальным кодом, но всеми остальными дублирующими полями).
+```sql
+INSERT INTO PC (code, model, speed, ram, hdd, cd, price)
+SELECT random()*10000, model, speed, ram, hdd, cd, price
+FROM PC
+ORDER BY random()
+LIMIT 10;
+```
 3. Напишите оконную функцию, которая поможет вам обнаружить эти строки-редиски.
+```sql
+DELETE FROM pc
+WHERE (model, speed, ram, hdd, cd, price) IN (
+  SELECT model, speed, ram, hdd, cd, price
+  FROM pc
+  GROUP BY model, speed, ram, hdd, cd, price
+  HAVING COUNT(*) > 1
+);
+```
 4. Обновите название колонки в таблице printer с color на color_type и поменяйте тип поля.
+```sql
+-- Изменяем название колонки на color_type и меняем тип поля на varchar(25)
+ALTER TABLE printer RENAME COLUMN color TO color_type
+ALTER TABLE printer ALTER COLUMN color_type TYPE varchar(25);
+```
 5. В последнем пункте выполните слияние двух запросов из таблиц PC и Laptop, выбрав только те значения, у которых цена больше 500, а ram = 64.
+
+```sql
+-- Объединяем результаты двух запросов с помощью оператора UNION
+SELECT ram, price, 'PC' as type
+FROM PC
+WHERE price > 500 AND ram = 64
+union 
+SELECT ram, price, 'Laptop' as type
+FROM Laptop
+WHERE price > 500 AND ram = 64;
+```
