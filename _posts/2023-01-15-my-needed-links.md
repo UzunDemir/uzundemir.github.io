@@ -259,3 +259,6 @@ title:  "Мои  ссылки"
 🛠[Как быстро освоить PyCharm для машинного обучения](https://cnvrg.io/pycharm-machine-learning/)
 
 🎵[Математическая проблема с музыкой и способы ее решения](https://youtu.be/nK2jYk37Rlg)
+
+![image](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/3949929c-b1af-4d71-867a-7eedaf84966a)
+
