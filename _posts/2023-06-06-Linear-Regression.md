@@ -15,3 +15,9 @@ title:  "Linear Regression"
 [4.3 Метод наименьших квадратов как решение матричного уравнения. Часть 1.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11666858/4.3.1.pdf)
 
 [4.3 Практика.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11666859/4.3.pdf)
+
+4.4 The method of least squares as a solution to the matrix equation. Part 2 (Метод наименьших квадратов как решение матричного уравнения. Часть 2)
+
+[4.4 Практика (1).pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11787654/4.4.1.pdf)
+
+[4.4 Метод наименьших квадратов как решение матричного уравнения. Часть 2 (1).pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11787653/4.4.2.1.pdf)
