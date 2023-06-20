@@ -21,3 +21,6 @@ title:  "Linear Regression"
 [4.4 Практика (1).pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11787654/4.4.1.pdf)
 
 [4.4 Метод наименьших квадратов как решение матричного уравнения. Часть 2 (1).pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11787653/4.4.2.1.pdf)
+
+[Practics Notebook](https://github.com/UzunDemir/uzundemir.github.io/blob/master/other_files/4.%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201-2%20.ipynb) 
+
