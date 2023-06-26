@@ -5,6 +5,8 @@ title: Hello, world!
 Yes, these are the first words that every novice programmer prints! And I did not change this old and good tradition and do exactly the same as thousands of programmers did before me.
 A kind of challenge to the entire digital world, a statement about yourself for all to hear!
 
+![faceman](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/d719d247-80c3-4a5f-bfa4-1c820d551c5d)
+
 
 ### «Hello, world!» 
 A "Hello, World!" program is generally a computer program that ignores any input and outputs or displays a message similar to "Hello, World!". A small piece of code in most general-purpose programming languages, this program is used to illustrate a language's basic syntax. "Hello, World!" programs are often the first a student learns to write in a given language, and they can also be used as a sanity check to ensure computer software intended to compile or run source code is correctly installed, and that its operator understands how to use it.
