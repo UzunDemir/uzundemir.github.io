@@ -8,7 +8,7 @@ title:  "Linear Regression"
 
 4.2 Least squares (Метод наименьших квадратов)
 
-[4.2 Метод наименьших квадратов.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11666739/4.2.pdf)
+* [4.2 Метод наименьших квадратов.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11666739/4.2.pdf)
 
 4.3 The method of least squares as a solution to the matrix equation. Part 1 (Метод наименьших квадратов как решение матричного уравнения. Часть 1)
 
