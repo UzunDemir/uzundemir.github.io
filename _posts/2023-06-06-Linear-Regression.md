@@ -30,4 +30,4 @@ title:  "Linear Regression"
 
 [4.5 Практика ноутбук](https://github.com/UzunDemir/uzundemir.github.io/blob/master/other_files/4.5%20%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.ipynb)
 
-[matrix_my.ipynb](https://github.com/UzunDemir/uzundemir.github.io/blob/master/other_files/matrix_my.ipynb)https://github.com/UzunDemir/uzundemir.github.io/blob/master/other_files/matrix_my.ipynb
+[matrix_my.ipynb](https://github.com/UzunDemir/uzundemir.github.io/blob/master/other_files/matrix_my.ipynb)
