@@ -40,4 +40,5 @@ title:  "Linear Regression"
   
 * [5.1 Анализ результатов линейной регрессии.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11925463/5.1.pdf)
 
-* 
+** jh
+
