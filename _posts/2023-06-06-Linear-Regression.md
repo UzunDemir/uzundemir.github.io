@@ -44,4 +44,8 @@ title:  "Linear Regression"
 
 5.2 Лассо, или L1-регуляризация
 
+* [5.2 Лассо, или L1-регуляризация.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/12206592/5.2.L1-.pdf)
+* [5.2 Лассо или L1-регуляризация.ipynb](https://github.com/UzunDemir/uzundemir.github.io/blob/master/other_files/5.2%20%D0%9B%D0%B0%D1%81%D1%81%D0%BE%20%D0%B8%D0%BB%D0%B8%20L1-%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.ipynb)
+
+
 
