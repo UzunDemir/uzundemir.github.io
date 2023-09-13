@@ -46,5 +46,8 @@ title:  "Linear Regression"
 
 * [5.5 Практическая работа.ipynb](https://github.com/UzunDemir/uzundemir.github.io/blob/master/other_files/5.5%20%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.ipynb)
 
+6.1 Метрики и метрические методы. Метод ближайших соседей.
+
+* [6.1 Метрики и метрические методы. Метод ближайших соседей.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/12595224/6.1.pdf)
 
 
