@@ -26,3 +26,5 @@ Apache Spark: Мощный инструмент для обработки бол
 Репозиторий проекта, выполненный в рамках курса ML Engineer Skillbox находится [здесь](https://github.com/UzunDemir/ML_Junior_diplom_project_Skillbox)
 
 
+
+![0N7zavM7rKVA3Fs21hglDKhyg9JV2Gf0](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/2c5b3034-46f2-4748-ab35-2cf0f7005bdb)
