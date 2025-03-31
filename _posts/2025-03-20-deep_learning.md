@@ -4,12 +4,13 @@ title:  "Deep Learning"
 ---
 
 
-![regression3](https://github.com/user-attachments/assets/56e385f9-6e81-474e-adcb-1dcf1b5d5bd3)
+![dl](https://github.com/user-attachments/assets/a7612400-ab53-4762-9ebe-18ef95f0fac7)
 
 
 ### **ML → DL: Переход на тёмную сторону**  
 
 Курсы по ML пройдены, sklearn освоен, xgboost покорён. Теперь — **нейросети**.  
+
 
 **План атаки:**  
 1. **CNN** — чтобы компьютеры наконец-то *увидели* то, что видят мы.  
