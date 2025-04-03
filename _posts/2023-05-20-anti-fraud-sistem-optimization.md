@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Machine Learning Junior"
+title:  "Оптимизация банковских антифродовых систем путем снижения количества ложных срабатываний с использованием индукции правил в распределенных деревьях решений."
 ---
 
-[![040823_chatgpt_feat](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/9edc3941-e5a0-4ee9-a791-0d68b3048b1d)](https://uzundemir.github.io//ml-junior)
+![uzun_antifraud](https://github.com/user-attachments/assets/58469d03-7de1-465f-b67b-d020d8189480)
 
 [2.1 Введение в блок.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11489884/2.1.pdf)
 
