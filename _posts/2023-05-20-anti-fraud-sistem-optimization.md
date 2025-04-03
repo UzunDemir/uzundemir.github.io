@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Machine Learning Junior"
+---
+
+[![040823_chatgpt_feat](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/9edc3941-e5a0-4ee9-a791-0d68b3048b1d)](https://uzundemir.github.io//ml-junior)
+
+[2.1 Введение в блок.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11489884/2.1.pdf)
+
+![uzun demir cat dog](https://github.com/UzunDemir/uzundemir.github.io/assets/94790150/ac57276c-0b8a-4cb0-b80e-ff813105a33d)
+
+[2.3 Регрессия.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11490041/2.3.pdf)
+
+[2.4 Классификация.pdf](https://github.com/UzunDemir/uzundemir.github.io/files/11490439/2.4.pdf)
+
+[2.6 Функция потерь](https://uzundemir.github.io//loss-function)
+
+Функции потерь в Python являются неотъемлемой частью любой модели машинного обучения. Эти функции говорят нам, насколько прогнозируемый результат модели отличается от фактического результата.
+
+Существует несколько способов расчета этой разницы. В этом уроке мы рассмотрим некоторые из наиболее популярных функций потерь.
+
+В этом уроке мы собираемся обсудить следующие четыре функции потерь.
+
+* Среднеквадратическая ошибка
+
+* Среднеквадратическая ошибка
+
+* Средняя абсолютная ошибка
+
+* Кросс-энтропийные потери
