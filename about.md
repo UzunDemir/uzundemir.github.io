@@ -14,7 +14,7 @@ permalink: /about/
 
 ## 5 random facts about me:
 ![Image alt]({{ site.baseurl }}/images/abstrakcii_08.gif)
-
+---
 1. When I was a schoolboy, I really liked the subject of computer science, I attended an additional circle on this subject, won prizes at various olympiads, but ... after graduating from school, I went to study in a completely different specialty. Thus, I was far from programming for 25 years!
 ---
 2. Once at school, for one creative evening, it was necessary to prepare and perform a song on the guitar. I never played the guitar and had no idea about notes and so on! What did I do… I just tuned the guitar by ear, and with simple 3-4 chords (which I also invented myself) I picked up a song and successfully performed at the school evening!
@@ -52,7 +52,7 @@ P.S. If this text seems suspiciously accurate... Perhaps I am that very RAG. �
 
 *We've reached the point of no return.* ☠️
 
-  
+---  
 
 ### Contact me ![](https://komarev.com/ghpvc/?username=UzunDemir&style=flat-square)
 
