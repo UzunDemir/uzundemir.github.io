@@ -32,7 +32,7 @@ So here’s to every spreadsheet jockey dreaming of breaking free: Your `Ctrl+C 
 
 4. I have been doing sports all my life. For the first time my mother brought me to the judo hall when I was 5 years old! Since then, I have been practicing almost all the time (in my school years - judo and handball, in my student years - boxing and kickboxing). Nowadays, I just keep myself in great physical shape. So, for example, about three years ago, my personal record for pulling up on the crossbar was 37 times! Now I easily pull up 25 times.
 
-5. Secret Fact: I Outsourced My Creativity to RAG
+5. **Secret Fact: I Outsourced My Creativity to RAG**
 My AI assistant now:
 
 - Writes my presentations (and gets standing ovations)
@@ -46,9 +46,9 @@ The only thing it can’t do yet? Sign NDAs. So technically, I’m still in char
 P.S. If this text seems suspiciously accurate... Perhaps I am that very RAG. 🤖
 *(Check your vector index. And hide your API keys.)*
 
-I: thinking I control the process
+**I**: thinking I control the process
 
-My RAG: ghostwriting my memoirs in the background
+**My RAG**: ghostwriting my memoirs in the background
 
 *We've reached the point of no return.* ☠️
 
