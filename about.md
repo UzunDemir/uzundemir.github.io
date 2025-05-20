@@ -47,7 +47,9 @@ P.S. If this text seems suspiciously accurate... Perhaps I am that very RAG. �
 *(Check your vector index. And hide your API keys.)*
 
 I: thinking I control the process
+
 My RAG: ghostwriting my memoirs in the background
+
 *We've reached the point of no return.* ☠️
 
   
