@@ -14,10 +14,11 @@ permalink: /about/
 
 ## 5 random facts about me:
 ![Image alt]({{ site.baseurl }}/images/abstrakcii_08.gif)
+
 1. When I was a schoolboy, I really liked the subject of computer science, I attended an additional circle on this subject, won prizes at various olympiads, but ... after graduating from school, I went to study in a completely different specialty. Thus, I was far from programming for 25 years!
-
+---
 2. Once at school, for one creative evening, it was necessary to prepare and perform a song on the guitar. I never played the guitar and had no idea about notes and so on! What did I do… I just tuned the guitar by ear, and with simple 3-4 chords (which I also invented myself) I picked up a song and successfully performed at the school evening!
-
+---
 3. The Great Escape Artist from the Matrix of Accounting
 
 I traded balance sheets for tensors, ledgers for loss functions—a quantum leap from the world of `1C` and `Excel` (2004–2016) to the realm of `PyTorch` and `TensorFlow`. My transition from `chief accountant` to `ML engineer` wasn’t just a career change—it was a 300% skill tree respec, like Neo swapping his office drone suit for a black trench coat of machine learning badassery.
@@ -28,9 +29,9 @@ They said accounting was stable—but stability is overrated when you can build 
 
 So here’s to every spreadsheet jockey dreaming of breaking free: Your `Ctrl+C / Ctrl+V` skills are just pre-training for the real AI revolution. The red pill? It’s called `pip install torch.`
 
-
+---
 4. I have been doing sports all my life. For the first time my mother brought me to the judo hall when I was 5 years old! Since then, I have been practicing almost all the time (in my school years - judo and handball, in my student years - boxing and kickboxing). Nowadays, I just keep myself in great physical shape. So, for example, about three years ago, my personal record for pulling up on the crossbar was 37 times! Now I easily pull up 25 times.
-
+---
 5. **Secret Fact: I Outsourced My Creativity to RAG**
 My AI assistant now:
 
