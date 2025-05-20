@@ -34,7 +34,13 @@ So here’s to every spreadsheet jockey dreaming of breaking free: Your `Ctrl+C 
 
 ---
 
-I have been doing sports all my life. For the first time my mother brought me to the judo hall when I was 5 years old! Since then, I have been practicing almost all the time (in my school years - judo and handball, in my student years - boxing and kickboxing). Nowadays, I just keep myself in great physical shape. So, for example, about three years ago, my personal record for pulling up on the crossbar was 37 times! Now I easily pull up 25 times.
+**柔道**
+
+I’ve been involved in sports my entire life. My mother first brought me to a judo dojo when I was just five years old. As a child, I was deeply struck by something my favorite coach once said: judo isn’t just a sport — it’s a lifelong journey of self-perfection.
+
+Back then, I thought that after a few years of training, I could already call myself a judoka. But over time, I realized that being a true judoka means constantly growing, learning, and overcoming yourself. It’s a path with no finish line.
+
+Today, I continue on my path of self-improvement, maintaining excellent physical condition. For example, about three years ago, my personal record for pull-ups on the bar was 37.
    
 ---
 
