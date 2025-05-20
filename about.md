@@ -34,7 +34,7 @@ So here’s to every spreadsheet jockey dreaming of breaking free: Your `Ctrl+C 
 
 ---
 
-**柔道**
+# 柔道
 
 I’ve been involved in sports my entire life. My mother first brought me to a judo dojo when I was just five years old. As a child, I was deeply struck by something my favorite coach once said: judo isn’t just a sport — it’s a lifelong journey of self-perfection.
 
