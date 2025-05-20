@@ -4,7 +4,7 @@ title:  "Искусственный интеллект в медицине"
 ---
 
 
-![image](https://github.com/user-attachments/assets/e1fdec85-2185-49a5-97e5-e3217f1da7a3)
+![med1](https://github.com/user-attachments/assets/7a4486f8-6b24-48d5-9d85-a62ce4bfa8ba)
 
 
 
