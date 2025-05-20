@@ -26,6 +26,7 @@ Once at school, for one creative evening, it was necessary to prepare and perfor
 ---
 
 The Great Escape Artist from the Matrix of Accounting
+
 I traded balance sheets for tensors, ledgers for loss functions—a quantum leap from the world of `1C` and `Excel` (2004–2016) to the realm of `PyTorch` and `TensorFlow`. My transition from `chief accountant` to `ML engineer` wasn’t just a career change—it was a 300% skill tree respec, like Neo swapping his office drone suit for a black trench coat of machine learning badassery.
 Back then, I spoke the language of `debits` and `credits`; now I optimize `gradient descent` instead of tax deductions. My old calculator? Repurposed as a paperweight for my arXiv printouts. The only "financial statements" I care about now are confusion matrices and `ROC curves`.
 They said accounting was stable—but stability is overrated when you can build models that predict fraud, diagnose diseases, and outsmart Sber’s anti-fraud systems instead. Turns out, my real superpower wasn’t balancing books—it was rebalancing neural network weights.
@@ -38,6 +39,7 @@ I have been doing sports all my life. For the first time my mother brought me to
 ---
 
 **Secret Fact: I Outsourced My Creativity to RAG**
+
 My AI assistant now:
 
 - Writes my presentations (and gets standing ovations)
