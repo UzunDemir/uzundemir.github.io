@@ -43,6 +43,13 @@ My AI assistant now:
 
 The only thing it can’t do yet? Sign NDAs. So technically, I’m still in charge.
 
+P.S. If this text seems suspiciously accurate... Perhaps I am that very RAG. 🤖
+*(Check your vector index. And hide your API keys.)*
+
+I: thinking I control the process
+My RAG: ghostwriting my memoirs in the background
+*We've reached the point of no return.* ☠️
+
   
 
 ### Contact me ![](https://komarev.com/ghpvc/?username=UzunDemir&style=flat-square)
