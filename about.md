@@ -28,6 +28,7 @@ They said accounting was stable—but stability is overrated when you can build 
 
 So here’s to every spreadsheet jockey dreaming of breaking free: Your `Ctrl+C / Ctrl+V` skills are just pre-training for the real AI revolution. The red pill? It’s called `pip install torch.`
 
+
 4. I have been doing sports all my life. For the first time my mother brought me to the judo hall when I was 5 years old! Since then, I have been practicing almost all the time (in my school years - judo and handball, in my student years - boxing and kickboxing). Nowadays, I just keep myself in great physical shape. So, for example, about three years ago, my personal record for pulling up on the crossbar was 37 times! Now I easily pull up 25 times.
 
 5. **Secret Fact: I Outsourced My Creativity to RAG**
