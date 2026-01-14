@@ -288,18 +288,146 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
+// pre code {
+//   display: block;
+//   padding: 20px;
+//   margin: 0;
+//   background-color: #1e1e1e; // тёмный фон
+//   color: #d4d4d4;
+//   border-radius: 12px;
+//   overflow-x: auto;
+//   font-family: 'Fira Code', 'Source Code Pro', monospace;
+//   font-size: 14px;
+//   line-height: 1.5;
+//   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+// }
+
+// /* Полоска прокрутки */
+// pre::-webkit-scrollbar {
+//   height: 8px;
+// }
+
+// pre::-webkit-scrollbar-thumb {
+//   background: #555;
+//   border-radius: 4px;
+// }
+
+// /* Подсветка синтаксиса Highlight.js */
+// .hljs-comment,
+// .hljs-quote { color: #6a9955; font-style: italic; }
+// .hljs-keyword,
+// .hljs-selector-tag,
+// .hljs-subst { color: #c586c0; font-weight: bold; }
+// .hljs-literal,
+// .hljs-number,
+// .hljs-tag .hljs-attr,
+// .hljs-template-variable,
+// .hljs-variable { color: #b5cea8; }
+// .hljs-string,
+// .hljs-doctag { color: #ce9178; }
+// .hljs-title,
+// .hljs-section,
+// .hljs-selector-id { color: #569cd6; font-weight: bold; }
+// .hljs-subst { font-weight: normal; }
+// .hljs-type,
+// .hljs-class .hljs-title { color: #4ec9b0; font-weight: bold; }
+// .hljs-tag,
+// .hljs-name,
+// .hljs-attribute { color: #569cd6; font-weight: normal; }
+// .hljs-regexp,
+// .hljs-link { color: #d16969; }
+// .hljs-symbol,
+// .hljs-bullet { color: #b5cea8; }
+// .hljs-built_in,
+// .hljs-builtin-name { color: #c586c0; }
+// .hljs-meta { color: #9cdcfe; }
+// .hljs-deletion { background: #511; color: #f99; }
+// .hljs-addition { background: #144; color: #9f9; }
+
+// /* Добавьте это в конец вашего CSS файла */
+// pre, code, .highlight, .hljs {
+//   border: none !important;
+//   outline: none !important;
+//   box-shadow: none !important;
+// }
+
+// /* Для всех элементов с кодом */
+// pre {
+//   border: 1px solid #333 !important; /* Только тёмная рамка если нужна */
+// }
+
+// /* Уберите любые белые границы */
+// * {
+//   box-sizing: border-box;
+// }
+
+// pre code, code[class*="language-"], pre[class*="language-"] {
+//   border: none;
+// }
+
+/*********************/
+/* CODE BLOCKS FIXES */
+/*********************/
+
+/* Ядерный сброс для всех элементов кода - БЕЗ БЕЛЫХ РАМОК */
+pre, code, .highlight, .hljs, .language-*, .mermaid, .chart, .diagram,
+[class*="language-"], [class*="code-"], .sourceCode, .source-code {
+  border: none !important;
+  border-width: 0 !important;
+  border-style: none !important;
+  border-color: transparent !important;
+  outline: none !important;
+  box-shadow: none !important;
+  background-clip: border-box !important;
+}
+
+/* Убираем стандартные браузерные рамки */
+pre {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+/* Основной стиль для блоков кода - только тёмная рамка */
+pre {
+  position: relative;
+  margin: 1.5em 0;
+  padding: 0;
+  background: #1e1e1e;
+  border: 1px solid #2d2d2d !important; /* ТОЛЬКО ТЁМНАЯ РАМКА */
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+  transition: all 0.3s ease;
+}
+
+pre:hover {
+  border-color: #3d3d3d !important;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4) !important;
+}
+
 pre code {
   display: block;
   padding: 20px;
   margin: 0;
-  background-color: #1e1e1e; // тёмный фон
+  background-color: #1e1e1e;
   color: #d4d4d4;
   border-radius: 12px;
   overflow-x: auto;
   font-family: 'Fira Code', 'Source Code Pro', monospace;
   font-size: 14px;
   line-height: 1.5;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  border: none !important; /* НИКАКИХ РАМОК У ВНУТРЕННЕГО КОДА */
+}
+
+/* Inline код */
+:not(pre) > code {
+  background: #2d2d2d;
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: #e06c75;
+  font-size: 0.9em;
+  border: none !important;
 }
 
 /* Полоска прокрутки */
@@ -310,6 +438,18 @@ pre::-webkit-scrollbar {
 pre::-webkit-scrollbar-thumb {
   background: #555;
   border-radius: 4px;
+}
+
+/* Для Mermaid диаграмм */
+.mermaid, .mermaid svg {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.mermaid .label {
+  color: #d4d4d4 !important;
+  font-family: $helvetica;
 }
 
 /* Подсветка синтаксиса Highlight.js */
@@ -344,19 +484,115 @@ pre::-webkit-scrollbar-thumb {
 .hljs-deletion { background: #511; color: #f99; }
 .hljs-addition { background: #144; color: #9f9; }
 
-/* Добавьте это в конец вашего CSS файла */
-pre, code, .highlight, .hljs {
-  border: none !important;
+/* Специально для Jekyll/Highlight.js */
+.highlight, .highlight pre, .highlight code {
+  border: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Удаление любых белых outline от браузера */
+pre:focus, code:focus {
   outline: none !important;
-  box-shadow: none !important;
 }
 
-/* Для всех элементов с кодом */
-pre {
-  border: 1px solid #333 !important; /* Только тёмная рамка если нужна */
+/* Исправление для Firefox */
+@-moz-document url-prefix() {
+  pre, code {
+    border-color: #2d2d2d !important;
+  }
 }
 
-/* Уберите любые белые границы */
+/* Если есть плагины/расширения */
+pre[style*="border"], 
+code[style*="border"],
+div[style*="border"] pre,
+div[style*="border"] code {
+  border: none !important;
+}
+
+/* Стили для разных языков (опционально) */
+.language-python::before,
+.language-javascript::before,
+.language-html::before,
+.language-css::before,
+.language-bash::before {
+  content: attr(class);
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 4px 12px;
+  background: #252526;
+  color: #ccc;
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom-left-radius: 8px;
+  z-index: 1;
+  opacity: 0.8;
+}
+
+/* Улучшенная полоска прокрутки */
+pre::-webkit-scrollbar {
+  height: 10px;
+  width: 10px;
+}
+
+pre::-webkit-scrollbar-track {
+  background: #252526;
+  border-radius: 0 0 12px 12px;
+}
+
+pre::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 5px;
+  border: 2px solid #252526;
+}
+
+pre::-webkit-scrollbar-thumb:hover {
+  background: #666;
+}
+
+/* Для печати */
+@media print {
+  pre, code {
+    border: 1px solid #ccc !important;
+    background: white !important;
+    color: black !important;
+    box-shadow: none !important;
+  }
+  
+  pre code {
+    color: black !important;
+  }
+}
+
+/* Dark mode по умолчанию */
+@media (prefers-color-scheme: dark) {
+  pre {
+    border-color: #3d3d3d !important;
+  }
+}
+
+/* Защита от переопределения */
+body pre,
+body code,
+.container pre,
+.container code,
+.post pre,
+.post code {
+  border: none !important;
+}
+
+/* Финальный гарантийный стиль */
+html body .main .post .entry pre code,
+html body .main .post .entry .highlight pre {
+  border: 0 !important;
+  background: transparent !important;
+}
+
+/* Box-sizing для всех элементов */
 * {
   box-sizing: border-box;
 }
@@ -365,3 +601,7 @@ pre code, code[class*="language-"], pre[class*="language-"] {
   border: none;
 }
 
+/* Удаляем белые тени и контуры */
+pre, code {
+  text-shadow: none !important;
+}
