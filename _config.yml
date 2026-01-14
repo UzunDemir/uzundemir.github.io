@@ -65,10 +65,27 @@ version: v1.2.0
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  # # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  # syntax_highlighter: rouge
+  # syntax_highlighter_opts:
+  #   # Use existing pygments syntax highlighting css
+  #   css_class: 'highlight'
   syntax_highlighter: rouge
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  
+  # Важно: включить парсинг таблиц
+  parse_block_html: true
+  parse_span_html: true
+  
+  # GitHub Flavored Markdown расширения
+  gfm_quirks: ["paragraph_end"]
+  
   syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
 # Set the Sass partials directory, as we're using @imports
