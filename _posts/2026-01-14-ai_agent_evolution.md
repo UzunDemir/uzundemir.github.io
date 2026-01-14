@@ -4,7 +4,7 @@ title:  "От простого бота к самообучающемуся ин
 ---
 
 
-![med1](https://github.com/UzunDemir/uzundemir.github.io/blob/master/images/ai_evolution.png?raw=true)
+![ai](https://github.com/UzunDemir/uzundemir.github.io/blob/master/images/ai_evolution.png?raw=true)
 
 
 
