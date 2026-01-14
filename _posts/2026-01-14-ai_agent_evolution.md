@@ -4,7 +4,7 @@ title:  От простого бота к самообучающемуся ин�
 ---
 
 
-<img width="1024" height="1536" alt="ChatGPT Image 12 янв  2026 г , 13_20_09" src="https://github.com/user-attachments/assets/8de0a41e-3fa1-46b0-8578-cf6d7f17e893" />
+![med1](https://github.com/UzunDemir/uzundemir.github.io/blob/master/images/ai_evolution.png?raw=true)
 
 
 
