@@ -47,35 +47,5 @@
     </div>
 
     {% include analytics.html %}
-
-    <!-- Mermaid -->
-    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
-    <script>
-      mermaid.initialize({
-        startOnLoad: true,
-        theme: "default"
-      });
-    </script>
-
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
-    <script>hljs.highlightAll();</script>
-
-    <script>
-    document.addEventListener('click', function(e) {
-      const pre = e.target.closest('pre');
-      if (pre && e.offsetX > pre.offsetWidth - 30 && e.offsetY < 30) {
-        const code = pre.querySelector('code') || pre;
-        navigator.clipboard.writeText(code.textContent)
-          .then(() => {
-            const icon = window.getComputedStyle(pre, '::before').content;
-            pre.classList.add('copied');
-            setTimeout(() => pre.classList.remove('copied'), 1500);
-          });
-      }
-    });
-    </script>
-
-
   </body>
 </html>
