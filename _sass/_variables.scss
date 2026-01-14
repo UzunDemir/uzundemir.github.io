@@ -1,59 +1,59 @@
 
-// //
-// // VARIABLES
-// //
-
-// // Colors
-// $blue: #4183C4;
-// $lightgreen: #61c398;
-// $green: #41ac7d;
-// $turquoise: #5dadbd; 
-// // Grays
-// $black: #000;
-// $darkerGray: #222;
-// $darkGray: #333;
-// $gray: #666;
-// $lightGray: #eee;
-// $white: #fff;
-
-// // Font stacks
-// $helvetica: Helvetica, Arial, sans-serif;
-// $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-// $georgia: Georgia, serif;
-
-// // Mobile breakpoints
-// @mixin mobile {
-//   @media screen and (max-width: 640px) {
-//     @content;
-//   }
-// }
+//
+// VARIABLES
+//
 
 // Colors
-$black: #121212;
-$darkGray: #1e1e1e;
-$gray: #888;
-$lightGray: #d4d4d4;
-$blue: #61afef;
-$green: #98c379;
-$lightgreen: #56b6c2;
-$turquoise: #56b6c2;
-
-// Code specific
-$codeBackground: #1e1e1e;
-$codeBorder: #2d2d2d;
-$codeText: #d4d4d4;
+$blue: #4183C4;
+$lightgreen: #61c398;
+$green: #41ac7d;
+$turquoise: #5dadbd; 
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
-// Mobile breakpoint
-$mobile: 640px;
-
-// Mixins
+// Mobile breakpoints
 @mixin mobile {
-  @media screen and (max-width: $mobile) {
+  @media screen and (max-width: 640px) {
     @content;
   }
 }
+
+// // Colors
+// $black: #121212;
+// $darkGray: #1e1e1e;
+// $gray: #888;
+// $lightGray: #d4d4d4;
+// $blue: #61afef;
+// $green: #98c379;
+// $lightgreen: #56b6c2;
+// $turquoise: #56b6c2;
+
+// // Code specific
+// $codeBackground: #1e1e1e;
+// $codeBorder: #2d2d2d;
+// $codeText: #d4d4d4;
+
+// // Font stacks
+// $helvetica: Helvetica, Arial, sans-serif;
+// $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+// $georgia: Georgia, serif;
+
+// // Mobile breakpoint
+// $mobile: 640px;
+
+// // Mixins
+// @mixin mobile {
+//   @media screen and (max-width: $mobile) {
+//     @content;
+//   }
+// }
