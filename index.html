@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: default
 ---
 
@@ -15,59 +15,5 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-</div> -->
-
----
-layout: default
----
-
-<div class="posts-grid">
-  {% for post in site.posts %}
-    <article class="post-card">
-      <!-- Мета-информация -->
-      <div class="post-meta">
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">
-          {{ post.date | date: "%d.%m.%Y" }}
-        </time>
-        {% if post.category %}
-          <span class="post-category">{{ post.category }}</span>
-        {% endif %}
-        {% if post.read_time %}
-          <span class="read-time">⏱️ {{ post.read_time }} мин</span>
-        {% endif %}
-      </div>
-
-      <!-- Заголовок -->
-      <h2 class="post-title">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
-
-      <!-- Подзаголовок (опционально) -->
-      {% if post.subtitle %}
-        <p class="post-subtitle">{{ post.subtitle }}</p>
-      {% endif %}
-
-      <!-- Контент -->
-      <div class="post-excerpt">
-        {{ post.excerpt }}
-      </div>
-
-      <!-- Теги -->
-      {% if post.tags %}
-        <div class="post-tags">
-          {% for tag in post.tags %}
-            <span class="tag">{{ tag }}</span>
-          {% endfor %}
-        </div>
-      {% endif %}
-
-      <!-- Кнопка -->
-      <a href="{{ post.url | relative_url }}" class="read-more-btn">
-        <span>Читать статью</span>
-        <svg class="arrow" width="16" height="16" viewBox="0 0 24 24" fill="none">
-          <path d="M5 12h14m-7-7l7 7-7 7" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-        </svg>
-      </a>
-    </article>
-  {% endfor %}
 </div>
+
