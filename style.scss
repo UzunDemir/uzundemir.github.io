@@ -1,612 +1,3 @@
-// ---
-// ---
-
-// //
-// // IMPORTS
-// //
-
-// @import "reset";
-// @import "variables";
-// // Syntax highlighting @import is at the bottom of this file
-
-// /**************/
-// /* BASE RULES */
-// /**************/
-
-// html {
-//   font-size: 100%;
-// }
-
-// body {
-// 	background: $black;
-//   font: 18px/1.4 $helvetica;
-//   color: $lightGray; 
-// }
-
-// .container {
-//   margin: 0 auto;
-//   max-width: 740px;
-//   padding: 0 10px;
-//   width: 100%;
-// }
-
-// h1, h2, h3, h4, h5, h6 {
-//   font-family: $helveticaNeue;
-//   color: $gray;
-//   font-weight: bold;
-
-//   line-height: 1.7;
-//   margin: 1em 0 15px;
-//   padding: 0;
-
-//   @include mobile {
-//     line-height: 1.4;
-//   }
-// }
-
-// h1 {
-//   font-size: 30px;
-//   a {
-//     color: inherit;
-//   }
-// }
-
-// h2 {
-//   font-size: 24px;
-// }
-
-// h3 {
-//   font-size: 20px;
-// }
-
-// h4 {
-//   font-size: 18px;
-//   color: $gray;
-// }
-
-// p {
-//   margin: 15px 0;
-// }
-
-// a {
-//   color: $blue;
-//   text-decoration: none;
-// 	cursor: pointer;
-//   &:hover, &:active {
-//     color: $lightgreen;
-//   }
-// }
-
-// ul, ol {
-//   margin: 15px 0;
-//   padding-left: 30px;
-// }
-
-// ul {
-//   list-style-type: disc;
-// }
-
-// ol {
-//   list-style-type: decimal;
-// }
-
-// ol ul, ul ol, ul ul, ol ol {
-//   margin: 0;
-// }
-
-// ul ul, ol ul {
-//   list-style-type: circle;
-// }
-
-// em, i {
-//   font-style: italic;
-// }
-
-// strong, b {
-//   font-weight: bold;
-// }
-
-// img {
-//   max-width: 100%;
-// }
-
-// // Fixes images in popup boxes from Google Translate
-// .gmnoprint img {
-//   max-width: none;
-// }
-
-// .date {
-//   font-style: italic;
-//   color: $gray;
-// }
-
-// // Specify the color of the selection
-// ::-moz-selection {
-//   color: $black;
-//   background: $lightGray;
-// }
-// ::selection {
-//   color: $black;
-//   background: $lightGray;
-// }
-
-// // Nicolas Gallagher's micro clearfix hack
-// // http://nicolasgallagher.com/micro-clearfix-hack/
-// .clearfix:before,
-// .clearfix:after {
-//     content: " ";
-//     display: table;
-// }
-
-// .clearfix:after {
-//     clear: both;
-// }
-
-// /*********************/
-// /* LAYOUT / SECTIONS */
-// /*********************/
-
-// //
-// // .masthead
-// //
-
-// .wrapper-masthead {
-//   margin-bottom: 50px;
-// }
-
-// .masthead {
-//   padding: 20px 0;
-//   border-bottom: 1px solid $lightGray;
-
-//   @include mobile {
-//     text-align: center;
-//   }
-// }
-
-// .site-avatar {
-//   float: left;
-//   width: 70px;
-//   height: 70px;
-//   margin-right: 15px;
-
-//   @include mobile {
-//     float: none;
-//     display: block;
-//     margin: 0 auto;
-//   }
-
-//   img {
-//     border-radius: 5px;
-//   }
-// }
-
-// .site-info {
-//   float: left;
-
-//   @include mobile {
-//     float: none;
-//     display: block;
-//     margin: 0 auto;
-//   }
-// }
-
-// .site-name {
-//   margin: 0;
-//   color: $turquoise;
-//   cursor: pointer;
-//   font-family: $helveticaNeue;
-//   font-weight: 300;
-//   font-size: 28px;
-//   letter-spacing: 1px;
-// }
-
-// .site-description {
-//   margin: -5px 0 0 0;
-//   color: $green;
-//   font-size: 16px;
-
-//   @include mobile {
-//     margin: 3px 0;
-//   }
-// }
-
-// nav {
-//   float: right;
-//   margin-top: 23px; // @TODO: Vertically middle align
-//   font-family: $helveticaNeue;
-//   font-size: 18px;
-
-//   @include mobile {
-//     float: none;
-//     margin-top: 9px;
-//     display: block;
-//     font-size: 16px;
-//   }
-
-//   a {
-//     margin-left: 20px;
-//     color: $blue;
-//     text-align: right;
-//     font-weight: 300;
-//     letter-spacing: 1px;
-
-//     @include mobile {
-//       margin: 0 10px;
-//       color: $blue;
-//     }
-//   }
-// }
-
-// //
-// // .main
-// //
-
-// .posts > .post {
-//   padding-bottom: 2em;
-//   border-bottom: 1px solid $lightGray;
-// }
-
-// .posts > .post:last-child {
-//   padding-bottom: 1em;
-//   border-bottom: none;
-// }
-
-// .post {
-//   blockquote {
-//     margin: 1.8em .8em;
-//     border-left: 2px solid $gray;
-//     padding: 0.1em 1em;
-//     color: $gray;
-//     font-size: 22px;
-//     font-style: italic;
-//   }
-
-//   .comments {
-//     margin-top: 10px;
-//   }
-
-//   .read-more {
-//     text-transform: uppercase;
-//     font-size: 15px;
-//   }
-// }
-
-// .wrapper-footer {
-//   margin-top: 50px;
-//   border-top: 1px solid #ddd;
-//   border-bottom: 1px solid #ddd;
-//   background-color: $darkGray;
-// }
-
-// footer {
-//   padding: 20px 0;
-//   text-align: center;
-// }
-
-// // Settled on moving the import of syntax highlighting to the bottom of the CSS
-// // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-// @import "highlights";
-// @import "svg-icons";
-
-// // pre code {
-// //   display: block;
-// //   padding: 20px;
-// //   margin: 0;
-// //   background-color: #1e1e1e; // тёмный фон
-// //   color: #d4d4d4;
-// //   border-radius: 12px;
-// //   overflow-x: auto;
-// //   font-family: 'Fira Code', 'Source Code Pro', monospace;
-// //   font-size: 14px;
-// //   line-height: 1.5;
-// //   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-// // }
-
-// // /* Полоска прокрутки */
-// // pre::-webkit-scrollbar {
-// //   height: 8px;
-// // }
-
-// // pre::-webkit-scrollbar-thumb {
-// //   background: #555;
-// //   border-radius: 4px;
-// // }
-
-// // /* Подсветка синтаксиса Highlight.js */
-// // .hljs-comment,
-// // .hljs-quote { color: #6a9955; font-style: italic; }
-// // .hljs-keyword,
-// // .hljs-selector-tag,
-// // .hljs-subst { color: #c586c0; font-weight: bold; }
-// // .hljs-literal,
-// // .hljs-number,
-// // .hljs-tag .hljs-attr,
-// // .hljs-template-variable,
-// // .hljs-variable { color: #b5cea8; }
-// // .hljs-string,
-// // .hljs-doctag { color: #ce9178; }
-// // .hljs-title,
-// // .hljs-section,
-// // .hljs-selector-id { color: #569cd6; font-weight: bold; }
-// // .hljs-subst { font-weight: normal; }
-// // .hljs-type,
-// // .hljs-class .hljs-title { color: #4ec9b0; font-weight: bold; }
-// // .hljs-tag,
-// // .hljs-name,
-// // .hljs-attribute { color: #569cd6; font-weight: normal; }
-// // .hljs-regexp,
-// // .hljs-link { color: #d16969; }
-// // .hljs-symbol,
-// // .hljs-bullet { color: #b5cea8; }
-// // .hljs-built_in,
-// // .hljs-builtin-name { color: #c586c0; }
-// // .hljs-meta { color: #9cdcfe; }
-// // .hljs-deletion { background: #511; color: #f99; }
-// // .hljs-addition { background: #144; color: #9f9; }
-
-// // /* Добавьте это в конец вашего CSS файла */
-// // pre, code, .highlight, .hljs {
-// //   border: none !important;
-// //   outline: none !important;
-// //   box-shadow: none !important;
-// // }
-
-// // /* Для всех элементов с кодом */
-// // pre {
-// //   border: 1px solid #333 !important; /* Только тёмная рамка если нужна */
-// // }
-
-// // /* Уберите любые белые границы */
-// // * {
-// //   box-sizing: border-box;
-// // }
-
-// // pre code, code[class*="language-"], pre[class*="language-"] {
-// //   border: none;
-// // }
-
-// /*********************/
-// /* CODE BLOCKS FIXES */
-// /*********************/
-
-// /* Ядерный сброс для всех элементов кода - БЕЗ БЕЛЫХ РАМОК */
-// pre, code, .highlight, .hljs, .language-*, .mermaid, .chart, .diagram,
-// [class*="language-"], [class*="code-"], .sourceCode, .source-code {
-//   border: none !important;
-//   border-width: 0 !important;
-//   border-style: none !important;
-//   border-color: transparent !important;
-//   outline: none !important;
-//   box-shadow: none !important;
-//   background-clip: border-box !important;
-// }
-
-// /* Убираем стандартные браузерные рамки */
-// pre {
-//   -webkit-appearance: none;
-//   -moz-appearance: none;
-//   appearance: none;
-// }
-
-// /* Основной стиль для блоков кода - только тёмная рамка */
-// pre {
-//   position: relative;
-//   margin: 1.5em 0;
-//   padding: 0;
-//   background: #1e1e1e;
-//   border: 1px solid #2d2d2d !important; /* ТОЛЬКО ТЁМНАЯ РАМКА */
-//   border-radius: 12px;
-//   overflow: hidden;
-//   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
-//   transition: all 0.3s ease;
-// }
-
-// pre:hover {
-//   border-color: #3d3d3d !important;
-//   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4) !important;
-// }
-
-// pre code {
-//   display: block;
-//   padding: 20px;
-//   margin: 0;
-//   background-color: #1e1e1e;
-//   color: #d4d4d4;
-//   border-radius: 12px;
-//   overflow-x: auto;
-//   font-family: 'Fira Code', 'Source Code Pro', monospace;
-//   font-size: 14px;
-//   line-height: 1.5;
-//   border: none !important; /* НИКАКИХ РАМОК У ВНУТРЕННЕГО КОДА */
-// }
-
-// /* Inline код */
-// :not(pre) > code {
-//   background: #2d2d2d;
-//   padding: 2px 6px;
-//   border-radius: 4px;
-//   color: #e06c75;
-//   font-size: 0.9em;
-//   border: none !important;
-// }
-
-// /* Полоска прокрутки */
-// pre::-webkit-scrollbar {
-//   height: 8px;
-// }
-
-// pre::-webkit-scrollbar-thumb {
-//   background: #555;
-//   border-radius: 4px;
-// }
-
-// /* Для Mermaid диаграмм */
-// .mermaid, .mermaid svg {
-//   background: transparent !important;
-//   border: none !important;
-//   box-shadow: none !important;
-// }
-
-// .mermaid .label {
-//   color: #d4d4d4 !important;
-//   font-family: $helvetica;
-// }
-
-// /* Подсветка синтаксиса Highlight.js */
-// .hljs-comment,
-// .hljs-quote { color: #6a9955; font-style: italic; }
-// .hljs-keyword,
-// .hljs-selector-tag,
-// .hljs-subst { color: #c586c0; font-weight: bold; }
-// .hljs-literal,
-// .hljs-number,
-// .hljs-tag .hljs-attr,
-// .hljs-template-variable,
-// .hljs-variable { color: #b5cea8; }
-// .hljs-string,
-// .hljs-doctag { color: #ce9178; }
-// .hljs-title,
-// .hljs-section,
-// .hljs-selector-id { color: #569cd6; font-weight: bold; }
-// .hljs-subst { font-weight: normal; }
-// .hljs-type,
-// .hljs-class .hljs-title { color: #4ec9b0; font-weight: bold; }
-// .hljs-tag,
-// .hljs-name,
-// .hljs-attribute { color: #569cd6; font-weight: normal; }
-// .hljs-regexp,
-// .hljs-link { color: #d16969; }
-// .hljs-symbol,
-// .hljs-bullet { color: #b5cea8; }
-// .hljs-built_in,
-// .hljs-builtin-name { color: #c586c0; }
-// .hljs-meta { color: #9cdcfe; }
-// .hljs-deletion { background: #511; color: #f99; }
-// .hljs-addition { background: #144; color: #9f9; }
-
-// /* Специально для Jekyll/Highlight.js */
-// .highlight, .highlight pre, .highlight code {
-//   border: 0 !important;
-//   margin: 0 !important;
-//   padding: 0 !important;
-// }
-
-// /* Удаление любых белых outline от браузера */
-// pre:focus, code:focus {
-//   outline: none !important;
-// }
-
-// /* Исправление для Firefox */
-// @-moz-document url-prefix() {
-//   pre, code {
-//     border-color: #2d2d2d !important;
-//   }
-// }
-
-// /* Если есть плагины/расширения */
-// pre[style*="border"], 
-// code[style*="border"],
-// div[style*="border"] pre,
-// div[style*="border"] code {
-//   border: none !important;
-// }
-
-// /* Стили для разных языков (опционально) */
-// .language-python::before,
-// .language-javascript::before,
-// .language-html::before,
-// .language-css::before,
-// .language-bash::before {
-//   content: attr(class);
-//   position: absolute;
-//   top: 0;
-//   right: 0;
-//   padding: 4px 12px;
-//   background: #252526;
-//   color: #ccc;
-//   font-size: 12px;
-//   font-weight: 500;
-//   text-transform: uppercase;
-//   letter-spacing: 0.5px;
-//   border-bottom-left-radius: 8px;
-//   z-index: 1;
-//   opacity: 0.8;
-// }
-
-// /* Улучшенная полоска прокрутки */
-// pre::-webkit-scrollbar {
-//   height: 10px;
-//   width: 10px;
-// }
-
-// pre::-webkit-scrollbar-track {
-//   background: #252526;
-//   border-radius: 0 0 12px 12px;
-// }
-
-// pre::-webkit-scrollbar-thumb {
-//   background: #555;
-//   border-radius: 5px;
-//   border: 2px solid #252526;
-// }
-
-// pre::-webkit-scrollbar-thumb:hover {
-//   background: #666;
-// }
-
-// /* Для печати */
-// @media print {
-//   pre, code {
-//     border: 1px solid #ccc !important;
-//     background: white !important;
-//     color: black !important;
-//     box-shadow: none !important;
-//   }
-  
-//   pre code {
-//     color: black !important;
-//   }
-// }
-
-// /* Dark mode по умолчанию */
-// @media (prefers-color-scheme: dark) {
-//   pre {
-//     border-color: #3d3d3d !important;
-//   }
-// }
-
-// /* Защита от переопределения */
-// body pre,
-// body code,
-// .container pre,
-// .container code,
-// .post pre,
-// .post code {
-//   border: none !important;
-// }
-
-// /* Финальный гарантийный стиль */
-// html body .main .post .entry pre code,
-// html body .main .post .entry .highlight pre {
-//   border: 0 !important;
-//   background: transparent !important;
-// }
-
-// /* Box-sizing для всех элементов */
-// * {
-//   box-sizing: border-box;
-// }
-
-// pre code, code[class*="language-"], pre[class*="language-"] {
-//   border: none;
-// }
-
-// /* Удаляем белые тени и контуры */
-// pre, code {
-//   text-shadow: none !important;
-// }
-
-
 ---
 ---
 
@@ -627,7 +18,7 @@ html {
 }
 
 body {
-  background: $black;
+	background: $black;
   font: 18px/1.4 $helvetica;
   color: $lightGray; 
 }
@@ -641,8 +32,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $lightGray; // Изменено с $gray на $lightGray для лучшей читаемости
+  color: $gray;
   font-weight: bold;
+
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -669,20 +61,17 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $lightGray; // Изменено с $gray
+  color: $gray;
 }
 
 p {
   margin: 15px 0;
-  line-height: 1.6; // Добавлено для лучшей читаемости
 }
 
 a {
   color: $blue;
   text-decoration: none;
-  cursor: pointer;
-  transition: color 0.2s ease; // Добавлена плавность
-  
+	cursor: pointer;
   &:hover, &:active {
     color: $lightgreen;
   }
@@ -767,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  // border-bottom: 1px solid $lightGray; // УБРАЛИ РАМКУ!
+  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -823,7 +212,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px;
+  margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -854,38 +243,22 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  // border-bottom: 1px solid $lightGray; // УБРАЛИ РАМКУ!
-  position: relative;
-}
-
-// Градиентный разделитель вместо рамки
-.posts > .post:not(:last-child)::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 1px;
-  background: linear-gradient(90deg, 
-    transparent 0%, 
-    rgba($lightGray, 0.1) 50%, 
-    transparent 100%);
+  border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
   padding-bottom: 1em;
+  border-bottom: none;
 }
 
 .post {
   blockquote {
-    margin: 1.8em 0;
-    border-left: 3px solid $gray;
-    padding: 0.5em 1em;
+    margin: 1.8em .8em;
+    border-left: 2px solid $gray;
+    padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
     font-style: italic;
-    background: rgba(255, 255, 255, 0.05);
-    border-radius: 0 8px 8px 0;
   }
 
   .comments {
@@ -900,8 +273,8 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  // border-top: 1px solid #ddd; // УБРАЛИ РАМКУ!
-  // border-bottom: 1px solid #ddd; // УБРАЛИ РАМКУ!
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
   background-color: $darkGray;
 }
 
@@ -915,13 +288,88 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
+// pre code {
+//   display: block;
+//   padding: 20px;
+//   margin: 0;
+//   background-color: #1e1e1e; // тёмный фон
+//   color: #d4d4d4;
+//   border-radius: 12px;
+//   overflow-x: auto;
+//   font-family: 'Fira Code', 'Source Code Pro', monospace;
+//   font-size: 14px;
+//   line-height: 1.5;
+//   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+// }
+
+// /* Полоска прокрутки */
+// pre::-webkit-scrollbar {
+//   height: 8px;
+// }
+
+// pre::-webkit-scrollbar-thumb {
+//   background: #555;
+//   border-radius: 4px;
+// }
+
+// /* Подсветка синтаксиса Highlight.js */
+// .hljs-comment,
+// .hljs-quote { color: #6a9955; font-style: italic; }
+// .hljs-keyword,
+// .hljs-selector-tag,
+// .hljs-subst { color: #c586c0; font-weight: bold; }
+// .hljs-literal,
+// .hljs-number,
+// .hljs-tag .hljs-attr,
+// .hljs-template-variable,
+// .hljs-variable { color: #b5cea8; }
+// .hljs-string,
+// .hljs-doctag { color: #ce9178; }
+// .hljs-title,
+// .hljs-section,
+// .hljs-selector-id { color: #569cd6; font-weight: bold; }
+// .hljs-subst { font-weight: normal; }
+// .hljs-type,
+// .hljs-class .hljs-title { color: #4ec9b0; font-weight: bold; }
+// .hljs-tag,
+// .hljs-name,
+// .hljs-attribute { color: #569cd6; font-weight: normal; }
+// .hljs-regexp,
+// .hljs-link { color: #d16969; }
+// .hljs-symbol,
+// .hljs-bullet { color: #b5cea8; }
+// .hljs-built_in,
+// .hljs-builtin-name { color: #c586c0; }
+// .hljs-meta { color: #9cdcfe; }
+// .hljs-deletion { background: #511; color: #f99; }
+// .hljs-addition { background: #144; color: #9f9; }
+
+// /* Добавьте это в конец вашего CSS файла */
+// pre, code, .highlight, .hljs {
+//   border: none !important;
+//   outline: none !important;
+//   box-shadow: none !important;
+// }
+
+// /* Для всех элементов с кодом */
+// pre {
+//   border: 1px solid #333 !important; /* Только тёмная рамка если нужна */
+// }
+
+// /* Уберите любые белые границы */
+// * {
+//   box-sizing: border-box;
+// }
+
+// pre code, code[class*="language-"], pre[class*="language-"] {
+//   border: none;
+// }
+
 /*********************/
 /* CODE BLOCKS FIXES */
 /*********************/
 
-/* === ВАЖНО! Убираем ВСЕ белые рамки, оставляем только тёмные для кода === */
-
-/* 1. Убираем ВСЕ стандартные рамки у всех элементов кода */
+/* Ядерный сброс для всех элементов кода - БЕЗ БЕЛЫХ РАМОК */
 pre, code, .highlight, .hljs, .language-*, .mermaid, .chart, .diagram,
 [class*="language-"], [class*="code-"], .sourceCode, .source-code {
   border: none !important;
@@ -933,33 +381,31 @@ pre, code, .highlight, .hljs, .language-*, .mermaid, .chart, .diagram,
   background-clip: border-box !important;
 }
 
-/* 2. Убираем стандартные браузерные рамки */
+/* Убираем стандартные браузерные рамки */
 pre {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
 }
 
-/* 3. ТОЛЬКО для блоков кода оставляем ТЁМНУЮ рамку */
+/* Основной стиль для блоков кода - только тёмная рамка */
 pre {
   position: relative;
   margin: 1.5em 0;
   padding: 0;
   background: #1e1e1e;
-  border: 1px solid #2d2d2d !important; /* ← ТОЛЬКО ЭТА ТЁМНАЯ РАМКА ОСТАЁТСЯ! */
+  border: 1px solid #2d2d2d !important; /* ТОЛЬКО ТЁМНАЯ РАМКА */
   border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
   transition: all 0.3s ease;
 }
 
-/* Эффект при наведении на блок кода */
 pre:hover {
   border-color: #3d3d3d !important;
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4) !important;
 }
 
-/* 4. Внутренний код без рамок */
 pre code {
   display: block;
   padding: 20px;
@@ -971,10 +417,10 @@ pre code {
   font-family: 'Fira Code', 'Source Code Pro', monospace;
   font-size: 14px;
   line-height: 1.5;
-  border: none !important; /* Внутренний код без рамок */
+  border: none !important; /* НИКАКИХ РАМОК У ВНУТРЕННЕГО КОДА */
 }
 
-/* 5. Inline код - без рамок */
+/* Inline код */
 :not(pre) > code {
   background: #2d2d2d;
   padding: 2px 6px;
@@ -984,7 +430,7 @@ pre code {
   border: none !important;
 }
 
-/* 6. Полоска прокрутки для блоков кода */
+/* Полоска прокрутки */
 pre::-webkit-scrollbar {
   height: 8px;
 }
@@ -994,7 +440,7 @@ pre::-webkit-scrollbar-thumb {
   border-radius: 4px;
 }
 
-/* 7. Для Mermaid диаграмм - без рамок */
+/* Для Mermaid диаграмм */
 .mermaid, .mermaid svg {
   background: transparent !important;
   border: none !important;
@@ -1006,7 +452,7 @@ pre::-webkit-scrollbar-thumb {
   font-family: $helvetica;
 }
 
-/* 8. Подсветка синтаксиса Highlight.js */
+/* Подсветка синтаксиса Highlight.js */
 .hljs-comment,
 .hljs-quote { color: #6a9955; font-style: italic; }
 .hljs-keyword,
@@ -1038,26 +484,34 @@ pre::-webkit-scrollbar-thumb {
 .hljs-deletion { background: #511; color: #f99; }
 .hljs-addition { background: #144; color: #9f9; }
 
-/* 9. Специально для Jekyll/Highlight.js */
+/* Специально для Jekyll/Highlight.js */
 .highlight, .highlight pre, .highlight code {
   border: 0 !important;
   margin: 0 !important;
   padding: 0 !important;
 }
 
-/* 10. Удаление любых белых outline от браузера */
+/* Удаление любых белых outline от браузера */
 pre:focus, code:focus {
   outline: none !important;
 }
 
-/* 11. Исправление для Firefox */
+/* Исправление для Firefox */
 @-moz-document url-prefix() {
   pre, code {
     border-color: #2d2d2d !important;
   }
 }
 
-/* 12. Языковая метка для блоков кода */
+/* Если есть плагины/расширения */
+pre[style*="border"], 
+code[style*="border"],
+div[style*="border"] pre,
+div[style*="border"] code {
+  border: none !important;
+}
+
+/* Стили для разных языков (опционально) */
 .language-python::before,
 .language-javascript::before,
 .language-html::before,
@@ -1079,7 +533,7 @@ pre:focus, code:focus {
   opacity: 0.8;
 }
 
-/* 13. Улучшенная полоска прокрутки */
+/* Улучшенная полоска прокрутки */
 pre::-webkit-scrollbar {
   height: 10px;
   width: 10px;
@@ -1100,7 +554,7 @@ pre::-webkit-scrollbar-thumb:hover {
   background: #666;
 }
 
-/* 14. Для печати */
+/* Для печати */
 @media print {
   pre, code {
     border: 1px solid #ccc !important;
@@ -1114,14 +568,14 @@ pre::-webkit-scrollbar-thumb:hover {
   }
 }
 
-/* 15. Dark mode по умолчанию */
+/* Dark mode по умолчанию */
 @media (prefers-color-scheme: dark) {
   pre {
     border-color: #3d3d3d !important;
   }
 }
 
-/* 16. Защита от переопределения */
+/* Защита от переопределения */
 body pre,
 body code,
 .container pre,
@@ -1131,31 +585,26 @@ body code,
   border: none !important;
 }
 
-/* 17. Финальный гарантийный стиль */
+/* Финальный гарантийный стиль */
 html body .main .post .entry pre code,
 html body .main .post .entry .highlight pre {
   border: 0 !important;
   background: transparent !important;
 }
 
-/* 18. Box-sizing для всех элементов */
+/* Box-sizing для всех элементов */
 * {
   box-sizing: border-box;
 }
 
-/* 19. Удаляем белые тени и контуры */
+pre code, code[class*="language-"], pre[class*="language-"] {
+  border: none;
+}
+
+/* Удаляем белые тени и контуры */
 pre, code {
   text-shadow: none !important;
 }
 
-/* 20. Дополнительная защита от белых рамок */
-* {
-  &::-webkit-scrollbar-track,
-  &::-webkit-scrollbar-thumb,
-  &::before,
-  &::after {
-    border-color: transparent !important;
-  }
-}
 
 
