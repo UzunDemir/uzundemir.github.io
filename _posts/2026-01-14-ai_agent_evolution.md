@@ -14,18 +14,6 @@ title:  "От простого бота к самообучающемуся ин
 
 ## Пролог: Почему бизнесу нужна эволюция, а не революция
 
-<div class="code-block">
-  <div class="code-header">
-    <span class="language">python</span>
-    <button class="copy-btn">📋 Копировать</button>
-  </div>
-  <pre><code class="language-python">
-# Тестовый код для проверки копирования
-def hello_world():
-    print("Hello, World!")
-    return True
-  </code></pre>
-</div>
 
 **Представьте сцену:** Вы запускаете первый ИИ-агент для поддержки клиентов. Первые две недели — восторг. "Он отвечает! Он работает!" Месяц спустя — разочарование. "Он повторяет одни и те же ошибки. Не умеет работать со сложными запросами. Требует постоянного контроля".
 
@@ -177,7 +165,7 @@ graph TD
 
 ### Код: От линейного к графовому мышлению
 
-```python
+<pre><code class="language-python">
 # graph_reasoning.py - Версия 2.0, запуск через 4 месяца
 
 from typing import Dict, List, Any
@@ -365,7 +353,7 @@ class BusinessReasoningGraph:
         )
         
         return json.loads(response.choices[0].message.content)
-```
+</code></pre>
 
 ### Бизнес-результаты через 6 месяцев:
 
@@ -418,7 +406,7 @@ graph LR
 
 ### Код: Агент с внутренним диалогом
 
-```python
+<pre><code class="language-python">
 # reflection_system.py - Версия 3.0, запуск через 10 месяцев
 
 class ReflectiveAgent(BusinessReasoningGraph):
@@ -645,7 +633,7 @@ class ReflectiveAgent(BusinessReasoningGraph):
                 insight["failing_node"],
                 insight["long_term_fix"]
             )
-```
+</code></pre>
 
 ### Бизнес-результаты через 12 месяцев:
 
@@ -702,7 +690,7 @@ graph TB
 
 ### Код: Мета-обучение и автооптимизация
 
-```python
+<pre><code class="language-python">
 # policy_optimizer.py - Версия 4.0, запуск через 16 месяцев
 
 class SelfOptimizingAgentSystem:
@@ -984,7 +972,7 @@ class SelfOptimizingAgentSystem:
         self._record_optimization_success(config)
         
         return True
-```
+</code></pre>
 
 ### Бизнес-результаты через 18 месяцев:
 
