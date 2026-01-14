@@ -393,14 +393,15 @@ graph LR
     G --> H[Обновить improvement memory]
     H --> I[Применить в следующий раз]
     I --> A
-        subgraph "Система рефлексии"
+    
+    subgraph "Система рефлексии"
         C
         D
         F
         G
         H
     end
-<div>
+</div>
 
 ### Код: Агент с внутренним диалогом
 
