@@ -1,7 +1,8 @@
 #
 # This file contains configuration flags to customize your site
 #
-remote_theme: pages-themes/midnight@v0.2.0
+#remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/midnight
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 # Name of your site (displayed in the header)
