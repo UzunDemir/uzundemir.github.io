@@ -393,8 +393,7 @@ graph LR
     G --> H[Обновить improvement memory]
     H --> I[Применить в следующий раз]
     I --> A
-    
-    subgraph "Система рефлексии"
+        subgraph "Система рефлексии"
         C
         D
         F
