@@ -69,7 +69,7 @@ graph TD
 
 ### Код: Проще не бывает
 
-```python
+<pre><code class="language-python">
 # agent_core.py - Версия 1.0, запущена через 2 недели разработки
 
 class CustomerSupportAgent:
@@ -124,7 +124,7 @@ class CustomerSupportAgent:
             "has_history": len(user_history) > 0,
             "urgency": "high" if "срочно" in message.lower() else "normal"
         }
-```
+</code></pre>
 
 ### Бизнес-результаты через 1 месяц:
 
