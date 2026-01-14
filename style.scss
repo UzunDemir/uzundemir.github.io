@@ -344,3 +344,24 @@ pre::-webkit-scrollbar-thumb {
 .hljs-deletion { background: #511; color: #f99; }
 .hljs-addition { background: #144; color: #9f9; }
 
+/* Добавьте это в конец вашего CSS файла */
+pre, code, .highlight, .hljs {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* Для всех элементов с кодом */
+pre {
+  border: 1px solid #333 !important; /* Только тёмная рамка если нужна */
+}
+
+/* Уберите любые белые границы */
+* {
+  box-sizing: border-box;
+}
+
+pre code, code[class*="language-"], pre[class*="language-"] {
+  border: none;
+}
+
