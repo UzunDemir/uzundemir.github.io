@@ -7,7 +7,6 @@ title:  От простого бота к самообучающемуся ин�
 <img width="1024" height="1536" alt="ChatGPT Image 12 янв  2026 г , 13_20_09" src="https://github.com/user-attachments/assets/8de0a41e-3fa1-46b0-8578-cf6d7f17e893" />
 
 
-##![med1](https://github.com/user-attachments/assets/7a4486f8-6b24-48d5-9d85-a62ce4bfa8ba)
 
 
 
