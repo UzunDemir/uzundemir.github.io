@@ -382,7 +382,7 @@ class BusinessReasoningGraph:
 
 ### Схема: Петля совершенствования
 
-```mermaid
+<div class="mermaid">
 graph LR
     A[Выполнение задачи] --> B[Запись reasoning logs]
     B --> C[Самоанализ и критика]
@@ -393,7 +393,6 @@ graph LR
     G --> H[Обновить improvement memory]
     H --> I[Применить в следующий раз]
     I --> A
-    
     subgraph "Система рефлексии"
         C
         D
@@ -401,7 +400,7 @@ graph LR
         G
         H
     end
-```
+<div>
 
 ### Код: Агент с внутренним диалогом
 
