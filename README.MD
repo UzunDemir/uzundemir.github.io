@@ -37,5 +37,3 @@ This project is open source under the **MIT License**. :contentReference[oaicite
 
 ---
 
-Feel free to edit or expand sections like **Usage**, **Tech Stack**, or **Contact** as needed!
-::contentReference[oaicite:5]{index=5}
