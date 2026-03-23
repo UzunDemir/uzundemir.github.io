@@ -33,7 +33,7 @@ To build or customize this site locally:
 
 ## 📄 License
 
-This project is open source under the **MIT License**. :contentReference[oaicite:4]{index=4}
+This project is open source under the **MIT License**.
 
 ---
 
