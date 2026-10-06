@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Russia1.ru" group-title="РТР (Россия-1)",Russia-1 (1080p)
+http://176.118.197.101/RossiyaHD/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" group-title="РТР (Россия-1)",Russia-1 (1080p)
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" group-title="РТР (Россия-1)",Russia-1 (576p)
+http://109.207.243.18/2/index.m3u8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@CIS" tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="РТР (Россия-1)",RTR-Planeta (576p)
+https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Russia1.ru" group-title="РТР (Россия-1)",Russia-1
+https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
