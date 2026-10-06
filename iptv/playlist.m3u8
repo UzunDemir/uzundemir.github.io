@@ -682,3 +682,44 @@ http://stream.mcquack.net/83/index.m3u8
 http://stream.mcquack.net/225/index.m3u8
 #EXTINF:-1 tvg-id="Zoopark.ru@SD" tvg-logo="https://i.imgur.com/IO5jegK.png" group-title="Undefined",Zoopark (576i)
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал",Channel One (576p)
+http://31.148.5.241/kanal_1/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал",Channel One
+https://streaming.thestream.cyou/live/210.m3u8
+#EXTINF:-1 tvg-id="ChannelOneCIS.ru@SD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Первый канал",Channel One CIS (576p)
+https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="ChannelOneEurasia.kz@SD" tvg-logo="https://i.imgur.com/vm5sJHP.png" group-title="Первый канал",Channel One Eurasia (576p)
+https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал",Channel One (720p)
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@Europa" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Первый канал",Channel One (Russia) Europa (480p)
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" group-title="РТР (Россия-1)",Russia-1 (1080p)
+http://176.118.197.101/RossiyaHD/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" group-title="РТР (Россия-1)",Russia-1 (1080p)
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" group-title="РТР (Россия-1)",Russia-1 (576p)
+http://109.207.243.18/2/index.m3u8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@CIS" tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="РТР (Россия-1)",RTR-Planeta (576p)
+https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Russia1.ru" group-title="РТР (Россия-1)",Russia-1
+https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.smotrim.ru/photobank/prod/original/152/892/73.png" group-title="Смотрим (ВГТРК)",Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.smotrim.ru/photobank/prod/original/152/892/96.png" group-title="Смотрим (ВГТРК)",Радио Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.smotrim.ru/photobank/prod/original/152/892/85.png" group-title="Смотрим (ВГТРК)",360.ru Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.smotrim.ru/photobank/prod/original/152/892/79.png" group-title="Смотрим (ВГТРК)",360.ru
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.smotrim.ru/photobank/prod/original/152/892/78.png" group-title="Смотрим (ВГТРК)",Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.smotrim.ru/photobank/prod/original/152/885/33.png" group-title="Смотрим (ВГТРК)",Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.smotrim.ru/photobank/prod/original/152/892/75.png" group-title="Смотрим (ВГТРК)",ТОЛК
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.smotrim.ru/photobank/prod/original/152/892/67.png" group-title="Смотрим (ВГТРК)",Дума ТВ
+https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
