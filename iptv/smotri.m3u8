@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/16745842417379
+#EXTVLCOPT:http-referrer=https://ok.ru/video/16745842417379
+https://vsd134.okcdn.ru/hls/19936939608803.m3u8/sig/d-2CPOmnwbM/expires/1791618714584/srcIp/95.65.92.176/urls/176.112.172.96/clientType/0/srcAg/CHROME/mid/16745842417379/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Первый канал. Прямой эфир — ok.ru/1115050286838
+#EXTVLCOPT:http-referrer=https://ok.ru/video/1115050286838
+https://vsd162.okcdn.ru/hls/528984312566.m3u8/sig/jAbKfOZFyy0/expires/1791618715147/srcIp/95.65.92.176/urls/178.237.29.65/clientType/0/srcAg/CHROME/mid/1115050286838/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/11113019678319
+#EXTVLCOPT:http-referrer=https://ok.ru/video/11113019678319
+https://vsd491.okcdn.ru/hls/9975121840751.m3u8/sig/OFuJ3QNhSKQ/expires/1791618715679/srcIp/95.65.92.176/urls/178.237.23.62/clientType/0/srcAg/CHROME/mid/11113019678319/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/14175955983947
+#EXTVLCOPT:http-referrer=https://ok.ru/video/14175955983947
+https://vsd197.okcdn.ru/hls/15107164211787.m3u8/sig/hKJAs3i_fkg/expires/1791618716152/srcIp/95.65.92.176/urls/185.226.55.79/clientType/0/srcAg/CHROME/mid/14175955983947/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/16843428994620
+#EXTVLCOPT:http-referrer=https://ok.ru/video/16843428994620
+https://vsd203.okcdn.ru/hls/18658768652860.m3u8/sig/xnTcwAAW1-A/expires/1791618716613/srcIp/95.65.92.176/urls/95.163.35.102/clientType/0/srcAg/CHROME/mid/16843428994620/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Прямая трансляция — ok.ru/15482147642991
+#EXTVLCOPT:http-referrer=https://ok.ru/video/15482147642991
+https://vsd194.okcdn.ru/hls/17015927147119.m3u8/sig/80pGnTleqXE/expires/1791618717059/srcIp/95.65.92.176/urls/185.226.55.78/clientType/0/srcAg/CHROME/mid/15482147642991/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/15979087207996
+#EXTVLCOPT:http-referrer=https://ok.ru/video/15979087207996
+https://vsd183.okcdn.ru/hls/17130029845052.m3u8/sig/XLyF7p6LDzc/expires/1791618717508/srcIp/95.65.92.176/urls/95.163.35.107/clientType/0/srcAg/CHROME/mid/15979087207996/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Прямая трансляция — ok.ru/15481764388463
+#EXTVLCOPT:http-referrer=https://ok.ru/video/15481764388463
+https://vsd79.okcdn.ru/hls/17015256189551.m3u8/sig/tkZ6qhbjAFY/expires/1791618717922/srcIp/95.65.92.176/urls/176.112.172.110/clientType/0/srcAg/CHROME/mid/15481764388463/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Прямая трансляция — ok.ru/9344376708726
+#EXTVLCOPT:http-referrer=https://ok.ru/video/9344376708726
+https://vsd271.okcdn.ru/hls/7983609154166.m3u8/sig/oTlHX_3_yWE/expires/1791618718326/srcIp/95.65.92.176/urls/95.163.35.72/clientType/0/srcAg/CHROME/mid/9344376708726/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/16838571531871
+#EXTVLCOPT:http-referrer=https://ok.ru/video/16838571531871
+https://vsd274.okcdn.ru/hls/20296987773535.m3u8/sig/IE-cKCMdAw8/expires/1791618718763/srcIp/95.65.92.176/urls/178.237.23.48/clientType/0/srcAg/CHROME/mid/16838571531871/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/10684591709783
+#EXTVLCOPT:http-referrer=https://ok.ru/video/10684591709783
+https://vsd126.okcdn.ru/hls/9667208677975.m3u8/sig/T6gJKjP3MaU/expires/1791618719177/srcIp/95.65.92.176/urls/178.237.29.14/clientType/0/srcAg/CHROME/mid/10684591709783/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/10076961578583
+#EXTVLCOPT:http-referrer=https://ok.ru/video/10076961578583
+https://vsd198.okcdn.ru/hls/8861517613655.m3u8/sig/jf05cMbHYac/expires/1791618719597/srcIp/95.65.92.176/urls/176.112.172.114/clientType/0/srcAg/CHROME/mid/10076961578583/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/13613249011206
+#EXTVLCOPT:http-referrer=https://ok.ru/video/13613249011206
+https://vsd126.okcdn.ru/hls/13420708104710.m3u8/sig/OAlbVgaBNws/expires/1791618720000/srcIp/95.65.92.176/urls/178.237.23.61/clientType/0/srcAg/CHROME/mid/13613249011206/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Прямой эфир телеканала Суббота! — ok.ru/6507204124331
+#EXTVLCOPT:http-referrer=https://ok.ru/video/6507204124331
+https://vsd132.okcdn.ru/hls/5397683899051.m3u8/sig/jWXSfJLlXuU/expires/1791618720518/srcIp/95.65.92.176/urls/178.237.29.15/clientType/0/srcAg/CHROME/mid/6507204124331/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Прямая трансляция — ok.ru/9344408428150
+#EXTVLCOPT:http-referrer=https://ok.ru/video/9344408428150
+https://vsd164.okcdn.ru/hls/7983656733302.m3u8/sig/oAQSXp9MFz8/expires/1791618720950/srcIp/95.65.92.176/urls/185.180.203.65/clientType/0/srcAg/CHROME/mid/9344408428150/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Прямая трансляция — ok.ru/9313862491766
+#EXTVLCOPT:http-referrer=https://ok.ru/video/9313862491766
+https://vsd284.okcdn.ru/hls/7937441663606.m3u8/sig/StxqAUrb4Go/expires/1791618721412/srcIp/95.65.92.176/urls/185.180.203.108/clientType/0/srcAg/CHROME/mid/9313862491766/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/11431932468811
+#EXTVLCOPT:http-referrer=https://ok.ru/video/11431932468811
+https://vsd113.okcdn.ru/hls/10725655251531.m3u8/sig/ofBQgQWup8w/expires/1791618721844/srcIp/95.65.92.176/urls/95.163.35.54/clientType/0/srcAg/CHROME/mid/11431932468811/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/15876175961645
+#EXTVLCOPT:http-referrer=https://ok.ru/video/15876175961645
+https://vsd277.okcdn.ru/hls/16893769091629.m3u8/sig/xxMCuOc6Kus/expires/1791618722270/srcIp/95.65.92.176/urls/185.180.203.107/clientType/0/srcAg/CHROME/mid/15876175961645/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/16180913708664
+#EXTVLCOPT:http-referrer=https://ok.ru/video/16180913708664
+https://vsd171.okcdn.ru/hls/17732426140280.m3u8/sig/Cir5-5NAsU4/expires/1791618722719/srcIp/95.65.92.176/urls/185.226.55.90/clientType/0/srcAg/CHROME/mid/16180913708664/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",«ЧЕ! Саяны» — ok.ru/8755107733119
+#EXTVLCOPT:http-referrer=https://ok.ru/video/8755107733119
+https://vsd202.okcdn.ru/hls/7629212093055.m3u8/sig/7Z11Df0TRPk/expires/1791618723161/srcIp/95.65.92.176/urls/185.180.203.108/clientType/0/srcAg/CHROME/mid/8755107733119/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/15472694664875
+#EXTVLCOPT:http-referrer=https://ok.ru/video/15472694664875
+https://vsd113.okcdn.ru/hls/17791197973163.m3u8/sig/UkJ-FY7zu54/expires/1791618723631/srcIp/95.65.92.176/urls/95.163.35.101/clientType/0/srcAg/CHROME/mid/15472694664875/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/12939285569119
+#EXTVLCOPT:http-referrer=https://ok.ru/video/12939285569119
+https://vsd106.okcdn.ru/hls/13117654960735.m3u8/sig/PNyvgTB9Fpg/expires/1791618724051/srcIp/95.65.92.176/urls/185.180.203.86/clientType/0/srcAg/CHROME/mid/12939285569119/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/14169819913803
+#EXTVLCOPT:http-referrer=https://ok.ru/video/14169819913803
+https://vsd114.okcdn.ru/hls/15095584262731.m3u8/sig/BkUvRLwWviY/expires/1791618724500/srcIp/95.65.92.176/urls/178.237.23.118/clientType/0/srcAg/CHROME/mid/14169819913803/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/10512643005997
+#EXTVLCOPT:http-referrer=https://ok.ru/video/10512643005997
+https://vsd161.okcdn.ru/hls/8668094990893.m3u8/sig/IibeeHMXbwQ/expires/1791618724932/srcIp/95.65.92.176/urls/95.163.35.104/clientType/0/srcAg/CHROME/mid/10512643005997/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/10545516387885
+#EXTVLCOPT:http-referrer=https://ok.ru/video/10545516387885
+https://vsd230.okcdn.ru/hls/8704608963117.m3u8/sig/LT0BJKtFwyQ/expires/1791618725381/srcIp/95.65.92.176/urls/185.226.55.115/clientType/0/srcAg/CHROME/mid/10545516387885/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Трансляция эфира телеканала News Front — ok.ru/6839094550103
+#EXTVLCOPT:http-referrer=https://ok.ru/video/6839094550103
+https://vsd230.okcdn.ru/hls/5473782794839.m3u8/sig/N4KzWIa1yp8/expires/1791618725835/srcIp/95.65.92.176/urls/185.180.203.86/clientType/0/srcAg/CHROME/mid/6839094550103/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Таврия | Прямой эфир — ok.ru/7579502321299
+#EXTVLCOPT:http-referrer=https://ok.ru/video/7579502321299
+https://vsd208.okcdn.ru/hls/6810197953171.m3u8/sig/nLgAcYazHc0/expires/1791618726274/srcIp/95.65.92.176/urls/185.226.55.120/clientType/0/srcAg/CHROME/mid/7579502321299/video.m3u8?p
+#EXTINF:-1 group-title="ok.ru",Live stream — ok.ru/13178360831666
+#EXTVLCOPT:http-referrer=https://ok.ru/video/13178360831666
+https://vsd166.okcdn.ru/hls/12899092728498.m3u8/sig/j9EICpqjaNM/expires/1791618726689/srcIp/95.65.92.176/urls/185.226.55.78/clientType/0/srcAg/CHROME/mid/13178360831666/video.m3u8?p
+#EXTINF:-1 group-title="vkvideo.ru",VK видео -184488005_456239375
+#EXTVLCOPT:http-referrer=https://vkvideo.ru/
+https://vkvsd279.okcdn.ru/hls/15008625134228.m3u8/sig/gMnqhokaAps/srcIp/95.65.92.176/urls/95.163.35.53/expires/1791991528241/clientType/13/srcAg/CHROME/fromCache/1/mid/14323523922836/id/15008625134228/video.m3u8?p
+#EXTINF:-1 group-title="vkvideo.ru",VK видео -184488005_456239376
+#EXTVLCOPT:http-referrer=https://vkvideo.ru/
+https://vkvsd21.okcdn.ru/hls/14937561893620.m3u8/sig/ZedPX8ppdcc/srcIp/95.65.92.176/urls/185.226.55.70/expires/1791991528916/clientType/13/srcAg/CHROME/fromCache/1/mid/14307782896628/id/14937561893620/video.m3u8?p
+#EXTINF:-1 group-title="vkvideo.ru",VK видео -196257158_456239021
+#EXTVLCOPT:http-referrer=https://vkvideo.ru/
+https://vkvsd282.okcdn.ru/hls/3656559168039.m3u8/sig/EDz-JlcZ6LM/expires/1791618729533/srcIp/95.65.92.176/urls/95.163.35.53/clientType/13/srcAg/CHROME/mid/4483023514407/video.m3u8?p
+#EXTINF:-1 group-title="vkvideo.ru",VK видео -236555288_456240526
+#EXTVLCOPT:http-referrer=https://vkvideo.ru/
+https://vkvsd166.okcdn.ru/hls/15155299682902.m3u8/sig/x5LwSgTriXs/srcIp/95.65.92.176/urls/95.163.35.103/expires/1791991530167/clientType/13/srcAg/CHROME/fromCache/1/mid/14570030705494/id/15155299682902/video.m3u8?p
