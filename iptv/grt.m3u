@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="GRT TV" tvg-logo="https://grt.md/logo.png",GRT TV (Gagauzia) — прямой эфир
+#EXTVLCOPT:http-referrer=https://grt.md/live-tv
+https://live.cdn.grt.md/GRT_H264/index.m3u8?token=addf6befe9b9ce48c9959d9bb3572546d7489d90
+#EXTINF:-1 group-title="GRT Radio" tvg-logo="https://grt.md/logo.png",GRT Radio (Gagauzia) — прямой эфир
+#EXTVLCOPT:http-referrer=https://grt.md/live-tv
+https://old.grt.md/radio
