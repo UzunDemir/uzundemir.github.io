@@ -1,0 +1,514 @@
+#EXTM3U
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/272155d2-d9b2-4d42-a3eb-4ca04e596cba.png" tvg-id="TVRMoldova.md",TVR Moldova HD
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/272155d2-d9b2-4d42-a3eb-4ca04e596cba.png" tvg-id="TVRMoldova.md",TVR Moldova HD
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/dd1abe1e-51e4-4672-a706-a822b9c99b4e.png" tvg-id="Moldova2.md",Moldova 2 HD
+https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/822a4742-e581-41cf-bf6b-7b2312f190a7.png" tvg-id="Moldova1.md",Moldova 1 HD
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+#EXTINF:-1 group-title="Internaționale" tvg-logo="https://horreum.starnet.md/media/grid/68228cc0-789e-476e-a7b1-60c2adefd4b6.png" tvg-id="TV5MondeEurope.fr",TV5 Monde Europe HD
+http://5.180.164.197:8080/TV5MONDE/index.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/grid/158fe133-1d0d-488c-8a55-c61e9239d0db.png",GRT HD
+#EXTVLCOPT:http-referrer=https://grt.md/live-tv
+https://live.cdn.grt.md/GRT_H264/index.m3u8?token=addf6befe9b9ce48c9959d9bb3572546d7489d90
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/69c54b1f-3ca7-4a24-b485-6c05a84f915c.png" tvg-id="Kinopremyera.ru",Кинопремьера HD
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/244633fe-ef7a-489b-9700-ce52fa8788e0.webp" tvg-id="red.ru",Red HD
+http://178.134.1.158:8081/red/index.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/0ff411c3-df70-41eb-8749-aa31643ac3c8.webp" tvg-id="Friday.ru",Пятница
+http://stream.mcquack.net/181/index.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/0ee5de7d-36cb-49af-93af-bcbeb9cb86ba.webp" tvg-id="TNT.ru",ТНТi
+http://stream.mcquack.net/135/index.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/6cf6a92d-b4a2-406d-887b-6863c79c5526.webp" tvg-id="STS.ru",СТСi
+http://stream.mcquack.net/138/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/59502bd6-450f-41d5-87dd-4c64b3144131.png" tvg-id="KinoTV.ru",Кино ТВ HD
+http://176.118.197.101/KinoTvHD/playlist.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/grid/685427f3-64b7-4cb5-ae0d-0a46e6eb6ae5.png" tvg-id="NTS.ru",NTS HD
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/06d7f8d9-cd02-4677-9019-e56449579fa5.webp" tvg-id="SuperTV.ro",SUPER TV HD
+https://live.supertv.ro/live/supertv/playlist.m3u8
+#EXTINF:-1 group-title="Religie" tvg-logo="https://horreum.starnet.md/media/grid/330dcb65-5a02-4520-b503-3ece7545f85a.png" tvg-id="SperantaTV.ro",Speranța TV
+https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/06253748-c815-4a7a-a8dc-ad1773d1bab8.png" tvg-id="vijuTV1000.ru",viju TV1000 HD
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/e25bad39-6ebe-4495-bb15-aad9933d9105.png" tvg-id="vijuPlusSerial.ru",viju+ Serial HD
+http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/50b3a159-97ba-4767-8787-91c450dfdf7f.png" tvg-id="vijuTV1000action.ru",viju TV1000 action HD
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/8b907cd6-3236-4a32-a9f6-b8cba354249f.png" tvg-id="TezaurTV.md",Tezaur TV HD
+https://tezaurtv.md/stream/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/59502bd6-450f-41d5-87dd-4c64b3144131.png" tvg-id="KinoTV.ru",Кино ТВ HD
+http://stream.mcquack.net/221/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/52f4c4c1-5c3c-4561-b496-c2be68108f06.png" tvg-id="Bolt.ua",BOLT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/537f0cce-c26b-4075-9ffd-4c04fe010994.png" tvg-id="Kinokomedija.ru",Кинокомедия HD
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/459dd1b5-7d5a-4af0-9c97-d6a54d14cdfe.png" tvg-id="vijuPlusComedy.ru",viju+ Comedy HD
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/7a25bf62-65be-407d-8d7f-deb6e9f78a9e.png" tvg-id="MosfilmGoldCollection.ru",Мосфильм
+http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/1e843f97-b013-4452-bb9a-5b1fb4641374.png" tvg-id="Kinomix.ru",Киномикс HD
+http://stream.mcquack.net/133/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/8966d1dc-bd14-40e2-b420-6e544d619059.png" tvg-id="KinoHit.ru",Кинохит HD
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/86c7f8ef-a7d5-40f2-b797-d6f6ff4a104b.png" tvg-id="Kinosemja.ru",Киносемья HD
+http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/1e6c9c6a-0c85-4171-9d46-4f4d7f275281.png" tvg-id="Muzhskoekino.ru",Мужское кино HD
+http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://horreum.starnet.md/media/attachments/7b5635fa-5831-436e-a12c-93d54293f409.png" tvg-id="vijuPlusSport.ru",viju+ Sport HD
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/fcb3a612-07ec-4fbb-ba80-01388e3e8b87.png" tvg-id="vijuPlusPremiere.ru",viju+ Premiere HD
+http://stream.mcquack.net/202/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/551abf84-7629-402d-9855-7c25c2f61f01.png" tvg-id="vijuPlusMegahit.ru",viju+ Megahit HD
+http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/487606fb-6daf-4310-b5b1-d028707f4eb2.png" tvg-id="Nickelodeon.ru",Nickelodeon
+http://stream.mcquack.net/443/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/22250c37-3967-4fb7-af55-0819cb623035.png" tvg-id="Dikayaokhota.ru",Дикая Охота HD
+http://stream.mcquack.net/274/index.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/grid/17dcc0f6-61c2-4635-b530-fa5dbfd13b70.png" tvg-id="KapitanFantastika.ru",Капитан Фантастика HD
+http://stream.mcquack.net/144/index.m3u8
+#EXTINF:-1 group-title="Internaționale" tvg-logo="https://horreum.starnet.md/media/attachments/e83f1a80-6a9c-4bec-ba1b-a9a94718f3ea.png" tvg-id="MoldovaTV.md",Moldova TV HD
+https://moldovatv.ro/live-tv/live.m3u8
+#EXTINF:-1 group-title="Internaționale" tvg-logo="https://horreum.starnet.md/media/attachments/ceb86973-a0d9-4308-98e6-4f47003852f1.png" tvg-id="DW.de",Deutsche Welle EN HD
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 group-title="Internaționale" tvg-logo="https://horreum.starnet.md/media/attachments/ceb86973-a0d9-4308-98e6-4f47003852f1.png" tvg-id="DW.de",Deutsche Welle EN HD
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/b224f205-8d44-4c99-a69e-b9ef859f3e40.webp" tvg-id="scifi.ru",sci-fi
+http://stream.mcquack.net/180/index.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/d81a1b44-5d59-48d1-8dbe-159e0053dae1.png" tvg-id="Mult.ru",МУЛЬТ HD
+http://stream.mcquack.net/232/index.m3u8
+#EXTINF:-1 group-title="Internaționale" tvg-logo="https://horreum.starnet.md/media/grid/68228cc0-789e-476e-a7b1-60c2adefd4b6.png" tvg-id="TV5MondeEurope.fr",TV5 Monde Europe HD
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 group-title="Internaționale" tvg-logo="https://horreum.starnet.md/media/attachments/ceb86973-a0d9-4308-98e6-4f47003852f1.png" tvg-id="DW.de",Deutsche Welle EN HD
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/69551dce-a7fc-4d5f-ae98-2067914f4adc.png" tvg-id="Ohotnikirybolov.ru",Охотник и рыболов HD
+http://stream.mcquack.net/194/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/aa611f4b-2c76-4221-977a-7adb7a36bbe5.png" tvg-id="FashionTV.ua",Fashion TV HD
+http://stream.mcquack.net/287/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/5e281c76-6567-48fe-becd-a4bd445d4559.webp" tvg-id="Black.ua",Black HD
+http://stream.mcquack.net/283/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/fe2cb076-f26a-443d-b9b0-b98013e8bc48.png" tvg-id="Kinosvidanie.ru",Киносвидание HD
+http://stream.mcquack.net/171/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/9e4d94a9-1c15-4061-be73-683ee43839c7.png" tvg-id="Priklyucheniya.ru",Приключения HD
+http://stream.mcquack.net/198/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/5e281c76-6567-48fe-becd-a4bd445d4559.webp" tvg-id="black.ru",Black HD
+http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/0b23e84e-fb8e-4502-8da1-be5d51a48f91.png" tvg-id="Dikayarybalka.ru",Дикая Рыбалка HD
+http://stream.mcquack.net/275/index.m3u8
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/1add63cf-8771-4115-9374-f32f3ad962e8.png" tvg-id="vijuPlusPlanet.ru",viju+ Planet HD
+http://stream.mcquack.net/240/index.m3u8
+#EXTINF:-1 group-title="Internaționale" tvg-logo="https://horreum.starnet.md/media/attachments/3fe71261-b5bd-402e-96b7-59f53535ac17.png" tvg-id="A7TV.ro",A7TV HD
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/a6b6fc13-9233-4155-b1fa-6757e4e6400a.png" tvg-id="vijuHistory.ru",viju History HD
+http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/7099196f-1ff3-4f94-8a2d-e736ebea23c5.png" tvg-id="vijuExplore.ru",viju Explore HD
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/grid/17f0a584-b06e-4613-a30b-6ffd4c11e678.png" tvg-id="Vmirezhivotnykh.ru",В мире животных HD
+http://stream.mcquack.net/241/index.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/grid/8a10f2ea-3c7c-41da-a865-e045b9e282d6.png" tvg-id="KanalD.ro",Kanal D HD
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/71d06d30-84a3-4a83-b2dc-7d2f0f3a175e.png" tvg-id="ducktv.sk",Duck TV HD
+https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/59502bd6-450f-41d5-87dd-4c64b3144131.png",Кино ТВ HD
+https://vsd286.okcdn.ru/hls/16978146888237.m3u8/sig/ZRpCCp5GZZ0/expires/1791641968421/srcIp/95.65.92.176/urls/185.180.203.114/clientType/0/srcAg/CHROME/mid/15924020452909/video.m3u8?p
+#EXTINF:-1 group-title="Știri" tvg-logo="https://horreum.starnet.md/media/attachments/e3fca455-73cc-4f04-b6ba-887d4374bccf.png" tvg-id="RealitateaPlus.ro",Realitatea Plus HD
+https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/71d06d30-84a3-4a83-b2dc-7d2f0f3a175e.png" tvg-id="ducktv.sk",Duck TV HD
+https://jmp2.uk/stvp-ESBC4700001GR
+#EXTINF:-1 group-title="Știri" tvg-logo="https://horreum.starnet.md/media/attachments/942415f8-223c-4cc1-83ed-f70f3e609e8e.png" tvg-id="EuronewsEnglish.fr",EuroNews ENG HD
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+#EXTINF:-1 group-title="Știri" tvg-logo="https://horreum.starnet.md/media/attachments/b1fcf955-9a32-4090-b8e3-9ebeb3c3ed7f.png" tvg-id="Digi24.ro",Digi 24 HD
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 group-title="Internaționale" tvg-logo="https://horreum.starnet.md/media/attachments/dbd60cfa-1aa0-4692-aaa7-60c3c8da0b97.webp" tvg-id="ColumnaTV.ro",Columna TV
+https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://horreum.starnet.md/media/attachments/84790038-908c-4dbf-9b34-30bb4cfbc9a8.png" tvg-id="RealitateaSportiva.ro",Realitatea Sportivă HD
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 group-title="Știri" tvg-logo="https://horreum.starnet.md/media/attachments/b94bd43b-1a54-480e-90f3-3db3339fcd62.png" tvg-id="EuronewsRussian.fr",Euronews RU
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 group-title="Știri" tvg-logo="https://horreum.starnet.md/media/grid/af639472-d8e2-43fd-9837-31533eedc771.png" tvg-id="BBCNews.uk",BBC World News HD
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/365eef28-1832-436a-b73f-824b03975e36.png" tvg-id="KVNTV.ru",КВН ТВ
+http://178.124.179.122:8080/KVN-TV/index.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/d81a1b44-5d59-48d1-8dbe-159e0053dae1.png" tvg-id="Mult.ru",МУЛЬТ HD
+http://flussonic.linkintel.ru/Mult/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/75a65136-e3c3-4412-a9ee-5393afa7c4e5.png" tvg-id="Cinema.ru",Cinema
+http://flussonic.linkintel.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/0ff411c3-df70-41eb-8749-aa31643ac3c8.webp" tvg-id="Friday.ru",Пятница
+http://flussonic.linkintel.ru/Pyatnica/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/1e843f97-b013-4452-bb9a-5b1fb4641374.png" tvg-id="Kinomix.ru",Киномикс HD
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/d80c0036-6279-4b29-b34f-f0b228c62af2.png" tvg-id="SuperGeroi.ru",СуперГерои
+http://109.94.1.3:8080/132/index.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/7b83f36b-80b4-4e2a-8690-2bc2a752bdb2.webp" tvg-id="PeretzInternational.ru",Перец International
+http://stream.mcquack.net/121/index.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/grid/7b13ae39-1eca-40ae-92b2-25ab55e00e7d.png" tvg-id="Carousel.ru",Карусель
+http://185.37.150.46/Karusel/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/daef722a-e8fd-415a-ba13-3b2a1ff16eff.png" tvg-id="Nostalgia.ru",Ностальгия
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/540935dd-3d64-48e3-bf6c-1e5423989483.png" tvg-id="ShansonTV.ru",Шансон ТВ
+http://catchup.videoline.ru/shanson/index.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/6cf6a92d-b4a2-406d-887b-6863c79c5526.webp" tvg-id="STS.ru",СТСi
+http://tshift-1.telecoma.tv/sts/index.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/faed8cc9-6619-4346-b3c7-8c775ec4133b.png" tvg-id="NickJr.ru",Nick Jr.
+https://stream8.cinerama.uz/1501/playlist.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/59502bd6-450f-41d5-87dd-4c64b3144131.png" tvg-id="KinoTV.ru",Кино ТВ HD
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/0ff411c3-df70-41eb-8749-aa31643ac3c8.webp" tvg-id="Friday.ru",Пятница
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/grid/419e9ffb-4dcd-427c-a79b-003f1f3b57d8.png" tvg-id="EuropaPlusTV.ru",Europa Plus TV
+http://stream.mcquack.net/184/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/59ebf0a1-7c06-44bb-98dd-dcc6ab6cdf70.png" tvg-id="STARTAir.ru",START AIR HD
+http://stream.mcquack.net/128/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/85f5f135-9ef6-48a0-9711-a62470840d96.png" tvg-id="RodnoeKino.ru",Родное кино
+http://stream.mcquack.net/242/index.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/faed8cc9-6619-4346-b3c7-8c775ec4133b.png" tvg-id="NickJr.ru",Nick Jr.
+http://stream.mcquack.net/220/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/d7672d3a-bf9c-4038-985b-80b29a434386.png" tvg-id="Sarafan.ru",Сарафан
+http://stream.mcquack.net/81/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/81c73e06-e6ba-4af3-9bf4-1d98756d2d12.png" tvg-id="Okhotairybalka.ru",Охота и рыбалка HD
+http://stream.mcquack.net/155/index.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/grid/7b13ae39-1eca-40ae-92b2-25ab55e00e7d.png" tvg-id="Carousel.ru",Карусель
+http://stream.mcquack.net/120/index.m3u8
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/053ba284-6b20-49e2-96ec-89ca5a133c73.png" tvg-id="DaVinci.ru",Da Vinci
+http://stream.mcquack.net/238/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/bc1fc10a-0e87-4ad4-a98e-4ac77f84f2d7.png" tvg-id="Kuhnya.ru",Кухня ТВ HD
+http://stream.mcquack.net/179/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/399aae9f-b3c7-4c00-8be6-421310a3cb93.png" tvg-id="Usadba.ru",Усадьба HD
+http://stream.mcquack.net/211/index.m3u8
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/540935dd-3d64-48e3-bf6c-1e5423989483.png" tvg-id="ShansonTV.ru",Шансон ТВ
+https://streaming.thestream.cyou/live/7009.m3u8
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/a6b6fc13-9233-4155-b1fa-6757e4e6400a.png" tvg-id="vijuHistory.ru",viju History HD
+http://178.124.179.122:8080/HistoryHD/index.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/35cac9ec-9ea8-46b7-a365-6721365d8d26.png" tvg-id="TV8.md",TV8 HD
+http://178.76.68.60:7442/7/mpegts
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/b396a055-db8a-4e78-b185-253dece74c81.png" tvg-id="PROTVChisinau.md",PRO TV Chișinău HD
+http://178.76.68.60:7442/15/mpegts
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/grid/8009c76e-109b-4798-a747-ce4ccc202507.png" tvg-id="SorTV.md",SOR TV HD
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/b396a055-db8a-4e78-b185-253dece74c81.png" tvg-id="PROTVChisinau.md",PRO TV Chișinău HD
+https://stream.protv.md/live/sursa-1/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/551abf84-7629-402d-9855-7c25c2f61f01.png" tvg-id="vijuPlusMegahit.ru",viju+ Megahit HD
+http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/fcb3a612-07ec-4fbb-ba80-01388e3e8b87.png" tvg-id="vijuPlusPremiere.ru",viju+ Premiere HD
+http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/e25bad39-6ebe-4495-bb15-aad9933d9105.png" tvg-id="vijuPlusSerial.ru",viju+ Serial HD
+http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/459dd1b5-7d5a-4af0-9c97-d6a54d14cdfe.png" tvg-id="vijuPlusComedy.ru",viju+ Comedy HD
+http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/83558603-8772-4df5-a017-297ffc7312ba.png" tvg-id="Acasa.ro",ACASĂ HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/grid/419e9ffb-4dcd-427c-a79b-003f1f3b57d8.png" tvg-id="EuropaPlusTV.ru",Europa Plus TV
+http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/8f2e1a14-68d4-4b1a-a71b-fdbf5fd8b4de.png" tvg-id="AcasaGold.ro",Acasă Gold
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Sport" tvg-logo="https://horreum.starnet.md/media/attachments/7b5635fa-5831-436e-a12c-93d54293f409.png" tvg-id="vijuPlusSport.ru",viju+ Sport HD
+http://46.53.200.153:7777/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/875a038f-b8b1-4687-a62f-e6f443245cb7.png" tvg-id="ViasatNature.ua",Viasat Nature HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw%3D%3D&master=77
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/155f8d7d-10e4-465e-bd42-05b97f1c2988.png" tvg-id="Bober.ru",Бобёр
+http://88.212.15.19/live/test_bober/playlist.m3u8
+#EXTINF:-1 group-title="Internaționale" tvg-logo="https://horreum.starnet.md/media/attachments/e992368f-a2b8-4912-a68b-78fa5872f382.png" tvg-id="FREEDOM.ua",FREEДОМ HD
+https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/grid/e0515a50-0b56-43f4-87fb-4f32e0a04f91.png" tvg-id="EtnoTV.ro",Etno TV
+https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/dc0f4a29-0ebd-47c5-b7a1-4768a89f8ec5.png" tvg-id="TarafTV.ro",Taraf TV HD
+https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
+#EXTINF:-1 group-title="Internaționale" tvg-logo="https://horreum.starnet.md/media/attachments/e83f1a80-6a9c-4bec-ba1b-a9a94718f3ea.png" tvg-id="MoldovaTV.md",Moldova TV HD
+http://89.38.8.130:39435
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/35787e23-1927-42b0-b510-c89c346bc4ab.png",Star Cinema HD
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/0f8dada9-6f52-46bc-b112-ae9375005cb4.png" tvg-id="StarFamily.ru",Star Family HD
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/71d06d30-84a3-4a83-b2dc-7d2f0f3a175e.png" tvg-id="ducktv.sk",Duck TV HD
+https://dash3.antik.sk/live/duck_tv/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/8f2e1a14-68d4-4b1a-a71b-fdbf5fd8b4de.png" tvg-id="AcasaGold.ro",Acasă Gold
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/83558603-8772-4df5-a017-297ffc7312ba.png" tvg-id="Acasa.ro",ACASĂ HD
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/d5722f09-bbe8-47c2-a68c-a4da6c12a5b6.png" tvg-id="ViasatExplore.ua",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&master=79
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/08e28557-f549-4a22-9faf-bae171fcbf98.png" tvg-id="ViasatHistory.ua",Viasat History HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/da4a6cc1-af22-4d3e-bec8-846ec34617f7.webp" tvg-id="RealitateaTV.md",Realitatea TV  HD
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 group-title="Religie" tvg-logo="https://horreum.starnet.md/media/attachments/b20d5972-bd63-4ff3-9a08-265bd1ecf9ba.png" tvg-id="AlfaOmegaTV.ro",Alfa Omega TV
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/06d7f8d9-cd02-4677-9019-e56449579fa5.webp" tvg-id="SuperTV.ro",SUPER TV HD
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/244633fe-ef7a-489b-9700-ce52fa8788e0.webp",Red HD
+https://tvlife.live/576/index.m3u8?wmsAuthSign=806a48f382b663170c5e756351802daf-1791559108-671i29i56i59
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/grid/f78a775b-a416-43c2-b22e-6c87d2aee9a7.png",Animal Planet HD
+https://tvcdnpotok.com/600/index.m3u8?wmsAuthSign=f358597931def65ab91f89f5f7466ac4-1791559102-671i29i56i59
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/b224f205-8d44-4c99-a69e-b9ef859f3e40.webp",sci-fi
+https://tvcdnpotok.com/145/index.m3u8?wmsAuthSign=8f33602f29f7f4a48fa461038ea8b187-1791559108-671i29i56i59
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/b224f205-8d44-4c99-a69e-b9ef859f3e40.webp",sci-fi
+https://tvlife.live/145/index.m3u8?wmsAuthSign=8f33602f29f7f4a48fa461038ea8b187-1791559108-671i29i56i59
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/5e281c76-6567-48fe-becd-a4bd445d4559.webp",Black HD
+https://tvlife.live/577/index.m3u8?wmsAuthSign=d2ab56963c05ebaabedb9177dec0aabb-1791559108-671i29i56i59
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/5e281c76-6567-48fe-becd-a4bd445d4559.webp",Black HD
+https://tvcdnpotok.com/577/index.m3u8?wmsAuthSign=d2ab56963c05ebaabedb9177dec0aabb-1791559108-671i29i56i59
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/244633fe-ef7a-489b-9700-ce52fa8788e0.webp",Red HD
+https://tvcdnpotok.com/576/index.m3u8?wmsAuthSign=806a48f382b663170c5e756351802daf-1791559108-671i29i56i59
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/grid/f78a775b-a416-43c2-b22e-6c87d2aee9a7.png",Animal Planet HD
+https://tvlife.live/600/index.m3u8?wmsAuthSign=f358597931def65ab91f89f5f7466ac4-1791559102-671i29i56i59
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/053ba284-6b20-49e2-96ec-89ca5a133c73.png",Da Vinci
+https://tvlife.live/2008/index.m3u8?wmsAuthSign=be18050a03842123a7067547f043d42b-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/41a26ad9-89b9-46c7-9157-26348540d1a4.png",CARTOONITO HD
+https://tvcdnpotok.com/2043/index.m3u8?wmsAuthSign=e8c85ab9b1d735af63f90f8d0bc1948a-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/adb2b134-9104-4269-8b55-7ce6641bdc1c.png",MTV Live HD
+https://tvcdnpotok.com/204/index.m3u8?wmsAuthSign=e84b35f10f82de1fdeeb88d17bdb0f17-1791559105-671i29i56i59
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/540935dd-3d64-48e3-bf6c-1e5423989483.png",Шансон ТВ
+https://tvcdnpotok.com/165/index.m3u8?wmsAuthSign=dde75546a5454173321e435e9313060e-1791559105-671i29i56i59
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/35cac9ec-9ea8-46b7-a365-6721365d8d26.png" tvg-id="TV8.md",TV8 HD
+http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/02a6acbc-198d-4103-ac42-4cf7d0d4bb4e.png",Первый Космический HD
+https://tvcdnpotok.com/2006/index.m3u8?wmsAuthSign=02a567d5d4961c1a3256ae919f37b91e-1791559107-671i29i56i59
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/41a26ad9-89b9-46c7-9157-26348540d1a4.png",CARTOONITO HD
+https://tvlife.live/2043/index.m3u8?wmsAuthSign=e8c85ab9b1d735af63f90f8d0bc1948a-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Sport" tvg-logo="https://horreum.starnet.md/media/attachments/5482f0a8-c08a-43bb-b5be-b68b9430e9f6.png" tvg-id="MatchPlaneta.ru",Матч! Планета
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/adb2b134-9104-4269-8b55-7ce6641bdc1c.png",MTV Live HD
+https://tvlife.live/204/index.m3u8?wmsAuthSign=e84b35f10f82de1fdeeb88d17bdb0f17-1791559105-671i29i56i59
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/540935dd-3d64-48e3-bf6c-1e5423989483.png",Шансон ТВ
+https://tvlife.live/165/index.m3u8?wmsAuthSign=dde75546a5454173321e435e9313060e-1791559105-671i29i56i59
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/06253748-c815-4a7a-a8dc-ad1773d1bab8.png" tvg-id="vijuTV1000.ru",viju TV1000 HD
+https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/d18aef93-8c65-412d-a5b8-a0bb8aac676d.png" tvg-id="vijuTV1000russkoe.ru",viju TV1000 pусское HD
+https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/50b3a159-97ba-4767-8787-91c450dfdf7f.png" tvg-id="vijuTV1000action.ru",viju TV1000 action HD
+https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/grid/17f0a584-b06e-4613-a30b-6ffd4c11e678.png",В мире животных HD
+https://tvlife.live/221/index.m3u8?wmsAuthSign=85945998d5b21f6690fbefdf16450d49-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/155f8d7d-10e4-465e-bd42-05b97f1c2988.png",Бобёр
+https://tvlife.live/189/index.m3u8?wmsAuthSign=2e28ae7d6d285c56afe52f71a97afaff-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/grid/419e9ffb-4dcd-427c-a79b-003f1f3b57d8.png" tvg-id="EuropaPlusTV.ru",Europa Plus TV
+https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/02a6acbc-198d-4103-ac42-4cf7d0d4bb4e.png",Первый Космический HD
+https://tvlife.live/2006/index.m3u8?wmsAuthSign=02a567d5d4961c1a3256ae919f37b91e-1791559107-671i29i56i59
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/053ba284-6b20-49e2-96ec-89ca5a133c73.png",Da Vinci
+https://tvcdnpotok.com/2008/index.m3u8?wmsAuthSign=be18050a03842123a7067547f043d42b-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/d81a1b44-5d59-48d1-8dbe-159e0053dae1.png",МУЛЬТ HD
+https://tvlife.live/206/index.m3u8?wmsAuthSign=84d7a565e8e78a4ea69e1fdcbef81e49-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Sport" tvg-logo="https://horreum.starnet.md/media/attachments/25906389-575b-4703-a222-e48ce468ef87.png",Setanta Sports 1 HD
+https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Generaliste" tvg-logo="https://horreum.starnet.md/media/attachments/7b83f36b-80b4-4e2a-8690-2bc2a752bdb2.webp" tvg-id="PeretzInternational.ru",Перец International
+https://fs.uplink.kz/perec/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/grid/17f0a584-b06e-4613-a30b-6ffd4c11e678.png",В мире животных HD
+https://tvcdnpotok.com/221/index.m3u8?wmsAuthSign=85945998d5b21f6690fbefdf16450d49-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/155f8d7d-10e4-465e-bd42-05b97f1c2988.png",Бобёр
+https://tvcdnpotok.com/189/index.m3u8?wmsAuthSign=2e28ae7d6d285c56afe52f71a97afaff-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/d81a1b44-5d59-48d1-8dbe-159e0053dae1.png",МУЛЬТ HD
+https://tvcdnpotok.com/206/index.m3u8?wmsAuthSign=84d7a565e8e78a4ea69e1fdcbef81e49-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/59502bd6-450f-41d5-87dd-4c64b3144131.png",Кино ТВ HD
+https://tvlife.live/504/index.m3u8?wmsAuthSign=c730cd8ed6a0c2174f02b10715990903-1791559108-671i29i56i59
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/59502bd6-450f-41d5-87dd-4c64b3144131.png",Кино ТВ HD
+https://tvcdnpotok.com/504/index.m3u8?wmsAuthSign=c730cd8ed6a0c2174f02b10715990903-1791559108-671i29i56i59
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/487606fb-6daf-4310-b5b1-d028707f4eb2.png",Nickelodeon
+https://tvlife.live/155/index.m3u8?wmsAuthSign=6e413e943ee025ff896b6db37f9daa16-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/487606fb-6daf-4310-b5b1-d028707f4eb2.png",Nickelodeon
+https://tvcdnpotok.com/155/index.m3u8?wmsAuthSign=6e413e943ee025ff896b6db37f9daa16-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/b3af5f46-0b61-4da3-98e5-e651769464b4.png",Nicktoons
+https://tvcdnpotok.com/2048/index.m3u8?wmsAuthSign=5cb2ac32f0386acae70f2c00edd66069-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/b3af5f46-0b61-4da3-98e5-e651769464b4.png",Nicktoons
+https://tvlife.live/2048/index.m3u8?wmsAuthSign=5cb2ac32f0386acae70f2c00edd66069-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/4768404e-096b-4594-8a69-fb15107faa80.webp" tvg-id="EMITV.ro",EMI TV HD
+https://astra.emitv.ro/hls/emi/index.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/grid/7b13ae39-1eca-40ae-92b2-25ab55e00e7d.png",Карусель
+https://tvcdnpotok.com/157/index.m3u8?wmsAuthSign=67546d7ea6e3ad63339c54802e0738f4-1791559105-671i29i56i59
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/grid/17dcc0f6-61c2-4635-b530-fa5dbfd13b70.png" tvg-id="KapitanFantastika.ru",Капитан Фантастика HD
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/7f92b218-1d1f-4254-9bc7-a1ce496364d3.png" tvg-id="MTVClassic.us",MTV 80's
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/9e4d94a9-1c15-4061-be73-683ee43839c7.png" tvg-id="Priklyucheniya.ru",Приключения HD
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/81c73e06-e6ba-4af3-9bf4-1d98756d2d12.png" tvg-id="Okhotairybalka.ru",Охота и рыбалка HD
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/grid/0419edd5-4b55-48ab-9e52-f4ce173c770e.png" tvg-id="Ryzhiy.ru",Рыжий
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Știri" tvg-logo="https://horreum.starnet.md/media/attachments/b94bd43b-1a54-480e-90f3-3db3339fcd62.png" tvg-id="EuronewsRussian.fr",Euronews RU
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/grid/7b13ae39-1eca-40ae-92b2-25ab55e00e7d.png",Карусель
+https://tvlife.live/157/index.m3u8?wmsAuthSign=67546d7ea6e3ad63339c54802e0738f4-1791559105-671i29i56i59
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/59b38eb5-35d7-4d5c-b9bd-4094c4ef6ac2.webp",СТС Kids HD
+https://tvcdnpotok.com/2046/index.m3u8?wmsAuthSign=7a57e1f11f7ce56b1e8e60b316d55bf8-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/25db54d3-b98e-4547-85f0-cabb541cdb3a.png" tvg-id="Dikij.ru",Дикий
+https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/399aae9f-b3c7-4c00-8be6-421310a3cb93.png" tvg-id="Usadba.ru",Усадьба HD
+https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/59b38eb5-35d7-4d5c-b9bd-4094c4ef6ac2.webp",СТС Kids HD
+https://tvlife.live/2046/index.m3u8?wmsAuthSign=7a57e1f11f7ce56b1e8e60b316d55bf8-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/bc1fc10a-0e87-4ad4-a98e-4ac77f84f2d7.png" tvg-id="Kuhnya.ru",Кухня ТВ HD
+https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/17f79579-4784-4b7b-88fe-d95b03e8ad5b.png",Здоровое ТВ
+https://tvlife.live/2015/index.m3u8?wmsAuthSign=398a3b4d3b34d7cd4302c6791ee70035-1791559107-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/443d6a82-b63d-4b20-9940-e2d6bb46b5c2.png" tvg-id="AutoPlus.ru",Авто Плюс HD
+https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/69551dce-a7fc-4d5f-ae98-2067914f4adc.png" tvg-id="Ohotnikirybolov.ru",Охотник и рыболов HD
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/85f5f135-9ef6-48a0-9711-a62470840d96.png" tvg-id="RodnoeKino.ru",Родное кино
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/875a038f-b8b1-4687-a62f-e6f443245cb7.png",Viasat Nature HD
+https://tvlife.live/110/index.m3u8?wmsAuthSign=c525337cd32619d4a8ec8da74d0feb49-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/181b98bf-c812-4328-9738-1daeb1e2a3e2.png",TLC HD
+https://tvlife.live/229/index.m3u8?wmsAuthSign=aeb538ff9496291ee6afec17f8ecd1a0-1791559100-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/17f79579-4784-4b7b-88fe-d95b03e8ad5b.png",Здоровое ТВ
+https://tvcdnpotok.com/2015/index.m3u8?wmsAuthSign=398a3b4d3b34d7cd4302c6791ee70035-1791559107-671i29i56i59
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/faed8cc9-6619-4346-b3c7-8c775ec4133b.png",Nick Jr.
+https://tvlife.live/210/index.m3u8?wmsAuthSign=7d86fd5a17e2b135c08893be82dcaca6-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/59b38eb5-35d7-4d5c-b9bd-4094c4ef6ac2.webp" tvg-id="STSkids.ru",СТС Kids HD
+https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/grid/17dcc0f6-61c2-4635-b530-fa5dbfd13b70.png",Капитан Фантастика HD
+https://tvcdnpotok.com/2044/index.m3u8?wmsAuthSign=c44eb8657d350a58763b48ebb6d22b46-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/23eb1538-7b2d-4e87-8db2-ff17f93b8877.png" tvg-id="AtomicTV.ro",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/875a038f-b8b1-4687-a62f-e6f443245cb7.png",Viasat Nature HD
+https://tvcdnpotok.com/110/index.m3u8?wmsAuthSign=c525337cd32619d4a8ec8da74d0feb49-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/17f79579-4784-4b7b-88fe-d95b03e8ad5b.png" tvg-id="ZdorovoeTV.ru",Здоровое ТВ
+https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/9879d590-750f-4196-bff1-0150db956f14.webp" tvg-id="VPTV.ro",Valea Prahovei TV HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/d18aef93-8c65-412d-a5b8-a0bb8aac676d.png" tvg-id="vijuTV1000russkoe.ru",viju TV1000 pусское HD
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/grid/17dcc0f6-61c2-4635-b530-fa5dbfd13b70.png",Капитан Фантастика HD
+https://tvlife.live/2044/index.m3u8?wmsAuthSign=c44eb8657d350a58763b48ebb6d22b46-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/faed8cc9-6619-4346-b3c7-8c775ec4133b.png",Nick Jr.
+https://tvcdnpotok.com/210/index.m3u8?wmsAuthSign=7d86fd5a17e2b135c08893be82dcaca6-1791559106-671i29i56i59
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/50b3a159-97ba-4767-8787-91c450dfdf7f.png" tvg-id="vijuTV1000action.ru",viju TV1000 action HD
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/attachments/d81a1b44-5d59-48d1-8dbe-159e0053dae1.png" tvg-id="Mult.ru",МУЛЬТ HD
+https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/181b98bf-c812-4328-9738-1daeb1e2a3e2.png",TLC HD
+https://tvcdnpotok.com/229/index.m3u8?wmsAuthSign=aeb538ff9496291ee6afec17f8ecd1a0-1791559100-671i29i56i59
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/d18aef93-8c65-412d-a5b8-a0bb8aac676d.png" tvg-id="vijuTV1000russkoe.ru",viju TV1000 pусское HD
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/d5722f09-bbe8-47c2-a68c-a4da6c12a5b6.png",Viasat Explore
+https://tvlife.live/109/index.m3u8?wmsAuthSign=5c854a87bcc8f5246f463604d4131fda-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/08e28557-f549-4a22-9faf-bae171fcbf98.png",Viasat History HD
+https://tvcdnpotok.com/111/index.m3u8?wmsAuthSign=ac2cf2b0e84ba60e67363172abdf7a74-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/f108414e-84d4-4c27-afe9-40a50dae3563.png",Travel Channel HD
+https://tvlife.live/113/index.m3u8?wmsAuthSign=faf430ff1e7cda13cbdcd2b49220d7cb-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/08e28557-f549-4a22-9faf-bae171fcbf98.png",Viasat History HD
+https://tvlife.live/111/index.m3u8?wmsAuthSign=ac2cf2b0e84ba60e67363172abdf7a74-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/0dd33b29-be1f-4518-a147-c52cca2904b5.png",Discovery Channel HD
+https://tvlife.live/520/index.m3u8?wmsAuthSign=16524afe8c7d1eb06f0815d171694af0-1791559110-671i29i56i59
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/0dd33b29-be1f-4518-a147-c52cca2904b5.png",Discovery Channel HD
+https://tvcdnpotok.com/520/index.m3u8?wmsAuthSign=16524afe8c7d1eb06f0815d171694af0-1791559110-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/f108414e-84d4-4c27-afe9-40a50dae3563.png",Travel Channel HD
+https://tvcdnpotok.com/113/index.m3u8?wmsAuthSign=faf430ff1e7cda13cbdcd2b49220d7cb-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/399aae9f-b3c7-4c00-8be6-421310a3cb93.png",Усадьба HD
+https://tvcdnpotok.com/2077/index.m3u8?wmsAuthSign=2f8d80cf263483133c92f13b3a2bf975-1791559108-671i29i56i59
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/a0c17d81-6f4b-44cd-bde2-9c0ba2f32460.png" tvg-id="NasheNovoeKino.ru",Наше новое кино HD
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/d5722f09-bbe8-47c2-a68c-a4da6c12a5b6.png",Viasat Explore
+https://tvcdnpotok.com/109/index.m3u8?wmsAuthSign=5c854a87bcc8f5246f463604d4131fda-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/d7439ca5-7745-44b2-83bd-0b7ef19e8a90.png" tvg-id="Drive.ru",Драйв HD
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/fe2cb076-f26a-443d-b9b0-b98013e8bc48.png" tvg-id="Kinosvidanie.ru",Киносвидание HD
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/75a65136-e3c3-4412-a9ee-5393afa7c4e5.png" tvg-id="Cinema.ru",Cinema
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/25db54d3-b98e-4547-85f0-cabb541cdb3a.png",Дикий
+https://tvlife.live/2079/index.m3u8?wmsAuthSign=5faef090735b4a6d37d28cc283dde95f-1791559108-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/25db54d3-b98e-4547-85f0-cabb541cdb3a.png",Дикий
+https://tvcdnpotok.com/2079/index.m3u8?wmsAuthSign=5faef090735b4a6d37d28cc283dde95f-1791559108-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/9e4d94a9-1c15-4061-be73-683ee43839c7.png",Приключения HD
+https://tvcdnpotok.com/542/index.m3u8?wmsAuthSign=fef0b87b32c0dffd94e1de385b6882d8-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/9e4d94a9-1c15-4061-be73-683ee43839c7.png",Приключения HD
+https://tvlife.live/542/index.m3u8?wmsAuthSign=fef0b87b32c0dffd94e1de385b6882d8-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/0b23e84e-fb8e-4502-8da1-be5d51a48f91.png",Дикая Рыбалка HD
+https://tvlife.live/2013/index.m3u8?wmsAuthSign=288f9333a90d072ad7f1b63d4ae58c96-1791559102-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/81c73e06-e6ba-4af3-9bf4-1d98756d2d12.png",Охота и рыбалка HD
+https://tvlife.live/538/index.m3u8?wmsAuthSign=ae955565f2bc55de4cc45a1f7a418306-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/81c73e06-e6ba-4af3-9bf4-1d98756d2d12.png",Охота и рыбалка HD
+https://tvcdnpotok.com/538/index.m3u8?wmsAuthSign=ae955565f2bc55de4cc45a1f7a418306-1791559101-671i29i56i59
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/053ba284-6b20-49e2-96ec-89ca5a133c73.png" tvg-id="DaVinci.ru",Da Vinci
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/22250c37-3967-4fb7-af55-0819cb623035.png",Дикая Охота HD
+https://tvcdnpotok.com/2014/index.m3u8?wmsAuthSign=9e5595cf89aea5e6f296a7705a893a7d-1791559102-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/0b23e84e-fb8e-4502-8da1-be5d51a48f91.png",Дикая Рыбалка HD
+https://tvcdnpotok.com/2013/index.m3u8?wmsAuthSign=288f9333a90d072ad7f1b63d4ae58c96-1791559102-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/399aae9f-b3c7-4c00-8be6-421310a3cb93.png",Усадьба HD
+https://tvlife.live/2077/index.m3u8?wmsAuthSign=2f8d80cf263483133c92f13b3a2bf975-1791559108-671i29i56i59
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/grid/6157694c-9f43-4050-8669-6fa06d345c45.png" tvg-id="FavoritTV.ro",Favorit TV
+https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/22250c37-3967-4fb7-af55-0819cb623035.png",Дикая Охота HD
+https://tvlife.live/2014/index.m3u8?wmsAuthSign=9e5595cf89aea5e6f296a7705a893a7d-1791559102-671i29i56i59
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/f05b3ce2-eb79-41e9-b59c-fcdfe2376996.png" tvg-id="vijuNature.ru",viju Nature HD
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/d7672d3a-bf9c-4038-985b-80b29a434386.png",Сарафан
+https://tvlife.live/209/index.m3u8?wmsAuthSign=19848a64e796681d8a6893cc739ed262-1791559100-671i29i56i59
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/d7672d3a-bf9c-4038-985b-80b29a434386.png",Сарафан
+https://tvcdnpotok.com/209/index.m3u8?wmsAuthSign=19848a64e796681d8a6893cc739ed262-1791559100-671i29i56i59
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/2bff4ac5-be03-44a2-a9cf-4d69f4ec17fd.png" tvg-id="India.ru",Индия
+https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/2accf090-fe29-4390-acdb-39fa232d5a3d.png" tvg-id="STARTWorld.ru",START WORLD HD
+https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/537f0cce-c26b-4075-9ffd-4c04fe010994.png" tvg-id="Kinokomedija.ru",Кинокомедия HD
+https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/d7672d3a-bf9c-4038-985b-80b29a434386.png" tvg-id="Sarafan.ru",Сарафан
+https://fs.uplink.kz/sarafan/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/attachments/daef722a-e8fd-415a-ba13-3b2a1ff16eff.png" tvg-id="Nostalgia.ru",Ностальгия
+https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/7f92b218-1d1f-4254-9bc7-a1ce496364d3.png" tvg-id="MTVClassic.us",MTV 80's
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/8966d1dc-bd14-40e2-b420-6e544d619059.png" tvg-id="KinoHit.ru",Кинохит HD
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/69c54b1f-3ca7-4a24-b485-6c05a84f915c.png" tvg-id="Kinopremyera.ru",Кинопремьера HD
+https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/grid/ff29ea81-a714-41ce-beed-0b2f9fadc5ef.png" tvg-id="NorocTV.md",Noroc TV HD
+https://media.noroc.tv/noroc/bitrate_1080p.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/b761aad7-f450-45f0-a8c1-9eec05a01e29.png" tvg-id="Kinoseriya.ru",Киносерия HD
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/155f8d7d-10e4-465e-bd42-05b97f1c2988.png" tvg-id="Bober.ru",Бобёр
+https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/1e843f97-b013-4452-bb9a-5b1fb4641374.png" tvg-id="Kinomix.ru",Киномикс HD
+https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/8966d1dc-bd14-40e2-b420-6e544d619059.png" tvg-id="KinoHit.ru",Кинохит HD
+https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/7099196f-1ff3-4f94-8a2d-e736ebea23c5.png" tvg-id="vijuExplore.ru",viju Explore HD
+https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/85f5f135-9ef6-48a0-9711-a62470840d96.png" tvg-id="RodnoeKino.ru",Родное кино
+https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://horreum.starnet.md/media/grid/365eef28-1832-436a-b73f-824b03975e36.png" tvg-id="KVNTV.ru",КВН ТВ
+https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/a0c17d81-6f4b-44cd-bde2-9c0ba2f32460.png" tvg-id="NasheNovoeKino.ru",Наше новое кино HD
+https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/86c7f8ef-a7d5-40f2-b797-d6f6ff4a104b.png" tvg-id="Kinosemja.ru",Киносемья HD
+https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/grid/1e6c9c6a-0c85-4171-9d46-4f4d7f275281.png" tvg-id="Muzhskoekino.ru",Мужское кино HD
+https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/f05b3ce2-eb79-41e9-b59c-fcdfe2376996.png" tvg-id="vijuNature.ru",viju Nature HD
+https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Documentare" tvg-logo="https://horreum.starnet.md/media/attachments/a6b6fc13-9233-4155-b1fa-6757e4e6400a.png" tvg-id="vijuHistory.ru",viju History HD
+https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Filme" tvg-logo="https://horreum.starnet.md/media/attachments/59ebf0a1-7c06-44bb-98dd-dcc6ab6cdf70.png" tvg-id="STARTAir.ru",START AIR HD
+https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Știri" tvg-logo="https://horreum.starnet.md/media/grid/ae6a3996-2532-41ef-b0cf-ca77843f0fe7.png" tvg-id="France24.fr",France 24 FR HD
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/97638acd-9750-4576-b349-7697ff3eee06.png" tvg-id="PartyMix.ro",Party Mix HD
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+#EXTINF:-1 group-title="Știri" tvg-logo="https://horreum.starnet.md/media/attachments/942415f8-223c-4cc1-83ed-f70f3e609e8e.png" tvg-id="EuronewsEnglish.fr",EuroNews ENG HD
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 group-title="Internaționale" tvg-logo="https://horreum.starnet.md/media/attachments/e992368f-a2b8-4912-a68b-78fa5872f382.png" tvg-id="FREEDOM.ua",FREEДОМ HD
+https://dash4.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 group-title="Muzică" tvg-logo="https://horreum.starnet.md/media/attachments/a6115858-3807-40ce-a4f0-64122c242e83.webp" tvg-id="RapsodiaTV.ro",Rapsodia TV HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_hq?offsetSeconds=0
+#EXTINF:-1 group-title="Internaționale" tvg-logo="https://horreum.starnet.md/media/grid/9e3d9bad-4863-4283-940a-c151fa5c747f.png" tvg-id="NationalTV.ro",Național TV
+https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 group-title="Internaționale" tvg-logo="https://horreum.starnet.md/media/grid/c0d35573-c949-426f-ba35-651e51c74dcc.png" tvg-id="National24Plus.ro",Național 24 Plus
+https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
+#EXTINF:-1 group-title="Știri" tvg-logo="https://horreum.starnet.md/media/grid/af639472-d8e2-43fd-9837-31533eedc771.png" tvg-id="BBCNews.uk",BBC World News HD
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Știri" tvg-logo="https://horreum.starnet.md/media/grid/ae6a3996-2532-41ef-b0cf-ca77843f0fe7.png" tvg-id="France24.fr",France 24 FR HD
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Știri" tvg-logo="https://horreum.starnet.md/media/attachments/8d877d4f-e729-4553-b773-269a455109cc.webp" tvg-id="PrimaNews.ro",Prima News HD
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF:-1 group-title="Știri" tvg-logo="https://horreum.starnet.md/media/grid/ae6a3996-2532-41ef-b0cf-ca77843f0fe7.png" tvg-id="France24.fr",France 24 FR HD
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Copii" tvg-logo="https://horreum.starnet.md/media/grid/7b13ae39-1eca-40ae-92b2-25ab55e00e7d.png" tvg-id="Carousel.ru",Карусель
+https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
